@@ -1,0 +1,26 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "What is a contingency fee percentage?",
+  "description": "Standard 33% pre-lawsuit, 40% if trial; deducted from settlement only.lawlinq+1",
+  "url": "https://attorneydustin.com/faq/what-is-a-contingency-fee-percentage",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What is a contingency fee percentage?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Standard 33% pre-lawsuit, 40% if trial; deducted from settlement only.lawlinq+1"
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

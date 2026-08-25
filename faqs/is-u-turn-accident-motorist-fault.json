@@ -1,0 +1,26 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "Is U-turn accident motorist fault?",
+  "description": "Must yield all traffic; safest maneuver presumption.yelp+1",
+  "url": "https://attorneydustin.com/faq/is-u-turn-accident-motorist-fault",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "Is U-turn accident motorist fault?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Must yield all traffic; safest maneuver presumption.yelp+1"
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

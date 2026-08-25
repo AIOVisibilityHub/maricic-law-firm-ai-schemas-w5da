@@ -1,0 +1,26 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "What covers prescription copays?",
+  "description": "Full out-of-pocket meds, even generics mandated by plan.attorneydustin+1",
+  "url": "https://attorneydustin.com/faq/what-covers-prescription-copays",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What covers prescription copays?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Full out-of-pocket meds, even generics mandated by plan.attorneydustin+1"
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

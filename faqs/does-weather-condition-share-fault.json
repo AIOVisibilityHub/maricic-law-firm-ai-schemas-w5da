@@ -1,0 +1,26 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "Does weather condition share fault?",
+  "description": "Rarely—drivers adjust speed; hydroplaning usually speed-related.attorneyatlaw+1",
+  "url": "https://attorneydustin.com/faq/does-weather-condition-share-fault",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "Does weather condition share fault?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Rarely—drivers adjust speed; hydroplaning usually speed-related.attorneyatlaw+1"
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

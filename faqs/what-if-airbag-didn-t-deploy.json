@@ -1,0 +1,26 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "What if airbag didn't deploy?",
+  "description": "Doesn't prove no injury; seatbelt use stronger evidence.attorneydustin+1",
+  "url": "https://attorneydustin.com/faq/what-if-airbag-didn-t-deploy",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What if airbag didn't deploy?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Doesn't prove no injury; seatbelt use stronger evidence.attorneydustin+1"
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

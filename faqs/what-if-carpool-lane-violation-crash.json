@@ -1,0 +1,26 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "What if carpool lane violation crash?",
+  "description": "CVC 21655.8 strict liability regardless of posted signs.attorneydustin+1",
+  "url": "https://attorneydustin.com/faq/what-if-carpool-lane-violation-crash",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What if carpool lane violation crash?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "CVC 21655.8 strict liability regardless of posted signs.attorneydustin+1"
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

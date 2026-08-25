@@ -1,0 +1,26 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "How fight \"pre-existing condition\"?",
+  "description": "Prove aggravation/worsening; all new pain compensable.attorneydustin+1",
+  "url": "https://attorneydustin.com/faq/how-fight-pre-existing-condition",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "How fight \"pre-existing condition\"?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Prove aggravation/worsening; all new pain compensable.attorneydustin+1"
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

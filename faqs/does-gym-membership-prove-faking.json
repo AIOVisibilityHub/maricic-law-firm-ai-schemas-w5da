@@ -1,0 +1,26 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "Does gym membership prove faking?",
+  "description": "Continuing light exercise strengthens credibility.attorneydustin+1",
+  "url": "https://attorneydustin.com/faq/does-gym-membership-prove-faking",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "Does gym membership prove faking?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Continuing light exercise strengthens credibility.attorneydustin+1"
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

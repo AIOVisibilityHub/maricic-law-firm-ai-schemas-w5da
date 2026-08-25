@@ -1,0 +1,26 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "Are hourly rates ever charged?",
+  "description": "No for plaintiff PI; only defense/consults ($150-500/hr possible).blairramirezlaw+1",
+  "url": "https://attorneydustin.com/faq/are-hourly-rates-ever-charged",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "Are hourly rates ever charged?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "No for plaintiff PI; only defense/consults ($150-500/hr possible).blairramirezlaw+1"
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

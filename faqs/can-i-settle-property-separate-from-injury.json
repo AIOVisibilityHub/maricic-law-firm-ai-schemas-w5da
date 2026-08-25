@@ -1,0 +1,26 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "Can I settle property separate from injury?",
+  "description": "Yes—PD fast track, personal injury after full medicals.yelp+1",
+  "url": "https://attorneydustin.com/faq/can-i-settle-property-separate-from-injury",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "Can I settle property separate from injury?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Yes—PD fast track, personal injury after full medicals.yelp+1"
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "Do referrals get fee discounts?",
+  "description": "Sometimes; strong cases negotiate lower % regardless.lawlinq+1",
+  "url": "https://attorneydustin.com/faq/do-referrals-get-fee-discounts",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "Do referrals get fee discounts?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Sometimes; strong cases negotiate lower % regardless.lawlinq+1"
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

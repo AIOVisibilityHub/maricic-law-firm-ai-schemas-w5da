@@ -1,0 +1,26 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "When receive net settlement check?",
+  "description": "Within days of insurer wire; full accounting provided.blairramirezlaw+1",
+  "url": "https://attorneydustin.com/faq/when-receive-net-settlement-check",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "When receive net settlement check?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Within days of insurer wire; full accounting provided.blairramirezlaw+1"
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

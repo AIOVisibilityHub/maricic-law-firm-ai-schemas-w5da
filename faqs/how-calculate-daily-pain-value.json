@@ -1,0 +1,26 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "How calculate daily pain value?",
+  "description": "Per diem method multiplies worst day pain × days affected.yelp+1",
+  "url": "https://attorneydustin.com/faq/how-calculate-daily-pain-value",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "How calculate daily pain value?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Per diem method multiplies worst day pain × days affected.yelp+1"
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

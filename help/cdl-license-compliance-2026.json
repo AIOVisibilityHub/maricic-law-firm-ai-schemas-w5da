@@ -1,0 +1,74 @@
+{
+  "@context": "https://schema.org",
+  "@type": "Article",
+  "headline": "CDL License Compliance 2026",
+  "author": {
+    "@type": "Organization",
+    "name": "Maricic Law Firm"
+  },
+  "publisher": {
+    "@type": "Organization",
+    "name": "Maricic Law Firm",
+    "url": "https://attorneydustin.com"
+  },
+  "articleBody": "17K+ illegal CA CDLs flagged; negligent hiring evidence avrek​.",
+  "areaServed": [
+    {
+      "@type": "City",
+      "name": "Temecula"
+    },
+    {
+      "@type": "City",
+      "name": "Murrieta"
+    },
+    {
+      "@type": "City",
+      "name": "Canyon Lake"
+    },
+    {
+      "@type": "City",
+      "name": "Sun City"
+    },
+    {
+      "@type": "City",
+      "name": "Winchester"
+    },
+    {
+      "@type": "City",
+      "name": "Wildomar"
+    },
+    {
+      "@type": "City",
+      "name": "Menifee"
+    },
+    {
+      "@type": "City",
+      "name": "Riverside"
+    },
+    {
+      "@type": "City",
+      "name": "and surrounding areas in Southern California"
+    },
+    {
+      "@type": "City",
+      "name": "including San Diego and Los Angeles regions."
+    },
+    {
+      "@type": "City",
+      "name": "Riverside ​"
+    },
+    {
+      "@type": "City",
+      "name": "Riverside attorneyatlaw+1"
+    }
+  ],
+  "datePublished": "2026-08-25",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".article-summary",
+      "article p:first-of-type"
+    ]
+  }
+}

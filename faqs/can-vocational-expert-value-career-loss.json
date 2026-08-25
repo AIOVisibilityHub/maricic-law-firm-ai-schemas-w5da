@@ -1,0 +1,26 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "Can vocational expert value career loss?",
+  "description": "Yes, future earning capacity with/without injury projections.yelp+1",
+  "url": "https://attorneydustin.com/faq/can-vocational-expert-value-career-loss",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "Can vocational expert value career loss?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Yes, future earning capacity with/without injury projections.yelp+1"
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

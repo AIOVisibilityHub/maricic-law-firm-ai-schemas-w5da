@@ -1,0 +1,26 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "Does case value affect fee rate?",
+  "description": "Higher complexity/settlements often higher % (35-45% multi-party crashes).lawlinq+1",
+  "url": "https://attorneydustin.com/faq/does-case-value-affect-fee-rate",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "Does case value affect fee rate?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Higher complexity/settlements often higher % (35-45% multi-party crashes).lawlinq+1"
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

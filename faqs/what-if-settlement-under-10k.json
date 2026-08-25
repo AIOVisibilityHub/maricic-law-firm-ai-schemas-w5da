@@ -1,0 +1,26 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "What if settlement under $10K?",
+  "description": "Still contingency; minimum viable cases accepted—no hourly billing.mesrianilaw+1",
+  "url": "https://attorneydustin.com/faq/what-if-settlement-under-10k",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What if settlement under $10K?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Still contingency; minimum viable cases accepted—no hourly billing.mesrianilaw+1"
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

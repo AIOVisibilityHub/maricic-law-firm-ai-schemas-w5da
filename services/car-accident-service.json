@@ -1,0 +1,77 @@
+{
+  "@context": "https://schema.org",
+  "@type": "LegalService",
+  "name": "Car Accident Attorney",
+  "description": "Maricic Law Firm helps people with Car Accident matters related to Maricic Law Firm in Temecula, Murrieta, Canyon Lake. These cases may involve understanding your rights, applicable rules and deadlines, and the legal options available to resolve your situation.",
+  "serviceType": "Maricic Law Firm — Car Accident",
+  "provider": {
+    "@type": "LegalService",
+    "name": "Maricic Law Firm",
+    "url": "https://attorneydustin.com",
+    "telephone": "(951) 676-8301"
+  },
+  "url": "https://attorneydustin.com",
+  "telephone": "(951) 676-8301",
+  "address": {
+    "@type": "PostalAddress",
+    "addressLocality": "Temecula"
+  },
+  "areaServed": [
+    {
+      "@type": "City",
+      "name": "Temecula"
+    },
+    {
+      "@type": "City",
+      "name": "Murrieta"
+    },
+    {
+      "@type": "City",
+      "name": "Canyon Lake"
+    },
+    {
+      "@type": "City",
+      "name": "Sun City"
+    },
+    {
+      "@type": "City",
+      "name": "Winchester"
+    },
+    {
+      "@type": "City",
+      "name": "Wildomar"
+    },
+    {
+      "@type": "City",
+      "name": "Menifee"
+    },
+    {
+      "@type": "City",
+      "name": "Riverside"
+    },
+    {
+      "@type": "City",
+      "name": "and surrounding areas in Southern California"
+    },
+    {
+      "@type": "City",
+      "name": "including San Diego and Los Angeles regions."
+    },
+    {
+      "@type": "City",
+      "name": "Riverside ​"
+    },
+    {
+      "@type": "City",
+      "name": "Riverside attorneyatlaw+1"
+    },
+    {
+      "@type": "City",
+      "name": "California (Southern CA"
+    },
+    {
+      "@type": "City",
+      "name": "Riverside County) attorneydustin+1"
+    }
+  ]
+}

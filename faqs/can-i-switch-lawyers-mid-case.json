@@ -1,0 +1,26 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "Can I switch lawyers mid-case?",
+  "description": "Yes—new firm takes over; fees prorated by work done.lawlinq+1",
+  "url": "https://attorneydustin.com/faq/can-i-switch-lawyers-mid-case",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "Can I switch lawyers mid-case?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Yes—new firm takes over; fees prorated by work done.lawlinq+1"
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "What if driver flees scene?",
+  "description": "Hit-run coverage + felony charges aid civil proof.attorneydustin+1",
+  "url": "https://attorneydustin.com/faq/what-if-driver-flees-scene",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What if driver flees scene?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Hit-run coverage + felony charges aid civil proof.attorneydustin+1"
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

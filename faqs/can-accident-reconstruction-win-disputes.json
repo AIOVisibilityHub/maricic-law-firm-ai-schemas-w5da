@@ -1,0 +1,26 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "Can accident reconstruction win disputes?",
+  "description": "Physics proves impossible scenarios; speeds fault allocation.yelp+1",
+  "url": "https://attorneydustin.com/faq/can-accident-reconstruction-win-disputes",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "Can accident reconstruction win disputes?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Physics proves impossible scenarios; speeds fault allocation.yelp+1"
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}
