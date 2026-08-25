@@ -1,0 +1,26 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "Can I claim if riding on sidewalk?",
+  "description": "Local rules vary; sidewalk use may share fault if prohibited—driver still primary if failure to yield.mauslawfirm+1",
+  "url": "https://attorneydustin.com/faq/can-i-claim-if-riding-on-sidewalk",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "Can I claim if riding on sidewalk?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Local rules vary; sidewalk use may share fault if prohibited—driver still primary if failure to yield.mauslawfirm+1"
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

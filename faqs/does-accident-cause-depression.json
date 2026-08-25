@@ -1,0 +1,26 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "Does accident cause depression?",
+  "description": "Yes, compensable emotional distress with psych evaluation.yelp+1",
+  "url": "https://attorneydustin.com/faq/does-accident-cause-depression",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "Does accident cause depression?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Yes, compensable emotional distress with psych evaluation.yelp+1"
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

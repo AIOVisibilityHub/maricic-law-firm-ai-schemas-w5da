@@ -1,0 +1,26 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "Can truck hit settle property fast?",
+  "description": "Yes, commercial policies pay promptly; we coordinate repairs.attorneydustin+1",
+  "url": "https://attorneydustin.com/faq/can-truck-hit-settle-property-fast",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "Can truck hit settle property fast?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Yes, commercial policies pay promptly; we coordinate repairs.attorneydustin+1"
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

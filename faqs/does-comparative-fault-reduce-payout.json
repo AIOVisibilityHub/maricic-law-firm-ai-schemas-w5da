@@ -1,0 +1,26 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "Does comparative fault reduce payout?",
+  "description": "Yes, by deceased's fault percentage only—not survivors'.nolo+1",
+  "url": "https://attorneydustin.com/faq/does-comparative-fault-reduce-payout",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "Does comparative fault reduce payout?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Yes, by deceased's fault percentage only—not survivors'.nolo+1"
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

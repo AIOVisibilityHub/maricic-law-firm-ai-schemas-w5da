@@ -1,0 +1,26 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "Do ELD logs prove violations?",
+  "description": "Electronic logging devices show HOS falsification—key evidence.attorneydustin+1",
+  "url": "https://attorneydustin.com/faq/do-eld-logs-prove-violations",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "Do ELD logs prove violations?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Electronic logging devices show HOS falsification—key evidence.attorneydustin+1"
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

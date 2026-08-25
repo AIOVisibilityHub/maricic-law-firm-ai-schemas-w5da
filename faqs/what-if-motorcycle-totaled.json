@@ -1,0 +1,26 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "What if motorcycle totaled?",
+  "description": "Full replacement value plus injuries; we negotiate totals aggressively.attorneyatlaw+1",
+  "url": "https://attorneydustin.com/faq/what-if-motorcycle-totaled",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What if motorcycle totaled?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Full replacement value plus injuries; we negotiate totals aggressively.attorneyatlaw+1"
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

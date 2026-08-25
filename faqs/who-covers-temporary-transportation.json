@@ -1,0 +1,26 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "Who covers temporary transportation?",
+  "description": "Rideshares, taxis during rental gaps; all recoverable.attorneydustin+1",
+  "url": "https://attorneydustin.com/faq/who-covers-temporary-transportation",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "Who covers temporary transportation?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Rideshares, taxis during rental gaps; all recoverable.attorneydustin+1"
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

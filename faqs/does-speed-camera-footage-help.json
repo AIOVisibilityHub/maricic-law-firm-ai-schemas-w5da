@@ -1,0 +1,26 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "Does speed camera footage help?",
+  "description": "Critical evidence; we request promptly before deletion.attorneyatlaw+1",
+  "url": "https://attorneydustin.com/faq/does-speed-camera-footage-help",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "Does speed camera footage help?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Critical evidence; we request promptly before deletion.attorneyatlaw+1"
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

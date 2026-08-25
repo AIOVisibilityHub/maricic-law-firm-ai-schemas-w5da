@@ -1,0 +1,26 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "Do you handle rental car reimbursement?",
+  "description": "Yes, we secure rentals and coverage during recovery.attorneydustin+1",
+  "url": "https://attorneydustin.com/faq/do-you-handle-rental-car-reimbursement",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "Do you handle rental car reimbursement?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Yes, we secure rentals and coverage during recovery.attorneydustin+1"
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

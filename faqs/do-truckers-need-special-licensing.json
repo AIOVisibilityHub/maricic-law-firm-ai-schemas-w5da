@@ -1,0 +1,26 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "Do truckers need special licensing?",
+  "description": "CDL + endorsements; violations strengthen negligence.attorneydustin+1",
+  "url": "https://attorneydustin.com/faq/do-truckers-need-special-licensing",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "Do truckers need special licensing?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "CDL + endorsements; violations strengthen negligence.attorneydustin+1"
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

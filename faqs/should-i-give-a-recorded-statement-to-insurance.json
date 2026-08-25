@@ -1,0 +1,26 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "Should I give a recorded statement to insurance?",
+  "description": "No, it can be used against you; let us handle all insurer contact.attorneydustin+1",
+  "url": "https://attorneydustin.com/faq/should-i-give-a-recorded-statement-to-insurance",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "Should I give a recorded statement to insurance?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "No, it can be used against you; let us handle all insurer contact.attorneydustin+1"
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

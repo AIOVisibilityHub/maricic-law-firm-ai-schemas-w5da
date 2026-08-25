@@ -1,0 +1,26 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "Do liens reduce wrongful death?",
+  "description": "Medical/Medi-Cal liens negotiable; we minimize impacts.habbaslaw+1",
+  "url": "https://attorneydustin.com/faq/do-liens-reduce-wrongful-death",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "Do liens reduce wrongful death?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Medical/Medi-Cal liens negotiable; we minimize impacts.habbaslaw+1"
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

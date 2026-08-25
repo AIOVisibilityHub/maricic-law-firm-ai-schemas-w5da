@@ -1,0 +1,26 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "Can I claim road hazard damage?",
+  "description": "Yes against CalTrans if unrepaired pothole/oil; 6-month claim filing required.attorneydustin+1",
+  "url": "https://attorneydustin.com/faq/can-i-claim-road-hazard-damage",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "Can I claim road hazard damage?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Yes against CalTrans if unrepaired pothole/oil; 6-month claim filing required.attorneydustin+1"
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

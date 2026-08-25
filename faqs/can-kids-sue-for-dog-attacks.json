@@ -1,0 +1,26 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "Can kids sue for dog attacks?",
+  "description": "Yes, higher pain awards often; parents claim medicals.attorneydustin+1",
+  "url": "https://attorneydustin.com/faq/can-kids-sue-for-dog-attacks",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "Can kids sue for dog attacks?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Yes, higher pain awards often; parents claim medicals.attorneydustin+1"
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

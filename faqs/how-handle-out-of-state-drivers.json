@@ -1,0 +1,26 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "How handle out-of-state drivers?",
+  "description": "Full access to their insurance; we coordinate nationwide.attorneydustin+1",
+  "url": "https://attorneydustin.com/faq/how-handle-out-of-state-drivers",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "How handle out-of-state drivers?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Full access to their insurance; we coordinate nationwide.attorneydustin+1"
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

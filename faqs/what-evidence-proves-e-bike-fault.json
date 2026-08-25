@@ -1,0 +1,26 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "What evidence proves e-bike fault?",
+  "description": "Bike cams, maintenance logs, witness statements, police reports showing defects or driver error.mauslawfirm+1",
+  "url": "https://attorneydustin.com/faq/what-evidence-proves-e-bike-fault",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What evidence proves e-bike fault?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Bike cams, maintenance logs, witness statements, police reports showing defects or driver error.mauslawfirm+1"
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

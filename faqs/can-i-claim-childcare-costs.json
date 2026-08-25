@@ -1,0 +1,26 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "Can I claim childcare costs?",
+  "description": "Yes, if injury prevents normal parenting duties.attorneydustin+1",
+  "url": "https://attorneydustin.com/faq/can-i-claim-childcare-costs",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "Can I claim childcare costs?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Yes, if injury prevents normal parenting duties.attorneydustin+1"
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

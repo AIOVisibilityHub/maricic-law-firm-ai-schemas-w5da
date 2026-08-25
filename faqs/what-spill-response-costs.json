@@ -1,0 +1,26 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "What spill response costs?",
+  "description": "Hazmat cleanup + business interruption recoverable.attorneydustin+1",
+  "url": "https://attorneydustin.com/faq/what-spill-response-costs",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What spill response costs?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Hazmat cleanup + business interruption recoverable.attorneydustin+1"
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

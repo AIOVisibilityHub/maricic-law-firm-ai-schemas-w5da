@@ -1,0 +1,26 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "Can cities ban specific breeds?",
+  "description": "Local ordinances vary; doesn't eliminate owner liability.avvo+1",
+  "url": "https://attorneydustin.com/faq/can-cities-ban-specific-breeds",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "Can cities ban specific breeds?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Local ordinances vary; doesn't eliminate owner liability.avvo+1"
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

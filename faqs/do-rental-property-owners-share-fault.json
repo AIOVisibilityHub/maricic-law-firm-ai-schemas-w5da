@@ -1,0 +1,26 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "Do rental property owners share fault?",
+  "description": "Yes if knew of dangerous dog and failed to act.attorneydustin+1",
+  "url": "https://attorneydustin.com/faq/do-rental-property-owners-share-fault",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "Do rental property owners share fault?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Yes if knew of dangerous dog and failed to act.attorneydustin+1"
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

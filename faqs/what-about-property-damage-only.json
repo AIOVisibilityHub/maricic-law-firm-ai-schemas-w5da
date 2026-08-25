@@ -1,0 +1,26 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "What about property damage only?",
+  "description": "We handle vehicle claims alongside injuries when applicable.attorneydustin+1",
+  "url": "https://attorneydustin.com/faq/what-about-property-damage-only",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What about property damage only?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "We handle vehicle claims alongside injuries when applicable.attorneydustin+1"
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

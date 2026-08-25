@@ -1,0 +1,26 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "Does accepting medical payment hurt case?",
+  "description": "MedPay advances treatment but admits no liability; we coordinate carefully.attorneydustin+1",
+  "url": "https://attorneydustin.com/faq/does-accepting-medical-payment-hurt-case",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "Does accepting medical payment hurt case?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "MedPay advances treatment but admits no liability; we coordinate carefully.attorneydustin+1"
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

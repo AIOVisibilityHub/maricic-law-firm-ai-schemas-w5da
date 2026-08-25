@@ -1,0 +1,26 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "Do you sue delivery drivers?",
+  "description": "Yes, Amazon/Doordash carriers have commercial policies we target.avvo+1",
+  "url": "https://attorneydustin.com/faq/do-you-sue-delivery-drivers",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "Do you sue delivery drivers?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Yes, Amazon/Doordash carriers have commercial policies we target.avvo+1"
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

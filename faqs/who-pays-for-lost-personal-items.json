@@ -1,0 +1,26 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "Who pays for lost personal items?",
+  "description": "Contents coverage up to limits; we maximize inventories.attorneyatlaw+1",
+  "url": "https://attorneydustin.com/faq/who-pays-for-lost-personal-items",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "Who pays for lost personal items?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Contents coverage up to limits; we maximize inventories.attorneyatlaw+1"
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "Can I choose my repair shop?",
+  "description": "Absolutely; insurer can't dictate—your vehicle, your choice.attorneydustin+1",
+  "url": "https://attorneydustin.com/faq/can-i-choose-my-repair-shop",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "Can I choose my repair shop?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Absolutely; insurer can't dictate—your vehicle, your choice.attorneydustin+1"
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

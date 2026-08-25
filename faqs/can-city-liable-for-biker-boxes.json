@@ -1,0 +1,26 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "Can city liable for biker boxes?",
+  "description": "Yes if obstructing lane without signs; code violations key.attorneydustin+1",
+  "url": "https://attorneydustin.com/faq/can-city-liable-for-biker-boxes",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "Can city liable for biker boxes?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Yes if obstructing lane without signs; code violations key.attorneydustin+1"
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

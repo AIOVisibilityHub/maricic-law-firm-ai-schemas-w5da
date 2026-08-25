@@ -1,0 +1,26 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "What if employer vehicle involved?",
+  "description": "Workers comp + third-party suit; dual recovery possible.attorneydustin+1",
+  "url": "https://attorneydustin.com/faq/what-if-employer-vehicle-involved",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What if employer vehicle involved?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Workers comp + third-party suit; dual recovery possible.attorneydustin+1"
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

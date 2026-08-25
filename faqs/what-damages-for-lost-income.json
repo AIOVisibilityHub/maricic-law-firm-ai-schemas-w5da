@@ -1,0 +1,26 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "What damages for lost income?",
+  "description": "Future earnings deceased would provide family, minus personal expenses.nolo+1",
+  "url": "https://attorneydustin.com/faq/what-damages-for-lost-income",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What damages for lost income?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Future earnings deceased would provide family, minus personal expenses.nolo+1"
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

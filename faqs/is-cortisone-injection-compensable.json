@@ -1,0 +1,26 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "Is cortisone injection compensable?",
+  "description": "Absolutely, all reasonable treatments reduce future bills too.attorneyatlaw+1",
+  "url": "https://attorneydustin.com/faq/is-cortisone-injection-compensable",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "Is cortisone injection compensable?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Absolutely, all reasonable treatments reduce future bills too.attorneyatlaw+1"
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

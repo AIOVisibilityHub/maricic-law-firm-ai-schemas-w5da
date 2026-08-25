@@ -1,0 +1,26 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "What about household services loss?",
+  "description": "Recoverable in settlements for chores/family help you can't do.attorneydustin+1",
+  "url": "https://attorneydustin.com/faq/what-about-household-services-loss",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What about household services loss?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Recoverable in settlements for chores/family help you can't do.attorneydustin+1"
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

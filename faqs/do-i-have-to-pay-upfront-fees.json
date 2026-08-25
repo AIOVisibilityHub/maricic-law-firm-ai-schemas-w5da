@@ -1,0 +1,26 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "Do I have to pay upfront fees?",
+  "description": "No upfront fees; you pay nothing unless we win your case. Free consultations available 24/7. attorneydustin+2",
+  "url": "https://attorneydustin.com/faq/do-i-have-to-pay-upfront-fees",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "Do I have to pay upfront fees?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "No upfront fees; you pay nothing unless we win your case. Free consultations available 24/7. attorneydustin+2"
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

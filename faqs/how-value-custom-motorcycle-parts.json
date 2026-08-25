@@ -1,0 +1,26 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "How value custom motorcycle parts?",
+  "description": "Receipts, photos, appraisals for choppers/special builds.attorneydustin+1",
+  "url": "https://attorneydustin.com/faq/how-value-custom-motorcycle-parts",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "How value custom motorcycle parts?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Receipts, photos, appraisals for choppers/special builds.attorneydustin+1"
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "Is neck brace use held against me?",
+  "description": "No, proves injury seriousness; insurers can't penalize treatment.attorneyatlaw+1",
+  "url": "https://attorneydustin.com/faq/is-neck-brace-use-held-against-me",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "Is neck brace use held against me?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "No, proves injury seriousness; insurers can't penalize treatment.attorneyatlaw+1"
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

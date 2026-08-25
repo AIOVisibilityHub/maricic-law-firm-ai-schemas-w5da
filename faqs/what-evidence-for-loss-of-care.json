@@ -1,0 +1,26 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "What evidence for loss of care?",
+  "description": "Family testimony, school records showing guidance provided.habbaslaw+1",
+  "url": "https://attorneydustin.com/faq/what-evidence-for-loss-of-care",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What evidence for loss of care?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Family testimony, school records showing guidance provided.habbaslaw+1"
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

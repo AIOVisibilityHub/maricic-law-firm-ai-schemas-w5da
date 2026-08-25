@@ -1,0 +1,26 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "Who liable in truck underride crashes?",
+  "description": "Trucking firm often; FMCSA violations strengthen cases—we investigate logs/black boxes.avvo+1",
+  "url": "https://attorneydustin.com/faq/who-liable-in-truck-underride-crashes",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "Who liable in truck underride crashes?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Trucking firm often; FMCSA violations strengthen cases—we investigate logs/black boxes.avvo+1"
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

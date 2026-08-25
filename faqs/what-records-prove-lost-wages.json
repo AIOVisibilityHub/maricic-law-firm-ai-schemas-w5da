@@ -1,0 +1,26 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "What records prove lost wages?",
+  "description": "Bite photos, work excuses, employer statements.attorneydustin+1",
+  "url": "https://attorneydustin.com/faq/what-records-prove-lost-wages",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What records prove lost wages?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Bite photos, work excuses, employer statements.attorneydustin+1"
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

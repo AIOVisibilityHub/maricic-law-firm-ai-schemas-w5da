@@ -1,0 +1,26 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "Can I settle before medical end?",
+  "description": "Possible but risky; we advise full treatment first.attorneydustin+1",
+  "url": "https://attorneydustin.com/faq/can-i-settle-before-medical-end",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "Can I settle before medical end?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Possible but risky; we advise full treatment first.attorneydustin+1"
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

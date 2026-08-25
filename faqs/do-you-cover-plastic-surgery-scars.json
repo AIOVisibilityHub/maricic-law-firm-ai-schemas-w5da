@@ -1,0 +1,26 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "Do you cover plastic surgery scars?",
+  "description": "Yes, future medicals including cosmetics if accident-related.attorneydustin+1",
+  "url": "https://attorneydustin.com/faq/do-you-cover-plastic-surgery-scars",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "Do you cover plastic surgery scars?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Yes, future medicals including cosmetics if accident-related.attorneydustin+1"
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "What if pain radiates to limbs?",
+  "description": "Nerve damage claims strong with EMGs/nerve studies.yelp+1",
+  "url": "https://attorneydustin.com/faq/what-if-pain-radiates-to-limbs",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What if pain radiates to limbs?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Nerve damage claims strong with EMGs/nerve studies.yelp+1"
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

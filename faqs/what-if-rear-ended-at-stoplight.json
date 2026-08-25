@@ -1,0 +1,26 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "What if rear-ended at stoplight?",
+  "description": "Presumption of other driver's fault; we prove 100% liability.attorneydustin+1",
+  "url": "https://attorneydustin.com/faq/what-if-rear-ended-at-stoplight",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What if rear-ended at stoplight?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Presumption of other driver's fault; we prove 100% liability.attorneydustin+1"
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

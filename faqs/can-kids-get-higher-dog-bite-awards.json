@@ -1,0 +1,26 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "Can kids get higher dog bite awards?",
+  "description": "Often yes—severe emotional trauma + future therapy costs.attorneydustin+1",
+  "url": "https://attorneydustin.com/faq/can-kids-get-higher-dog-bite-awards",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "Can kids get higher dog bite awards?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Often yes—severe emotional trauma + future therapy costs.attorneydustin+1"
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

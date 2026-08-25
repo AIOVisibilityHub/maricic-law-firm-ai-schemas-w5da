@@ -1,0 +1,26 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "How prove low-impact crash injuries?",
+  "description": "ER records, MRIs, consistent therapy overcome \"no damage, no injury\" defense.yelp+1",
+  "url": "https://attorneydustin.com/faq/how-prove-low-impact-crash-injuries",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "How prove low-impact crash injuries?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "ER records, MRIs, consistent therapy overcome \"no damage, no injury\" defense.yelp+1"
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

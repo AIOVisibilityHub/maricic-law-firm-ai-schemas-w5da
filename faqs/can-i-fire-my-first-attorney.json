@@ -1,0 +1,26 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "Can I fire my first attorney?",
+  "description": "Yes, anytime; switch to us for direct attorney handling and better results.attorneydustin+1",
+  "url": "https://attorneydustin.com/faq/can-i-fire-my-first-attorney",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "Can I fire my first attorney?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Yes, anytime; switch to us for direct attorney handling and better results.attorneydustin+1"
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "Can you help with car accident medical bills?",
+  "description": "Yes, we negotiate bills down significantly (e.g., to 1/10th) and handle rentals/claims for full recovery. attorneydustin+1",
+  "url": "https://attorneydustin.com/faq/can-you-help-with-car-accident-medical-bills",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "Can you help with car accident medical bills?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Yes, we negotiate bills down significantly (e.g., to 1/10th) and handle rentals/claims for full recovery. attorneydustin+1"
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

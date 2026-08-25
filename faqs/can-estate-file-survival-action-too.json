@@ -1,0 +1,26 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "Can estate file survival action too?",
+  "description": "Yes parallel—covers decedent's medicals/pain; wrongful death for survivors' loss.nolo+1",
+  "url": "https://attorneydustin.com/faq/can-estate-file-survival-action-too",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "Can estate file survival action too?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Yes parallel—covers decedent's medicals/pain; wrongful death for survivors' loss.nolo+1"
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

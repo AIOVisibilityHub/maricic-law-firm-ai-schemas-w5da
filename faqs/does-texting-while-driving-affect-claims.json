@@ -1,0 +1,26 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "Does texting while driving affect claims?",
+  "description": "Yes, proves negligence; we subpoena phone records.attorneyatlaw+1",
+  "url": "https://attorneydustin.com/faq/does-texting-while-driving-affect-claims",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "Does texting while driving affect claims?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Yes, proves negligence; we subpoena phone records.attorneyatlaw+1"
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

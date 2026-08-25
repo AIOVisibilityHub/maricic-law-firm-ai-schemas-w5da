@@ -1,0 +1,26 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "Is gravel shoulder crash compensable?",
+  "description": "Motorist edging biker off road = negligence per se.avvo+1",
+  "url": "https://attorneydustin.com/faq/is-gravel-shoulder-crash-compensable",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "Is gravel shoulder crash compensable?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Motorist edging biker off road = negligence per se.avvo+1"
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

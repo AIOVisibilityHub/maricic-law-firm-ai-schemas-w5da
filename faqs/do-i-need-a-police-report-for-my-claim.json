@@ -1,0 +1,26 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "Do I need a police report for my claim?",
+  "description": "Yes, it proves fault; we obtain copies and use them against insurers.attorneydustin+1",
+  "url": "https://attorneydustin.com/faq/do-i-need-a-police-report-for-my-claim",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "Do I need a police report for my claim?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Yes, it proves fault; we obtain copies and use them against insurers.attorneydustin+1"
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "Is mediation required before trial?",
+  "description": "Often insurer-offered; we only accept fair offers.attorneyatlaw+1",
+  "url": "https://attorneydustin.com/faq/is-mediation-required-before-trial",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "Is mediation required before trial?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Often insurer-offered; we only accept fair offers.attorneyatlaw+1"
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

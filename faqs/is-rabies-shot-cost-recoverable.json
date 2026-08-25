@@ -1,0 +1,26 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "Is rabies shot cost recoverable?",
+  "description": "Absolutely, all immediate treatments included.attorneyatlaw+1",
+  "url": "https://attorneydustin.com/faq/is-rabies-shot-cost-recoverable",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "Is rabies shot cost recoverable?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Absolutely, all immediate treatments included.attorneyatlaw+1"
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

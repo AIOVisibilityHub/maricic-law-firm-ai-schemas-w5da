@@ -1,0 +1,26 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "Can I get Uber/Lyft during car repair?",
+  "description": "Yes, rideshare reimbursement common; we secure it.avvo+1",
+  "url": "https://attorneydustin.com/faq/can-i-get-uber-lyft-during-car-repair",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "Can I get Uber/Lyft during car repair?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Yes, rideshare reimbursement common; we secure it.avvo+1"
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

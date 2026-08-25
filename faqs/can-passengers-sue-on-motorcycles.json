@@ -1,0 +1,26 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "Can passengers sue on motorcycles?",
+  "description": "Yes, helmeted or not; driver liability separate.attorneydustin+1",
+  "url": "https://attorneydustin.com/faq/can-passengers-sue-on-motorcycles",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "Can passengers sue on motorcycles?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Yes, helmeted or not; driver liability separate.attorneydustin+1"
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

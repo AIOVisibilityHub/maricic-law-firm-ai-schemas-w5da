@@ -1,0 +1,26 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "What about dog attack scarring?",
+  "description": "Future plastic surgery + permanent disfigurement damages.attorneydustin+1",
+  "url": "https://attorneydustin.com/faq/what-about-dog-attack-scarring",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What about dog attack scarring?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Future plastic surgery + permanent disfigurement damages.attorneydustin+1"
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

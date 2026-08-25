@@ -1,0 +1,26 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "Can passengers sue in bike crashes?",
+  "description": "Yes, against at-fault driver regardless of bike relationship.attorneydustin+1",
+  "url": "https://attorneydustin.com/faq/can-passengers-sue-in-bike-crashes",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "Can passengers sue in bike crashes?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Yes, against at-fault driver regardless of bike relationship.attorneydustin+1"
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

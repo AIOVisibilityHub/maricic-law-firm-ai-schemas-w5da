@@ -1,0 +1,26 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "What black box data from bikes?",
+  "description": "Some models record speed/lean; we subpoena against cars.attorneydustin+1",
+  "url": "https://attorneydustin.com/faq/what-black-box-data-from-bikes",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What black box data from bikes?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Some models record speed/lean; we subpoena against cars.attorneydustin+1"
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

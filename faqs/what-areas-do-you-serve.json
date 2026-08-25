@@ -1,0 +1,26 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "What areas do you serve?",
+  "description": "Temecula, Murrieta, Winchester, Wildomar, Menifee, Riverside, and surrounding Southern California areas. attorneydustin+2",
+  "url": "https://attorneydustin.com/faq/what-areas-do-you-serve",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What areas do you serve?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Temecula, Murrieta, Winchester, Wildomar, Menifee, Riverside, and surrounding Southern California areas. attorneydustin+2"
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

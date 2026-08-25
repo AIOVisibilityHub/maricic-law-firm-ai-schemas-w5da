@@ -1,0 +1,26 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "Is lane splitting legal in motorcycle claims?",
+  "description": "Yes if safe (AB51); unsafe splitting shares fault—we prove motorist failure to yield.attorneydustin+1",
+  "url": "https://attorneydustin.com/faq/is-lane-splitting-legal-in-motorcycle-claims",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "Is lane splitting legal in motorcycle claims?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Yes if safe (AB51); unsafe splitting shares fault—we prove motorist failure to yield.attorneydustin+1"
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "Can kids under 16 ride Class 3?",
+  "description": "No, age limits apply; parental negligence possible.thelaytonlawfirm+1",
+  "url": "https://attorneydustin.com/faq/can-kids-under-16-ride-class-3",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "Can kids under 16 ride Class 3?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "No, age limits apply; parental negligence possible.thelaytonlawfirm+1"
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

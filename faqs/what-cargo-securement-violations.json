@@ -1,0 +1,26 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "What cargo securement violations?",
+  "description": "FMCSA tie-down rules; shifting loads = company fault.avvo+1",
+  "url": "https://attorneydustin.com/faq/what-cargo-securement-violations",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What cargo securement violations?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "FMCSA tie-down rules; shifting loads = company fault.avvo+1"
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

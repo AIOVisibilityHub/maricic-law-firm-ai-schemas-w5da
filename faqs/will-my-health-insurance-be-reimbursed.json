@@ -1,0 +1,26 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "Will my health insurance be reimbursed?",
+  "description": "Yes, via liens; we negotiate reductions so you keep more of settlement.attorneydustin+1",
+  "url": "https://attorneydustin.com/faq/will-my-health-insurance-be-reimbursed",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "Will my health insurance be reimbursed?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Yes, via liens; we negotiate reductions so you keep more of settlement.attorneydustin+1"
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "What if dooring by parked car?",
+  "description": "Driver 100% liable for failing to check mirrors before opening door.mauslawfirm+1",
+  "url": "https://attorneydustin.com/faq/what-if-dooring-by-parked-car",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What if dooring by parked car?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Driver 100% liable for failing to check mirrors before opening door.mauslawfirm+1"
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

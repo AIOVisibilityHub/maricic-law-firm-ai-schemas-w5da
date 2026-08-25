@@ -1,0 +1,26 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "How long do I have to file a personal injury claim?",
+  "description": "California statute of limitations is generally 2 years from injury date; contact us immediately for evaluation. avvo​",
+  "url": "https://attorneydustin.com/faq/how-long-do-i-have-to-file-a-personal-injury-claim",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "How long do I have to file a personal injury claim?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "California statute of limitations is generally 2 years from injury date; contact us immediately for evaluation. avvo​"
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

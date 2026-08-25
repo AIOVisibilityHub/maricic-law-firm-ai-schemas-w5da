@@ -1,0 +1,26 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "Does visibility vest affect claims?",
+  "description": "Conspicuity gear strengthens case against \"saw you\" defenses.attorneydustin+1",
+  "url": "https://attorneydustin.com/faq/does-visibility-vest-affect-claims",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "Does visibility vest affect claims?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Conspicuity gear strengthens case against \"saw you\" defenses.attorneydustin+1"
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "What if criminal case pending?",
+  "description": "Civil proceeds independently; conviction aids proof.habbaslaw+1",
+  "url": "https://attorneydustin.com/faq/what-if-criminal-case-pending",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What if criminal case pending?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Civil proceeds independently; conviction aids proof.habbaslaw+1"
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

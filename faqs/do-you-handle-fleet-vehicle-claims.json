@@ -1,0 +1,26 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "Do you handle fleet vehicle claims?",
+  "description": "Yes, company cars/trucks; we target business policies.attorneydustin+1",
+  "url": "https://attorneydustin.com/faq/do-you-handle-fleet-vehicle-claims",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "Do you handle fleet vehicle claims?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Yes, company cars/trucks; we target business policies.attorneydustin+1"
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "What covers rental car damage?",
+  "description": "Your collision coverage or at-fault driver; we pursue both.attorneydustin+1",
+  "url": "https://attorneydustin.com/faq/what-covers-rental-car-damage",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What covers rental car damage?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Your collision coverage or at-fault driver; we pursue both.attorneydustin+1"
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

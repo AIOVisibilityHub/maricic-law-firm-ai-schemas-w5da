@@ -1,0 +1,26 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "Does prior tickets hurt rider claims?",
+  "description": "No direct impact; focuses on crash moment negligence.attorneydustin+1",
+  "url": "https://attorneydustin.com/faq/does-prior-tickets-hurt-rider-claims",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "Does prior tickets hurt rider claims?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "No direct impact; focuses on crash moment negligence.attorneydustin+1"
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

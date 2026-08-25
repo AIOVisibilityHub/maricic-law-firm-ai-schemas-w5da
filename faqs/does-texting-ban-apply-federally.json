@@ -1,0 +1,26 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "Does texting ban apply federally?",
+  "description": "Yes while operating; phone records subpoenaed.avvo+1",
+  "url": "https://attorneydustin.com/faq/does-texting-ban-apply-federally",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "Does texting ban apply federally?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Yes while operating; phone records subpoenaed.avvo+1"
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

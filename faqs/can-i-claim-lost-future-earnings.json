@@ -1,0 +1,26 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "Can I claim lost future earnings?",
+  "description": "Yes, via experts on career impact and life expectancy.attorneydustin+1",
+  "url": "https://attorneydustin.com/faq/can-i-claim-lost-future-earnings",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "Can I claim lost future earnings?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Yes, via experts on career impact and life expectancy.attorneydustin+1"
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "Can I claim emotional trauma?",
+  "description": "Yes, PTSD/anxiety via psych records if accident-linked.attorneydustin+1",
+  "url": "https://attorneydustin.com/faq/can-i-claim-emotional-trauma",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "Can I claim emotional trauma?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Yes, PTSD/anxiety via psych records if accident-linked.attorneydustin+1"
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

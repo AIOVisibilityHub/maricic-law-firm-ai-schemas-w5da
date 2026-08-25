@@ -1,0 +1,26 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "What's the time limit for wrongful death?",
+  "description": "2 years from death date; 6 months for government defendants.habbaslaw+2",
+  "url": "https://attorneydustin.com/faq/what-s-the-time-limit-for-wrongful-death",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What's the time limit for wrongful death?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "2 years from death date; 6 months for government defendants.habbaslaw+2"
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

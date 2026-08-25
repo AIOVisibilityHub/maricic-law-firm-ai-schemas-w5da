@@ -1,0 +1,26 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "What if trucker falls asleep?",
+  "description": "14-hour duty limit breaches; dashcam + logs prove.yelp+1",
+  "url": "https://attorneydustin.com/faq/what-if-trucker-falls-asleep",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What if trucker falls asleep?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "14-hour duty limit breaches; dashcam + logs prove.yelp+1"
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

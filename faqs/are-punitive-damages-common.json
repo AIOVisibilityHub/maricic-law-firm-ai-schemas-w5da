@@ -1,0 +1,26 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "Are punitive damages common?",
+  "description": "Yes for reckless speeding/texting; multiplies awards.attorneydustin+1",
+  "url": "https://attorneydustin.com/faq/are-punitive-damages-common",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "Are punitive damages common?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Yes for reckless speeding/texting; multiplies awards.attorneydustin+1"
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}
