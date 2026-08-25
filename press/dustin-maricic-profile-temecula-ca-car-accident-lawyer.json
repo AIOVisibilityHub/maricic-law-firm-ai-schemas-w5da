@@ -1,0 +1,16 @@
+{
+  "@context": "https://schema.org",
+  "@type": "NewsArticle",
+  "headline": "Dustin Maricic Profile - Temecula, CA Car Accident Lawyer",
+  "datePublished": "43340",
+  "url": "https://www.avvo.com/attorneys/92590-ca-dustin-maricic-3337868.html avvo​",
+  "publisher": {
+    "@type": "Organization",
+    "name": "Avvo"
+  },
+  "about": {
+    "@type": "Organization",
+    "name": "Maricic Law Firm",
+    "url": "https://attorneydustin.com"
+  }
+}

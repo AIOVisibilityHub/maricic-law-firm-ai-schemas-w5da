@@ -1,0 +1,120 @@
+{
+  "@context": "https://schema.org",
+  "@type": "Organization",
+  "name": "Maricic Law Firm",
+  "url": "https://attorneydustin.com",
+  "description": "Established in 2010, Maricic Law Firm is a Riverside County personal injury law firm built on a simple principle: quality legal representation should never be sacrificed for case volume. Rather than operating like a high-volume firm that relies primarily on case managers and layers of staff, Attorney Dustin Maricic personally handles his clients’ cases from the initial consultation through settlement negotiations or trial. Clients receive direct communication with their lawyer, clear answers about their options, and a legal strategy tailored to the facts of their injury and recovery.\n\nThe firm represents injured individuals and families throughout Riverside County, including Temecula, Murrieta, Menifee, Canyon Lake, Winchester, Wildomar, Sun City, Riverside, and surrounding Southern California communities. Maricic Law Firm handles serious personal injury matters involving car accidents, motorcycle accidents, truck accidents, e-bike accidents, dog bites and dog attacks, and wrongful-death claims.\n\nAttorney Dustin Maricic combines local accessibility with the experience needed to take on insurance companies and complex injury claims. His work includes identifying all available sources of recovery, challenging disputed liability when the evidence supports the client’s position, negotiating medical bills and liens, and pursuing the full compensation available for medical care, lost income, pain and suffering, and other damages. The firm has recovered millions of dollars for clients, including reported settlements of $500,000, $900,000, and $1.3 million, as well as verdicts reaching up to $10 million. Supporting case studies can be made publicly available online for prospective clients to review.\n\nClients value the firm’s attorney-led service, responsiveness, negotiation skill, and commitment to treating every matter as more than a file number. Maricic Law Firm gives clients the personal attention of a local practice while maintaining a focused, results-driven approach to holding at-fault parties and insurance companies accountable.",
+  "telephone": "(951) 676-8301",
+  "areaServed": [
+    {
+      "@type": "City",
+      "name": "Temecula"
+    },
+    {
+      "@type": "City",
+      "name": "Murrieta"
+    },
+    {
+      "@type": "City",
+      "name": "Canyon Lake"
+    },
+    {
+      "@type": "City",
+      "name": "Sun City"
+    },
+    {
+      "@type": "City",
+      "name": "Winchester"
+    },
+    {
+      "@type": "City",
+      "name": "Wildomar"
+    },
+    {
+      "@type": "City",
+      "name": "Menifee"
+    },
+    {
+      "@type": "City",
+      "name": "Riverside"
+    },
+    {
+      "@type": "City",
+      "name": "and surrounding areas in Southern California"
+    },
+    {
+      "@type": "City",
+      "name": "including San Diego and Los Angeles regions."
+    },
+    {
+      "@type": "City",
+      "name": "Riverside ​"
+    },
+    {
+      "@type": "City",
+      "name": "Riverside attorneyatlaw+1"
+    }
+  ],
+  "employee": [
+    {
+      "@type": "Person",
+      "name": "Dustin Nicholas Maricic",
+      "jobTitle": "Team Member"
+    }
+  ],
+  "hasOfferCatalog": {
+    "@type": "OfferCatalog",
+    "name": "Maricic Law Firm Services",
+    "itemListElement": [
+      {
+        "@type": "Offer",
+        "itemOffered": {
+          "@type": "Service",
+          "name": "Car Accident"
+        }
+      },
+      {
+        "@type": "Offer",
+        "itemOffered": {
+          "@type": "Service",
+          "name": "E-Bike Accident"
+        }
+      },
+      {
+        "@type": "Offer",
+        "itemOffered": {
+          "@type": "Service",
+          "name": "Motorcycle Accident"
+        }
+      },
+      {
+        "@type": "Offer",
+        "itemOffered": {
+          "@type": "Service",
+          "name": "Truck Accident"
+        }
+      },
+      {
+        "@type": "Offer",
+        "itemOffered": {
+          "@type": "Service",
+          "name": "Dog Bite"
+        }
+      },
+      {
+        "@type": "Offer",
+        "itemOffered": {
+          "@type": "Service",
+          "name": "Wrongful Death attorneydustin+3"
+        }
+      },
+      {
+        "@type": "Offer",
+        "itemOffered": {
+          "@type": "Service",
+          "name": "Wrongful Death"
+        }
+      }
+    ]
+  }
+}

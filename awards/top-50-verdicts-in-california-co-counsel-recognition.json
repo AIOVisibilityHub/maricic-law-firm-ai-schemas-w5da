@@ -1,0 +1,16 @@
+{
+  "@context": "https://schema.org",
+  "@type": "CreativeWork",
+  "name": "Top 50 Verdicts in California (Co-Counsel Recognition)",
+  "datePublished": "2019",
+  "provider": {
+    "@type": "Organization",
+    "name": "TopVerdict.com"
+  },
+  "author": {
+    "@type": "Organization",
+    "name": "Maricic Law Firm",
+    "url": "https://attorneydustin.com"
+  },
+  "award": "Top 50 Verdicts in California (Co-Counsel Recognition)"
+}

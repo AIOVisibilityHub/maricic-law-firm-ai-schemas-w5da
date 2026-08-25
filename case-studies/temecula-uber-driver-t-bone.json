@@ -1,0 +1,17 @@
+{
+  "@context": "https://schema.org",
+  "@type": "Article",
+  "headline": "Temecula Uber Driver T-Bone",
+  "articleBody": "Temecula man T-boned by Uber driver running red light at Washington/Vineyard intersection; multiple fractures, lost wages as construction worker attorneydustin​.\n\nOutcome: $1.3 million settlement; full policy limits exhausted including rideshare layers attorneydustin​",
+  "author": {
+    "@type": "Organization",
+    "name": "Maricic Law Firm",
+    "url": "https://attorneydustin.com"
+  },
+  "publisher": {
+    "@type": "Organization",
+    "name": "Maricic Law Firm",
+    "url": "https://attorneydustin.com"
+  },
+  "genre": "Case Study"
+}

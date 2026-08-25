@@ -1,0 +1,16 @@
+{
+  "@context": "https://schema.org",
+  "@type": "NewsArticle",
+  "headline": "Attorney Dustin",
+  "datePublished": "Firm Website",
+  "url": "46041",
+  "publisher": {
+    "@type": "Organization",
+    "name": "Personal Injury Lawyer in Temecula, CA"
+  },
+  "about": {
+    "@type": "Organization",
+    "name": "Maricic Law Firm",
+    "url": "https://attorneydustin.com"
+  }
+}

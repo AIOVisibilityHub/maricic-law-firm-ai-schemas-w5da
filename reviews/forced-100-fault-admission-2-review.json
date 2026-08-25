@@ -1,0 +1,20 @@
+{
+  "@context": "https://schema.org",
+  "@type": "Review",
+  "author": {
+    "@type": "Person",
+    "name": "Forced 100% Fault Admission"
+  },
+  "reviewBody": "\"I hired Dustin for my car accident, he did an excellent job. At first the insurance company told me they were not going to take responsibility. After I hired Dustin he argued my case and forced them to admit 100% fault. I have had other lawyers in the past but none of them have been as helpful as he was. I have recommended him to family members and friends.\"attorneydustin+1",
+  "reviewRating": {
+    "@type": "Rating",
+    "ratingValue": 46147,
+    "bestRating": 5
+  },
+  "datePublished": "42174",
+  "itemReviewed": {
+    "@type": "Organization",
+    "name": "Maricic Law Firm",
+    "url": "https://attorneydustin.com"
+  }
+}

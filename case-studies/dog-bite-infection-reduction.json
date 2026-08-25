@@ -1,0 +1,17 @@
+{
+  "@context": "https://schema.org",
+  "@type": "Article",
+  "headline": "Dog Bite Infection Reduction",
+  "articleBody": "Severe dog attack requiring ER rabies series, multiple surgeries; bills exceeded $50K initially ​.\n\nOutcome: Bills negotiated dramatically; client netted substantial pain/suffering award",
+  "author": {
+    "@type": "Organization",
+    "name": "Maricic Law Firm",
+    "url": "https://attorneydustin.com"
+  },
+  "publisher": {
+    "@type": "Organization",
+    "name": "Maricic Law Firm",
+    "url": "https://attorneydustin.com"
+  },
+  "genre": "Case Study"
+}

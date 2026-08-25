@@ -1,0 +1,17 @@
+{
+  "@context": "https://schema.org",
+  "@type": "Article",
+  "headline": "Insurance Denial to 100% Fault",
+  "articleBody": "Insurer claimed no responsibility for client's car accident; prior lawyers unsuccessful. Attorney argued liability aggressively ​.\n\nOutcome: Insurer admitted 100% fault; client received full policy limits attorneydustin+1​",
+  "author": {
+    "@type": "Organization",
+    "name": "Maricic Law Firm",
+    "url": "https://attorneydustin.com"
+  },
+  "publisher": {
+    "@type": "Organization",
+    "name": "Maricic Law Firm",
+    "url": "https://attorneydustin.com"
+  },
+  "genre": "Case Study"
+}

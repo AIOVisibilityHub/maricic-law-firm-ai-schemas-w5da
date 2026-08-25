@@ -1,0 +1,14 @@
+{
+  "@context": "https://schema.org",
+  "@type": "LocalBusiness",
+  "name": "Maricic Law Firm - Maricic Law Firm Office",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "41690 Enterprise Cir N Ste 102",
+    "addressLocality": "Temecula",
+    "addressRegion": "CA",
+    "postalCode": "92590"
+  },
+  "telephone": "(951) 676-8301",
+  "url": "https://attorneydustin.com"
+}

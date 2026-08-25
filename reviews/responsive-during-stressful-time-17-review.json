@@ -1,0 +1,20 @@
+{
+  "@context": "https://schema.org",
+  "@type": "Review",
+  "author": {
+    "@type": "Person",
+    "name": "Responsive During Stressful Time"
+  },
+  "reviewBody": "\"Dustin was very responsive and helpful at one of our most stressful times after my son was involved in an accident. I would highly recommend this firm.\"attorneyatlaw​",
+  "reviewRating": {
+    "@type": "Rating",
+    "ratingValue": 46147,
+    "bestRating": 5
+  },
+  "datePublished": "Undated",
+  "itemReviewed": {
+    "@type": "Organization",
+    "name": "Maricic Law Firm",
+    "url": "https://attorneydustin.com"
+  }
+}

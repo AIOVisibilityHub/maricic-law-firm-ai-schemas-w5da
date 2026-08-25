@@ -1,0 +1,20 @@
+{
+  "@context": "https://schema.org",
+  "@type": "Review",
+  "author": {
+    "@type": "Person",
+    "name": "Smooth Process for Son's Accident"
+  },
+  "reviewBody": "\"My son was in an accident and we didn't know where to go for help... Dustin and Sierra helped make everything go smoothly.\"attorneyatlaw​",
+  "reviewRating": {
+    "@type": "Rating",
+    "ratingValue": 46147,
+    "bestRating": 5
+  },
+  "datePublished": "Undated",
+  "itemReviewed": {
+    "@type": "Organization",
+    "name": "Maricic Law Firm",
+    "url": "https://attorneydustin.com"
+  }
+}

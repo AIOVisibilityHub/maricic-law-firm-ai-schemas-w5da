@@ -1,0 +1,20 @@
+{
+  "@context": "https://schema.org",
+  "@type": "Review",
+  "author": {
+    "@type": "Person",
+    "name": "Settlement More Than Expected"
+  },
+  "reviewBody": "\"Great staff, very personable, and helped me get a settlement that was more than I expected! Thank you for your quick response to my case. I will be recommending all my friends and family to Attorney Dustin if ever in need.\"attorneydustin​",
+  "reviewRating": {
+    "@type": "Rating",
+    "ratingValue": 46147,
+    "bestRating": 5
+  },
+  "datePublished": "Undated",
+  "itemReviewed": {
+    "@type": "Organization",
+    "name": "Maricic Law Firm",
+    "url": "https://attorneydustin.com"
+  }
+}

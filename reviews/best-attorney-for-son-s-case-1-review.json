@@ -1,0 +1,20 @@
+{
+  "@context": "https://schema.org",
+  "@type": "Review",
+  "author": {
+    "@type": "Person",
+    "name": "Best Attorney for Son's Case"
+  },
+  "reviewBody": "\"Dustin is the best attorney I have ever used. He went to all of my son's doctor's appointments and worked with the insurance to get a larger settlement. He negotiated our medical bills to 1/10 of their total, which allowed us to receive more money. After our case was settled, he became our friend.\"attorneydustin+1",
+  "reviewRating": {
+    "@type": "Rating",
+    "ratingValue": 46147,
+    "bestRating": 5
+  },
+  "datePublished": "43257",
+  "itemReviewed": {
+    "@type": "Organization",
+    "name": "Maricic Law Firm",
+    "url": "https://attorneydustin.com"
+  }
+}

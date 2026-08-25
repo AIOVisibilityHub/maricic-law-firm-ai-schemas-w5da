@@ -1,0 +1,20 @@
+{
+  "@context": "https://schema.org",
+  "@type": "Review",
+  "author": {
+    "@type": "Person",
+    "name": "Going the Extra Mile"
+  },
+  "reviewBody": "\"I have had my few share of lawyers and was very happy to have Dustin assist my case! He really worked hard to help me out and I learned a lot with his help, and appreciated him going the extra mile…I have referred two more people and they are happy as well.\"attorneydustin+1",
+  "reviewRating": {
+    "@type": "Rating",
+    "ratingValue": 46147,
+    "bestRating": 5
+  },
+  "datePublished": "Undated",
+  "itemReviewed": {
+    "@type": "Organization",
+    "name": "Maricic Law Firm",
+    "url": "https://attorneydustin.com"
+  }
+}

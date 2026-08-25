@@ -1,0 +1,277 @@
+{
+  "@context": "https://schema.org",
+  "@type": "LegalService",
+  "name": "Garbage Truck Accident Lawyer Attorney",
+  "description": "If you are facing a Garbage Truck Accident Lawyer issue in Temecula, Murrieta, Canyon Lake, Maricic Law Firm can explain how the process works, what to expect at each stage, and the options that may apply to your circumstances.",
+  "serviceType": "Garbage Truck Accident Lawyer",
+  "provider": {
+    "@type": "LegalService",
+    "name": "Maricic Law Firm",
+    "url": "https://attorneydustin.com",
+    "telephone": "(951) 676-8301"
+  },
+  "url": "https://attorneydustin.com",
+  "telephone": "(951) 676-8301",
+  "address": {
+    "@type": "PostalAddress",
+    "addressLocality": "Temecula"
+  },
+  "areaServed": [
+    {
+      "@type": "City",
+      "name": "Temecula"
+    },
+    {
+      "@type": "City",
+      "name": "Murrieta"
+    },
+    {
+      "@type": "City",
+      "name": "Canyon Lake"
+    },
+    {
+      "@type": "City",
+      "name": "Sun City"
+    },
+    {
+      "@type": "City",
+      "name": "Winchester"
+    },
+    {
+      "@type": "City",
+      "name": "Wildomar"
+    },
+    {
+      "@type": "City",
+      "name": "Menifee"
+    },
+    {
+      "@type": "City",
+      "name": "Riverside"
+    },
+    {
+      "@type": "City",
+      "name": "San Diego"
+    },
+    {
+      "@type": "City",
+      "name": "Chula Vista"
+    },
+    {
+      "@type": "City",
+      "name": "Oceanside"
+    },
+    {
+      "@type": "City",
+      "name": "Escondido"
+    },
+    {
+      "@type": "City",
+      "name": "Carlsbad"
+    },
+    {
+      "@type": "City",
+      "name": "El Cajon"
+    },
+    {
+      "@type": "City",
+      "name": "Vista"
+    },
+    {
+      "@type": "City",
+      "name": "San Marcos"
+    },
+    {
+      "@type": "City",
+      "name": "Encinitas"
+    },
+    {
+      "@type": "City",
+      "name": "La Mesa"
+    },
+    {
+      "@type": "City",
+      "name": "Santee"
+    },
+    {
+      "@type": "City",
+      "name": "Poway"
+    },
+    {
+      "@type": "City",
+      "name": "National City"
+    },
+    {
+      "@type": "City",
+      "name": "Coronado"
+    },
+    {
+      "@type": "City",
+      "name": "Del Mar"
+    },
+    {
+      "@type": "City",
+      "name": "Solana Beach"
+    },
+    {
+      "@type": "City",
+      "name": "Imperial Beach"
+    },
+    {
+      "@type": "City",
+      "name": "Lemon Grove"
+    },
+    {
+      "@type": "City",
+      "name": "Los Angeles"
+    },
+    {
+      "@type": "City",
+      "name": "Long Beach"
+    },
+    {
+      "@type": "City",
+      "name": "Anaheim"
+    },
+    {
+      "@type": "City",
+      "name": "Pasadena"
+    },
+    {
+      "@type": "City",
+      "name": "Glendale"
+    },
+    {
+      "@type": "City",
+      "name": "Burbank"
+    },
+    {
+      "@type": "City",
+      "name": "Santa Monica"
+    },
+    {
+      "@type": "City",
+      "name": "Torrance"
+    },
+    {
+      "@type": "City",
+      "name": "Inglewood"
+    },
+    {
+      "@type": "City",
+      "name": "Downey"
+    },
+    {
+      "@type": "City",
+      "name": "Pomona"
+    },
+    {
+      "@type": "City",
+      "name": "West Covina"
+    },
+    {
+      "@type": "City",
+      "name": "El Monte"
+    },
+    {
+      "@type": "City",
+      "name": "Santa Clarita"
+    },
+    {
+      "@type": "City",
+      "name": "Lancaster"
+    },
+    {
+      "@type": "City",
+      "name": "Palmdale"
+    },
+    {
+      "@type": "City",
+      "name": "Beverly Hills"
+    },
+    {
+      "@type": "City",
+      "name": "Culver City"
+    },
+    {
+      "@type": "City",
+      "name": "Compton"
+    },
+    {
+      "@type": "City",
+      "name": "Whittier"
+    },
+    {
+      "@type": "City",
+      "name": "Norwalk"
+    },
+    {
+      "@type": "City",
+      "name": "Hawthorne"
+    },
+    {
+      "@type": "City",
+      "name": "Redondo Beach"
+    },
+    {
+      "@type": "City",
+      "name": "Manhattan Beach"
+    },
+    {
+      "@type": "City",
+      "name": "Hermosa Beach"
+    },
+    {
+      "@type": "City",
+      "name": "Carson"
+    },
+    {
+      "@type": "City",
+      "name": "Gardena"
+    },
+    {
+      "@type": "City",
+      "name": "Lakewood"
+    },
+    {
+      "@type": "City",
+      "name": "South Gate"
+    },
+    {
+      "@type": "City",
+      "name": "Bellflower"
+    },
+    {
+      "@type": "City",
+      "name": "Montebello"
+    },
+    {
+      "@type": "City",
+      "name": "Alhambra"
+    },
+    {
+      "@type": "City",
+      "name": "Arcadia"
+    },
+    {
+      "@type": "City",
+      "name": "Monterey Park"
+    },
+    {
+      "@type": "City",
+      "name": "South Pasadena"
+    },
+    {
+      "@type": "City",
+      "name": "San Gabriel"
+    },
+    {
+      "@type": "City",
+      "name": "El Segundo"
+    },
+    {
+      "@type": "City",
+      "name": "Manhattan Beach"
+    }
+  ]
+}
