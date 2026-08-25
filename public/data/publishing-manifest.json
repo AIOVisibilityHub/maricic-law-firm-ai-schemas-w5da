@@ -1,0 +1,3429 @@
+{
+  "version": "1.0",
+  "generatedAt": "2026-08-25T23:18:27.139Z",
+  "client": {
+    "name": "Maricic Law Firm",
+    "canonicalUrl": "https://mariciclawfirm.aiovisibility.net",
+    "primaryWebsiteUrl": "https://attorneydustin.com",
+    "pagesUrl": "https://mariciclawfirm.aiovisibility.net",
+    "phone": "(951) 676-8301",
+    "locations": [
+      {
+        "name": "Maricic Law Firm Office",
+        "address": "41690 Enterprise Cir N Ste 102",
+        "city": "Temecula",
+        "state": "CA",
+        "zip": "92590",
+        "phone": "(951) 676-8301"
+      }
+    ],
+    "services": [
+      "Car Accident Lawyer",
+      "Rear-End Collision Attorney",
+      "T-Bone Accident Lawyer",
+      "Head-On Collision Attorney",
+      "Intersection Accident Lawyer",
+      "Hit-and-Run Accident Attorney",
+      "Multi-Vehicle Accident Lawyer",
+      "Distracted Driving Accident Attorney",
+      "Drunk Driving Accident Lawyer",
+      "Rideshare Accident Attorney",
+      "Uninsured Driver Accident Lawyer",
+      "Underinsured Driver Accident Attorney",
+      "Freeway Accident Lawyer",
+      "Parking Lot Accident Attorney",
+      "E-Bike Accident Lawyer",
+      "E-Bike Hit by Car Attorney",
+      "Shared E-Bike Accident Attorney",
+      "E-Bike Hit by Truck Lawyer",
+      "Defective E-Bike Accident Attorney",
+      "E-Bike Battery Fire Lawyer",
+      "Child E-Bike Accident Attorney",
+      "E-Bike Pedestrian Accident Lawyer",
+      "Motorcycle Accident Lawyer",
+      "Left-Turn Motorcycle Accident Attorney",
+      "Lane-Change Motorcycle Accident Lawyer",
+      "Motorcycle Sideswipe Accident Attorney",
+      "Motorcycle Road Hazard Accident Lawyer",
+      "Motorcycle Truck Accident Attorney",
+      "Motorcycle Passenger Injury Lawyer",
+      "Motorcycle Hit-and-Run Accident Attorney",
+      "Defective Motorcycle Part Accident Lawyer",
+      "Truck Accident Lawyer",
+      "Semi-Truck Accident Attorney",
+      "18-Wheeler Accident Lawyer",
+      "Big Rig Accident Attorney",
+      "Commercial Truck Accident Lawyer",
+      "Delivery Truck Accident Attorney",
+      "Dump Truck Accident Attorney",
+      "Garbage Truck Accident Lawyer",
+      "Jackknife Truck Accident Attorney",
+      "Underride Truck Accident Lawyer",
+      "Wide-Turn Truck Accident Attorney",
+      "Unsecured Cargo Accident Lawyer",
+      "Overloaded Truck Accident Attorney",
+      "Fatigued Truck Driver Accident Lawyer",
+      "Dog Bite Lawyer",
+      "Dog Attack Attorney",
+      "Serious Dog Bite Injury Lawyer",
+      "Child Dog Bite Attorney",
+      "Facial Dog Bite Lawyer",
+      "Loose Dog Attack Attorney",
+      "Wrongful Death Attorney",
+      "Fatal Car Accident Lawyer",
+      "Fatal Motorcycle Accident Attorney",
+      "Fatal Truck Accident Lawyer",
+      "Fatal Pedestrian Accident Attorney",
+      "Fatal Bicycle Accident Lawyer",
+      "Fatal Hit-and-Run Accident Attorney",
+      "Fatal Drunk Driving Accident Lawyer",
+      "Workplace Death Attorney",
+      "Fatal Dog Attack Lawyer"
+    ],
+    "cities": [
+      "Temecula",
+      "Murrieta",
+      "Canyon Lake",
+      "Sun City",
+      "Winchester",
+      "Wildomar",
+      "Menifee",
+      "Riverside",
+      "San Diego",
+      "Chula Vista",
+      "Oceanside",
+      "Escondido",
+      "Carlsbad",
+      "El Cajon",
+      "Vista",
+      "San Marcos",
+      "Encinitas",
+      "La Mesa",
+      "Santee",
+      "Poway",
+      "National City",
+      "Coronado",
+      "Del Mar",
+      "Solana Beach",
+      "Imperial Beach",
+      "Lemon Grove",
+      "Los Angeles",
+      "Long Beach",
+      "Anaheim",
+      "Pasadena",
+      "Glendale",
+      "Burbank",
+      "Santa Monica",
+      "Torrance",
+      "Inglewood",
+      "Downey",
+      "Pomona",
+      "West Covina",
+      "El Monte",
+      "Santa Clarita",
+      "Lancaster",
+      "Palmdale",
+      "Beverly Hills",
+      "Culver City",
+      "Compton",
+      "Whittier",
+      "Norwalk",
+      "Hawthorne",
+      "Redondo Beach",
+      "Manhattan Beach",
+      "Hermosa Beach",
+      "Carson",
+      "Gardena",
+      "Lakewood",
+      "South Gate",
+      "Bellflower",
+      "Montebello",
+      "Alhambra",
+      "Arcadia",
+      "Monterey Park",
+      "South Pasadena",
+      "San Gabriel",
+      "El Segundo",
+      "Manhattan Beach"
+    ]
+  },
+  "package": {
+    "totalFiles": 644,
+    "totalBytes": 1949322,
+    "stats": {
+      "faqs": 318,
+      "helpArticles": 174,
+      "services": 68,
+      "webpages": 0,
+      "personnel": 12,
+      "products": 0,
+      "locations": 1,
+      "awards": 5,
+      "caseStudies": 10,
+      "organization": 1,
+      "press": 6,
+      "reviews": 25,
+      "qna": 0,
+      "research": 0,
+      "total": 621
+    }
+  },
+  "entrypoints": {
+    "aiData": "ai-data.html",
+    "index": "index.html",
+    "llms": "llms.txt",
+    "aiSitemap": "ai-sitemap.xml",
+    "sitemap": "sitemap.xml",
+    "manifest": "data/publishing-manifest.json",
+    "canonicalManifest": "data/publishing-manifest.json",
+    "readme": "README.md"
+  },
+  "categories": {
+    "faqs": [
+      {
+        "path": "faqs/do-i-have-to-pay-upfront-fees.json",
+        "bytes": 647,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/will-i-work-directly-with-the-attorney.json",
+        "bytes": 708,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/what-areas-do-you-serve.json",
+        "bytes": 653,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/how-long-do-i-have-to-file-a-personal-injury-claim.json",
+        "bytes": 730,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/what-if-the-accident-wasn-t-my-fault.json",
+        "bytes": 748,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/can-you-help-with-car-accident-medical-bills.json",
+        "bytes": 718,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/what-types-of-cases-do-you-handle.json",
+        "bytes": 693,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/are-you-available-after-hours.json",
+        "bytes": 551,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/what-damages-can-i-recover-in-a-car-accident.json",
+        "bytes": 754,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/how-much-is-my-car-accident-case-worth.json",
+        "bytes": 696,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/do-i-need-a-police-report-for-my-claim.json",
+        "bytes": 626,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/what-if-i-was-partially-at-fault.json",
+        "bytes": 654,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/can-i-fire-my-first-attorney.json",
+        "bytes": 608,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/what-is-uninsured-motorist-coverage.json",
+        "bytes": 645,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/how-long-after-accident-to-see-a-doctor.json",
+        "bytes": 597,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/do-you-handle-rental-car-reimbursement.json",
+        "bytes": 592,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/what-if-injury-shows-later.json",
+        "bytes": 590,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/is-my-herniated-disc-compensable.json",
+        "bytes": 586,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/what-proves-e-bike-accident-liability.json",
+        "bytes": 667,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/are-e-bike-riders-treated-like-cyclists.json",
+        "bytes": 611,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/does-helmet-use-reduce-e-bike-payout.json",
+        "bytes": 626,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/who-pays-for-e-bike-repairs.json",
+        "bytes": 575,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/can-e-scooters-claim-like-e-bikes.json",
+        "bytes": 579,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/why-higher-payouts-for-motorcycles.json",
+        "bytes": 622,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/is-lane-splitting-factored-in-claims.json",
+        "bytes": 594,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/what-if-motorcycle-totaled.json",
+        "bytes": 592,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/do-you-handle-helmet-defect-cases.json",
+        "bytes": 569,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/can-passengers-sue-in-bike-crashes.json",
+        "bytes": 598,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/who-liable-in-truck-underride-crashes.json",
+        "bytes": 643,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/what-is-a-truck-s-black-box-data.json",
+        "bytes": 572,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/do-truckers-have-special-insurance.json",
+        "bytes": 566,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/how-prove-truck-driver-fatigue.json",
+        "bytes": 590,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/what-if-truck-cargo-caused-crash.json",
+        "bytes": 568,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/is-dog-bite-strict-liability-in-ca.json",
+        "bytes": 620,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/do-you-cover-plastic-surgery-scars.json",
+        "bytes": 598,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/what-if-bite-through-fence.json",
+        "bytes": 596,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/can-kids-sue-for-dog-attacks.json",
+        "bytes": 566,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/is-rabies-shot-cost-recoverable.json",
+        "bytes": 557,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/who-files-wrongful-death-suit.json",
+        "bytes": 553,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/what-damages-in-wrongful-death.json",
+        "bytes": 578,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/time-limit-for-wrongful-death.json",
+        "bytes": 559,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/can-estate-sue-if-no-family.json",
+        "bytes": 541,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/should-i-give-a-recorded-statement-to-insurance.json",
+        "bytes": 647,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/what-if-i-was-hit-by-a-rideshare-driver.json",
+        "bytes": 609,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/does-texting-while-driving-affect-claims.json",
+        "bytes": 592,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/can-i-claim-lost-future-earnings.json",
+        "bytes": 578,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/what-about-household-services-loss.json",
+        "bytes": 602,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/is-chiropractic-care-compensable.json",
+        "bytes": 584,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/do-you-handle-slip-and-fall-cases.json",
+        "bytes": 599,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/what-if-drunk-driver-caused-crash.json",
+        "bytes": 579,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/can-i-settle-before-medical-end.json",
+        "bytes": 569,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/what-proves-pain-and-suffering.json",
+        "bytes": 604,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/do-surveillance-cams-hurt-cases.json",
+        "bytes": 563,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/is-pt-therapy-bill-negotiation-standard.json",
+        "bytes": 605,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/what-if-employer-vehicle-involved.json",
+        "bytes": 585,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/can-i-claim-emotional-trauma.json",
+        "bytes": 568,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/how-handle-out-of-state-drivers.json",
+        "bytes": 581,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/what-if-no-car-insurance.json",
+        "bytes": 572,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/does-speed-camera-footage-help.json",
+        "bytes": 572,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/can-family-members-claim-loss.json",
+        "bytes": 553,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/what-about-property-damage-only.json",
+        "bytes": 587,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/is-mediation-required-before-trial.json",
+        "bytes": 574,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/do-prior-injuries-reduce-payout.json",
+        "bytes": 547,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/what-costs-do-you-advance.json",
+        "bytes": 569,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/can-i-track-my-case-online.json",
+        "bytes": 564,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/what-if-settlement-rejected.json",
+        "bytes": 559,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/how-select-accident-reconstruction.json",
+        "bytes": 588,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/will-my-health-insurance-be-reimbursed.json",
+        "bytes": 630,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/what-if-i-can-t-work-during-recovery.json",
+        "bytes": 608,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/do-you-visit-me-in-hospital.json",
+        "bytes": 597,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/how-prove-soft-tissue-injuries.json",
+        "bytes": 612,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/what-if-insurer-offers-quick-cash.json",
+        "bytes": 605,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/can-i-get-uber-lyft-during-car-repair.json",
+        "bytes": 565,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/does-accident-cause-depression.json",
+        "bytes": 560,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/what-records-do-i-keep.json",
+        "bytes": 590,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/is-neck-brace-use-held-against-me.json",
+        "bytes": 601,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/what-if-rear-ended-at-stoplight.json",
+        "bytes": 589,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/do-gap-insurance-help-claims.json",
+        "bytes": 570,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/can-scars-permanent-disfigurement-pay.json",
+        "bytes": 615,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/what-if-injured-on-vacation.json",
+        "bytes": 595,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/does-social-media-hurt-my-case.json",
+        "bytes": 578,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/how-value-lifelong-therapy-needs.json",
+        "bytes": 598,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/what-if-multi-car-pileup.json",
+        "bytes": 546,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/can-i-claim-childcare-costs.json",
+        "bytes": 551,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/do-you-sue-delivery-drivers.json",
+        "bytes": 565,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/what-proves-whiplash-validity.json",
+        "bytes": 615,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/is-cortisone-injection-compensable.json",
+        "bytes": 598,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/what-if-pain-radiates-to-limbs.json",
+        "bytes": 546,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/do-you-handle-pedestrian-hits.json",
+        "bytes": 595,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/can-i-recover-moving-expenses.json",
+        "bytes": 571,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/what-if-bike-lane-violation.json",
+        "bytes": 559,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/how-fight-failure-to-mitigate.json",
+        "bytes": 583,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/who-pays-for-car-towing-after-crash.json",
+        "bytes": 631,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/how-get-rental-car-while-mine-is-fixed.json",
+        "bytes": 604,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/what-if-car-declared-total-loss.json",
+        "bytes": 625,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/do-i-need-repair-estimates-for-claim.json",
+        "bytes": 622,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/can-i-keep-my-totaled-vehicle.json",
+        "bytes": 577,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/what-covers-rental-car-damage.json",
+        "bytes": 579,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/how-prove-custom-modifications-value.json",
+        "bytes": 608,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/does-diminished-value-claim-exist.json",
+        "bytes": 563,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/who-pays-storage-fees.json",
+        "bytes": 553,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/what-if-hit-parked-car.json",
+        "bytes": 544,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/can-i-choose-my-repair-shop.json",
+        "bytes": 579,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/how-handle-motorcycle-frame-damage.json",
+        "bytes": 594,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/what-about-e-bike-battery-replacement.json",
+        "bytes": 577,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/does-glass-damage-claim-separately.json",
+        "bytes": 594,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/who-pays-for-lost-personal-items.json",
+        "bytes": 580,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/can-truck-hit-settle-property-fast.json",
+        "bytes": 598,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/what-proves-pre-accident-condition.json",
+        "bytes": 600,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/do-you-handle-fleet-vehicle-claims.json",
+        "bytes": 584,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/is-wheel-alignment-compensable.json",
+        "bytes": 582,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/what-if-damage-appears-later.json",
+        "bytes": 560,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/can-i-claim-custom-paint-wraps.json",
+        "bytes": 572,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/who-covers-temporary-transportation.json",
+        "bytes": 587,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/does-property-settle-before-injury.json",
+        "bytes": 578,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/what-about-aftermarket-parts-value.json",
+        "bytes": 594,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/can-dog-damage-claim-property-too.json",
+        "bytes": 591,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/are-e-bikes-treated-as-motor-vehicles-in-ca.json",
+        "bytes": 703,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/does-helmet-use-affect-e-bike-claims.json",
+        "bytes": 670,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/who-liable-if-e-bike-battery-fails.json",
+        "bytes": 628,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/can-i-claim-if-riding-on-sidewalk.json",
+        "bytes": 675,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/what-evidence-proves-e-bike-fault.json",
+        "bytes": 659,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/does-e-bike-speed-cause-claim-denial.json",
+        "bytes": 638,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/is-bike-lane-protection-absolute.json",
+        "bytes": 594,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/what-if-dooring-by-parked-car.json",
+        "bytes": 591,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/do-potholes-create-city-liability.json",
+        "bytes": 617,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/can-passengers-claim-on-e-bikes.json",
+        "bytes": 633,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/what-s-ca-comparative-fault-for-e-bikes.json",
+        "bytes": 643,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/do-e-bike-lights-reflectors-matter.json",
+        "bytes": 602,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/is-rental-e-bike-covered.json",
+        "bytes": 568,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/what-damages-beyond-medicals.json",
+        "bytes": 588,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/does-modification-void-insurance.json",
+        "bytes": 626,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/can-i-sue-delivery-e-bikes-ubereats.json",
+        "bytes": 591,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/is-night-riding-risk-assumed.json",
+        "bytes": 576,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/what-proves-brake-failure-liability.json",
+        "bytes": 581,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/do-trails-paths-have-different-rules.json",
+        "bytes": 590,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/can-employer-liable-for-e-bike-commute.json",
+        "bytes": 604,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/is-e-bike-insurance-required.json",
+        "bytes": 604,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/what-if-hit-pedestrian.json",
+        "bytes": 576,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/does-app-data-prove-speed.json",
+        "bytes": 571,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/can-kids-under-16-ride-class-3.json",
+        "bytes": 570,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/time-limit-for-e-bike-product-claims.json",
+        "bytes": 644,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/does-not-wearing-a-helmet-reduce-payout.json",
+        "bytes": 693,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/is-lane-splitting-legal-in-motorcycle-claims.json",
+        "bytes": 680,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/who-liable-for-motorcycle-left-turn-crash.json",
+        "bytes": 613,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/can-i-claim-road-hazard-damage.json",
+        "bytes": 620,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/what-proves-drunk-motorist-hit-biker.json",
+        "bytes": 588,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/does-leather-gear-prove-negligence.json",
+        "bytes": 602,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/how-value-custom-motorcycle-parts.json",
+        "bytes": 587,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/is-group-ride-fault-shared.json",
+        "bytes": 560,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/what-if-bike-flips-under-truck.json",
+        "bytes": 592,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/can-passengers-sue-on-motorcycles.json",
+        "bytes": 569,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/does-visibility-vest-affect-claims.json",
+        "bytes": 602,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/who-pays-track-day-bike-damage.json",
+        "bytes": 572,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/is-gravel-shoulder-crash-compensable.json",
+        "bytes": 564,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/what-black-box-data-from-bikes.json",
+        "bytes": 576,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/can-i-recover-harley-rental-value.json",
+        "bytes": 567,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/does-prior-tickets-hurt-rider-claims.json",
+        "bytes": 588,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/what-if-hit-by-fellow-biker.json",
+        "bytes": 579,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/is-headlight-modulator-admissible.json",
+        "bytes": 597,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/can-city-liable-for-biker-boxes.json",
+        "bytes": 585,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/how-prove-rear-end-motorcycle-crash.json",
+        "bytes": 583,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/does-bike-endorsement-matter-legally.json",
+        "bytes": 576,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/what-about-phantom-vehicle-claims.json",
+        "bytes": 595,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/can-i-claim-lost-riding-season.json",
+        "bytes": 572,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/is-crotch-rocket-bias-overcome.json",
+        "bytes": 578,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/who-liable-if-bike-stolen-post-crash.json",
+        "bytes": 592,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/who-qualifies-to-file-wrongful-death.json",
+        "bytes": 644,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/what-s-the-time-limit-for-wrongful-death.json",
+        "bytes": 604,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/can-multiple-family-sue-separately.json",
+        "bytes": 600,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/what-damages-for-lost-income.json",
+        "bytes": 580,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/does-ca-allow-pain-suffering-payout.json",
+        "bytes": 617,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/who-files-if-no-spouse-children.json",
+        "bytes": 581,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/can-estate-file-survival-action-too.json",
+        "bytes": 625,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/what-proves-driver-caused-death.json",
+        "bytes": 585,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/are-punitive-damages-possible.json",
+        "bytes": 567,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/how-divide-settlement-money.json",
+        "bytes": 543,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/does-dui-conviction-help-civil-case.json",
+        "bytes": 565,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/can-minors-receive-wrongful-death.json",
+        "bytes": 571,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/what-if-death-delayed-after-crash.json",
+        "bytes": 573,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/do-trucking-firms-pay-more.json",
+        "bytes": 556,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/is-discovery-rule-available.json",
+        "bytes": 557,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/can-stepchildren-claim.json",
+        "bytes": 514,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/what-funeral-costs-recoverable.json",
+        "bytes": 552,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/does-comparative-fault-reduce-payout.json",
+        "bytes": 578,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/who-liable-if-company-car-crash.json",
+        "bytes": 535,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/can-grandparents-sue-for-grandchild.json",
+        "bytes": 559,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/what-evidence-for-loss-of-care.json",
+        "bytes": 572,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/is-mediation-common-in-death-cases.json",
+        "bytes": 578,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/do-liens-reduce-wrongful-death.json",
+        "bytes": 564,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/can-out-of-state-family-sue.json",
+        "bytes": 527,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/what-if-criminal-case-pending.json",
+        "bytes": 555,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/is-every-dog-bite-owner-liable-in-ca.json",
+        "bytes": 676,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/what-if-bitten-trespassing.json",
+        "bytes": 582,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/do-rental-property-owners-share-fault.json",
+        "bytes": 579,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/can-kids-get-higher-dog-bite-awards.json",
+        "bytes": 597,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/what-proves-vicious-propensity.json",
+        "bytes": 578,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/are-mail-carriers-protected-specially.json",
+        "bytes": 579,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/does-homeowners-insurance-cover-bites.json",
+        "bytes": 597,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/what-medical-proof-for-infections.json",
+        "bytes": 601,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/can-you-sue-for-fear-of-dog-post-bite.json",
+        "bytes": 549,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/is-fence-jumping-dog-owner-liable.json",
+        "bytes": 581,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/what-about-dog-attack-scarring.json",
+        "bytes": 578,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/do-service-dogs-change-liability.json",
+        "bytes": 550,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/can-neighbors-sue-for-unleashed-dog.json",
+        "bytes": 579,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/what-records-prove-lost-wages.json",
+        "bytes": 555,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/is-breed-pit-bull-evidence-admissible.json",
+        "bytes": 587,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/who-liable-if-dog-bites-during-walk.json",
+        "bytes": 565,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/can-daycare-groomer-face-claims.json",
+        "bytes": 551,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/does-provocation-reduce-payout.json",
+        "bytes": 570,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/are-rabies-shots-always-covered.json",
+        "bytes": 557,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/what-if-bite-through-window-screen.json",
+        "bytes": 562,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/can-family-pets-bite-guests.json",
+        "bytes": 539,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/do-security-cameras-prove-attacks.json",
+        "bytes": 571,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/is-therapy-dog-fear-compensable.json",
+        "bytes": 549,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/what-about-dog-bite-property-damage.json",
+        "bytes": 583,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/can-cities-ban-specific-breeds.json",
+        "bytes": 558,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/who-liable-besides-truck-driver.json",
+        "bytes": 669,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/what-truck-black-box-records.json",
+        "bytes": 612,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/does-fmcsa-11-hour-driving-rule-apply.json",
+        "bytes": 581,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/are-higher-insurance-minimums-required.json",
+        "bytes": 600,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/what-underride-guard-failures-mean.json",
+        "bytes": 584,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/can-tire-blowouts-sue-manufacturers.json",
+        "bytes": 587,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/who-pays-for-hazardous-material-spills.json",
+        "bytes": 602,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/do-eld-logs-prove-violations.json",
+        "bytes": 588,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/is-dispatcher-liable-for-pressure.json",
+        "bytes": 587,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/what-cargo-securement-violations.json",
+        "bytes": 556,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/can-brake-failure-sue-mechanics.json",
+        "bytes": 569,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/do-truckers-need-special-licensing.json",
+        "bytes": 582,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/what-if-trucker-falls-asleep.json",
+        "bytes": 538,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/are-punitive-damages-common.json",
+        "bytes": 561,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/who-covers-jackknife-damages.json",
+        "bytes": 538,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/can-shippers-face-liability.json",
+        "bytes": 569,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/what-truck-dashcam-footage.json",
+        "bytes": 564,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/does-texting-ban-apply-federally.json",
+        "bytes": 542,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/are-amazon-contractor-trucks-liable.json",
+        "bytes": 557,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/what-rollover-physics-prove.json",
+        "bytes": 583,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/can-dot-records-show-patterns.json",
+        "bytes": 589,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/do-brokers-face-claims.json",
+        "bytes": 532,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/is-wide-turn-accommodation-absolute.json",
+        "bytes": 563,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/what-spill-response-costs.json",
+        "bytes": 551,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/can-insurers-delete-truck-data.json",
+        "bytes": 580,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/should-i-talk-to-insurance-right-after-crash.json",
+        "bytes": 668,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/what-if-i-feel-fine-but-hurt-later.json",
+        "bytes": 638,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/does-accepting-medical-payment-hurt-case.json",
+        "bytes": 644,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/how-prove-low-impact-crash-injuries.json",
+        "bytes": 617,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/what-if-stopped-suddenly-causing-rear-end.json",
+        "bytes": 635,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/can-i-claim-mileage-to-doctor-visits.json",
+        "bytes": 594,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/does-prescription-meds-prove-addiction.json",
+        "bytes": 616,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/what-if-dashcam-shows-their-fault.json",
+        "bytes": 573,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/is-intersection-yellow-light-defense-valid.json",
+        "bytes": 634,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/can-family-testify-for-pain-impact.json",
+        "bytes": 598,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/what-if-airbag-didn-t-deploy.json",
+        "bytes": 570,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/does-ca-require-accident-reports.json",
+        "bytes": 554,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/how-fight-pre-existing-condition.json",
+        "bytes": 586,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/what-covers-prescription-copays.json",
+        "bytes": 579,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/is-traffic-light-timing-evidence.json",
+        "bytes": 604,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/can-i-settle-property-separate-from-injury.json",
+        "bytes": 594,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/what-if-injured-passenger-in-friend-s-car.json",
+        "bytes": 581,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/does-seatbelt-non-use-reduce-payout.json",
+        "bytes": 587,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/how-value-missed-family-vacations.json",
+        "bytes": 581,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/what-if-cop-blames-me-wrongly.json",
+        "bytes": 577,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/can-chiropractic-bills-get-reduced.json",
+        "bytes": 570,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/does-weather-condition-share-fault.json",
+        "bytes": 606,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/what-proves-concussion-without-loc.json",
+        "bytes": 576,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/is-u-turn-accident-motorist-fault.json",
+        "bytes": 557,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/can-employer-pay-wages-during-disability.json",
+        "bytes": 590,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/what-if-insurer-records-calls.json",
+        "bytes": 575,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/does-parking-lot-have-different-rules.json",
+        "bytes": 615,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/how-prove-back-surgery-necessity.json",
+        "bytes": 568,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/what-covers-home-health-aide.json",
+        "bytes": 580,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/is-right-on-red-failure-common.json",
+        "bytes": 574,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/can-i-photograph-scene-from-hospital.json",
+        "bytes": 566,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/what-if-multiple-insurers-involved.json",
+        "bytes": 584,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/does-gym-membership-prove-faking.json",
+        "bytes": 570,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/how-fight-gap-insurance-denial.json",
+        "bytes": 566,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/what-proves-shoulder-labrum-tear.json",
+        "bytes": 558,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/is-freeway-merging-always-yield.json",
+        "bytes": 579,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/can-vocational-expert-value-career-loss.json",
+        "bytes": 593,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/what-if-driver-flees-scene.json",
+        "bytes": 552,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/does-ems-response-prove-severity.json",
+        "bytes": 574,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/how-calculate-daily-pain-value.json",
+        "bytes": 562,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/what-if-carpool-lane-violation-crash.json",
+        "bytes": 594,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/can-life-care-planner-project-costs.json",
+        "bytes": 593,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/does-prior-therapy-records-hurt.json",
+        "bytes": 581,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/what-proves-t-bone-intersection-fault.json",
+        "bytes": 597,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/is-prescription-refill-pattern-evidence.json",
+        "bytes": 577,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/can-economist-testify-lost-household.json",
+        "bytes": 586,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/what-if-semi-lane-change-hits.json",
+        "bytes": 563,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/does-weather-report-prove-causation.json",
+        "bytes": 587,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/how-value-intimacy-loss-damages.json",
+        "bytes": 587,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/what-if-cop-car-rear-ends-you.json",
+        "bytes": 563,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/can-accident-reconstruction-win-disputes.json",
+        "bytes": 596,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/do-car-accident-lawyers-charge-upfront.json",
+        "bytes": 628,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/what-is-a-contingency-fee-percentage.json",
+        "bytes": 608,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/are-consultations-free-for-accidents.json",
+        "bytes": 630,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/who-pays-case-expenses-like-experts.json",
+        "bytes": 625,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/does-fee-increase-for-complex-cases.json",
+        "bytes": 609,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/can-i-negotiate-attorney-percentage.json",
+        "bytes": 645,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/what-if-settlement-under-10k.json",
+        "bytes": 592,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/do-fees-come-before-or-after-costs.json",
+        "bytes": 620,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/is-there-flat-fee-option-available.json",
+        "bytes": 604,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/what-happens-if-case-loses.json",
+        "bytes": 532,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/how-soon-after-accident-for-free-consult.json",
+        "bytes": 634,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/does-case-value-affect-fee-rate.json",
+        "bytes": 601,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/are-hourly-rates-ever-charged.json",
+        "bytes": 595,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/what-fee-agreement-must-disclose.json",
+        "bytes": 604,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/can-i-switch-lawyers-mid-case.json",
+        "bytes": 555,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/do-liens-reduce-my-net-after-fees.json",
+        "bytes": 601,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/is-40-trial-fee-always-charged.json",
+        "bytes": 582,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/what-costs-total-typically.json",
+        "bytes": 582,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/free-second-opinion-on-settlement.json",
+        "bytes": 595,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/does-experience-affect-fee.json",
+        "bytes": 562,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/can-fees-be-deducted-from-gross.json",
+        "bytes": 613,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/what-if-insurer-pays-direct-medicals.json",
+        "bytes": 606,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/is-written-retainer-always-required.json",
+        "bytes": 583,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/do-referrals-get-fee-discounts.json",
+        "bytes": 556,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/when-receive-net-settlement-check.json",
+        "bytes": 583,
+        "purpose": "schema"
+      }
+    ],
+    "services": [
+      {
+        "path": "services/car-accident-service.json",
+        "bytes": 1315,
+        "purpose": "schema"
+      },
+      {
+        "path": "services/e-bike-accident-service.json",
+        "bytes": 1333,
+        "purpose": "schema"
+      },
+      {
+        "path": "services/motorcycle-accident-service.json",
+        "bytes": 1315,
+        "purpose": "schema"
+      },
+      {
+        "path": "services/truck-accident-service.json",
+        "bytes": 1342,
+        "purpose": "schema"
+      },
+      {
+        "path": "services/dog-bite-service.json",
+        "bytes": 1340,
+        "purpose": "schema"
+      },
+      {
+        "path": "services/wrongful-death-attorneydustin-3-service.json",
+        "bytes": 1349,
+        "purpose": "schema"
+      },
+      {
+        "path": "services/wrongful-death-service.json",
+        "bytes": 1319,
+        "purpose": "schema"
+      },
+      {
+        "path": "services/car-accident-lawyer-service.json",
+        "bytes": 2981,
+        "purpose": "schema"
+      },
+      {
+        "path": "services/rear-end-collision-attorney-service.json",
+        "bytes": 3014,
+        "purpose": "schema"
+      },
+      {
+        "path": "services/t-bone-accident-lawyer-service.json",
+        "bytes": 2969,
+        "purpose": "schema"
+      },
+      {
+        "path": "services/head-on-collision-attorney-service.json",
+        "bytes": 3002,
+        "purpose": "schema"
+      },
+      {
+        "path": "services/intersection-accident-lawyer-service.json",
+        "bytes": 3017,
+        "purpose": "schema"
+      },
+      {
+        "path": "services/hit-and-run-accident-attorney-service.json",
+        "bytes": 2988,
+        "purpose": "schema"
+      },
+      {
+        "path": "services/multi-vehicle-accident-lawyer-service.json",
+        "bytes": 3009,
+        "purpose": "schema"
+      },
+      {
+        "path": "services/distracted-driving-accident-attorney-service.json",
+        "bytes": 3045,
+        "purpose": "schema"
+      },
+      {
+        "path": "services/drunk-driving-accident-lawyer-service.json",
+        "bytes": 2988,
+        "purpose": "schema"
+      },
+      {
+        "path": "services/rideshare-accident-attorney-service.json",
+        "bytes": 3003,
+        "purpose": "schema"
+      },
+      {
+        "path": "services/uninsured-driver-accident-lawyer-service.json",
+        "bytes": 3031,
+        "purpose": "schema"
+      },
+      {
+        "path": "services/underinsured-driver-accident-attorney-service.json",
+        "bytes": 3010,
+        "purpose": "schema"
+      },
+      {
+        "path": "services/freeway-accident-lawyer-service.json",
+        "bytes": 2995,
+        "purpose": "schema"
+      },
+      {
+        "path": "services/parking-lot-accident-attorney-service.json",
+        "bytes": 3022,
+        "purpose": "schema"
+      },
+      {
+        "path": "services/e-bike-accident-lawyer-service.json",
+        "bytes": 2965,
+        "purpose": "schema"
+      },
+      {
+        "path": "services/e-bike-hit-by-car-attorney-service.json",
+        "bytes": 3002,
+        "purpose": "schema"
+      },
+      {
+        "path": "services/shared-e-bike-accident-attorney-service.json",
+        "bytes": 3026,
+        "purpose": "schema"
+      },
+      {
+        "path": "services/e-bike-hit-by-truck-lawyer-service.json",
+        "bytes": 2981,
+        "purpose": "schema"
+      },
+      {
+        "path": "services/defective-e-bike-accident-attorney-service.json",
+        "bytes": 3026,
+        "purpose": "schema"
+      },
+      {
+        "path": "services/e-bike-battery-fire-lawyer-service.json",
+        "bytes": 3011,
+        "purpose": "schema"
+      },
+      {
+        "path": "services/child-e-bike-accident-attorney-service.json",
+        "bytes": 2991,
+        "purpose": "schema"
+      },
+      {
+        "path": "services/e-bike-pedestrian-accident-lawyer-service.json",
+        "bytes": 3021,
+        "purpose": "schema"
+      },
+      {
+        "path": "services/motorcycle-accident-lawyer-service.json",
+        "bytes": 3015,
+        "purpose": "schema"
+      },
+      {
+        "path": "services/left-turn-motorcycle-accident-attorney-service.json",
+        "bytes": 3015,
+        "purpose": "schema"
+      },
+      {
+        "path": "services/lane-change-motorcycle-accident-lawyer-service.json",
+        "bytes": 3036,
+        "purpose": "schema"
+      },
+      {
+        "path": "services/motorcycle-sideswipe-accident-attorney-service.json",
+        "bytes": 3049,
+        "purpose": "schema"
+      },
+      {
+        "path": "services/motorcycle-road-hazard-accident-lawyer-service.json",
+        "bytes": 3013,
+        "purpose": "schema"
+      },
+      {
+        "path": "services/motorcycle-truck-accident-attorney-service.json",
+        "bytes": 3028,
+        "purpose": "schema"
+      },
+      {
+        "path": "services/motorcycle-passenger-injury-lawyer-service.json",
+        "bytes": 3037,
+        "purpose": "schema"
+      },
+      {
+        "path": "services/motorcycle-hit-and-run-accident-attorney-service.json",
+        "bytes": 3019,
+        "purpose": "schema"
+      },
+      {
+        "path": "services/defective-motorcycle-part-accident-lawyer-service.json",
+        "bytes": 3047,
+        "purpose": "schema"
+      },
+      {
+        "path": "services/truck-accident-lawyer-service.json",
+        "bytes": 2996,
+        "purpose": "schema"
+      },
+      {
+        "path": "services/semi-truck-accident-attorney-service.json",
+        "bytes": 2987,
+        "purpose": "schema"
+      },
+      {
+        "path": "services/18-wheeler-accident-lawyer-service.json",
+        "bytes": 3002,
+        "purpose": "schema"
+      },
+      {
+        "path": "services/big-rig-accident-attorney-service.json",
+        "bytes": 3008,
+        "purpose": "schema"
+      },
+      {
+        "path": "services/commercial-truck-accident-lawyer-service.json",
+        "bytes": 2997,
+        "purpose": "schema"
+      },
+      {
+        "path": "services/delivery-truck-accident-attorney-service.json",
+        "bytes": 3018,
+        "purpose": "schema"
+      },
+      {
+        "path": "services/dump-truck-accident-attorney-service.json",
+        "bytes": 3021,
+        "purpose": "schema"
+      },
+      {
+        "path": "services/garbage-truck-accident-lawyer-service.json",
+        "bytes": 2988,
+        "purpose": "schema"
+      },
+      {
+        "path": "services/jackknife-truck-accident-attorney-service.json",
+        "bytes": 3021,
+        "purpose": "schema"
+      },
+      {
+        "path": "services/underride-truck-accident-lawyer-service.json",
+        "bytes": 3028,
+        "purpose": "schema"
+      },
+      {
+        "path": "services/wide-turn-truck-accident-attorney-service.json",
+        "bytes": 2998,
+        "purpose": "schema"
+      },
+      {
+        "path": "services/unsecured-cargo-accident-lawyer-service.json",
+        "bytes": 3019,
+        "purpose": "schema"
+      },
+      {
+        "path": "services/overloaded-truck-accident-attorney-service.json",
+        "bytes": 3037,
+        "purpose": "schema"
+      },
+      {
+        "path": "services/fatigued-truck-driver-accident-lawyer-service.json",
+        "bytes": 3010,
+        "purpose": "schema"
+      },
+      {
+        "path": "services/dog-bite-lawyer-service.json",
+        "bytes": 2969,
+        "purpose": "schema"
+      },
+      {
+        "path": "services/dog-attack-attorney-service.json",
+        "bytes": 2990,
+        "purpose": "schema"
+      },
+      {
+        "path": "services/serious-dog-bite-injury-lawyer-service.json",
+        "bytes": 2993,
+        "purpose": "schema"
+      },
+      {
+        "path": "services/child-dog-bite-attorney-service.json",
+        "bytes": 2993,
+        "purpose": "schema"
+      },
+      {
+        "path": "services/facial-dog-bite-lawyer-service.json",
+        "bytes": 2999,
+        "purpose": "schema"
+      },
+      {
+        "path": "services/loose-dog-attack-attorney-service.json",
+        "bytes": 2976,
+        "purpose": "schema"
+      },
+      {
+        "path": "services/wrongful-death-attorney-service.json",
+        "bytes": 2991,
+        "purpose": "schema"
+      },
+      {
+        "path": "services/fatal-car-accident-lawyer-service.json",
+        "bytes": 3012,
+        "purpose": "schema"
+      },
+      {
+        "path": "services/fatal-motorcycle-accident-attorney-service.json",
+        "bytes": 3003,
+        "purpose": "schema"
+      },
+      {
+        "path": "services/fatal-truck-accident-lawyer-service.json",
+        "bytes": 3003,
+        "purpose": "schema"
+      },
+      {
+        "path": "services/fatal-pedestrian-accident-attorney-service.json",
+        "bytes": 3037,
+        "purpose": "schema"
+      },
+      {
+        "path": "services/fatal-bicycle-accident-lawyer-service.json",
+        "bytes": 2986,
+        "purpose": "schema"
+      },
+      {
+        "path": "services/fatal-hit-and-run-accident-attorney-service.json",
+        "bytes": 3031,
+        "purpose": "schema"
+      },
+      {
+        "path": "services/fatal-drunk-driving-accident-lawyer-service.json",
+        "bytes": 3040,
+        "purpose": "schema"
+      },
+      {
+        "path": "services/workplace-death-attorney-service.json",
+        "bytes": 2971,
+        "purpose": "schema"
+      },
+      {
+        "path": "services/fatal-dog-attack-lawyer-service.json",
+        "bytes": 2993,
+        "purpose": "schema"
+      }
+    ],
+    "lawyers": [
+      {
+        "path": "lawyers/dustin-nicholas-maricic-profile.json",
+        "bytes": 2959,
+        "purpose": "schema"
+      },
+      {
+        "path": "lawyers/dustin-nicholas-maricic-temecula.json",
+        "bytes": 2362,
+        "purpose": "schema"
+      },
+      {
+        "path": "lawyers/dustin-nicholas-maricic-murrieta.json",
+        "bytes": 2362,
+        "purpose": "schema"
+      },
+      {
+        "path": "lawyers/dustin-nicholas-maricic-canyon-lake.json",
+        "bytes": 2365,
+        "purpose": "schema"
+      },
+      {
+        "path": "lawyers/dustin-nicholas-maricic-sun-city.json",
+        "bytes": 2362,
+        "purpose": "schema"
+      },
+      {
+        "path": "lawyers/dustin-nicholas-maricic-winchester.json",
+        "bytes": 2364,
+        "purpose": "schema"
+      },
+      {
+        "path": "lawyers/dustin-nicholas-maricic-wildomar.json",
+        "bytes": 2362,
+        "purpose": "schema"
+      },
+      {
+        "path": "lawyers/dustin-nicholas-maricic-menifee.json",
+        "bytes": 2361,
+        "purpose": "schema"
+      },
+      {
+        "path": "lawyers/dustin-nicholas-maricic-riverside.json",
+        "bytes": 2367,
+        "purpose": "schema"
+      },
+      {
+        "path": "lawyers/dustin-nicholas-maricic-and-surrounding-areas-in-southern-california.json",
+        "bytes": 2398,
+        "purpose": "schema"
+      },
+      {
+        "path": "lawyers/dustin-nicholas-maricic-including-san-diego-and-los-angeles-regions.json",
+        "bytes": 2398,
+        "purpose": "schema"
+      },
+      {
+        "path": "lawyers/dustin-nicholas-maricic-riverside-attorneyatlaw-1.json",
+        "bytes": 2379,
+        "purpose": "schema"
+      }
+    ],
+    "help": [
+      {
+        "path": "help/e-bike-injury-statistics-surge.json",
+        "bytes": 1097,
+        "purpose": "schema"
+      },
+      {
+        "path": "help/california-e-bike-classifications.json",
+        "bytes": 1105,
+        "purpose": "schema"
+      },
+      {
+        "path": "help/helmet-laws-after-e-bike-crashes.json",
+        "bytes": 1055,
+        "purpose": "schema"
+      },
+      {
+        "path": "help/filing-police-report-post-e-bike-hit.json",
+        "bytes": 1067,
+        "purpose": "schema"
+      },
+      {
+        "path": "help/proving-driver-liability-in-e-bike-cases.json",
+        "bytes": 1065,
+        "purpose": "schema"
+      },
+      {
+        "path": "help/e-bike-battery-defect-claims.json",
+        "bytes": 1051,
+        "purpose": "schema"
+      },
+      {
+        "path": "help/rental-e-bike-accident-rights.json",
+        "bytes": 1035,
+        "purpose": "schema"
+      },
+      {
+        "path": "help/bike-lane-crash-liability.json",
+        "bytes": 1034,
+        "purpose": "schema"
+      },
+      {
+        "path": "help/doorings-parked-car-liability.json",
+        "bytes": 1018,
+        "purpose": "schema"
+      },
+      {
+        "path": "help/pothole-claims-against-cities.json",
+        "bytes": 1020,
+        "purpose": "schema"
+      },
+      {
+        "path": "help/e-bike-speed-limit-violations.json",
+        "bytes": 1035,
+        "purpose": "schema"
+      },
+      {
+        "path": "help/night-riding-visibility-tips.json",
+        "bytes": 1034,
+        "purpose": "schema"
+      },
+      {
+        "path": "help/passenger-claims-on-e-bikes.json",
+        "bytes": 1022,
+        "purpose": "schema"
+      },
+      {
+        "path": "help/e-bike-insurance-coverage.json",
+        "bytes": 1033,
+        "purpose": "schema"
+      },
+      {
+        "path": "help/delivery-e-bike-crashes-uber-eats.json",
+        "bytes": 1027,
+        "purpose": "schema"
+      },
+      {
+        "path": "help/e-bike-brake-failure-evidence.json",
+        "bytes": 1024,
+        "purpose": "schema"
+      },
+      {
+        "path": "help/trail-and-path-e-bike-rules.json",
+        "bytes": 1016,
+        "purpose": "schema"
+      },
+      {
+        "path": "help/modifications-and-insurance-voids.json",
+        "bytes": 1034,
+        "purpose": "schema"
+      },
+      {
+        "path": "help/app-data-in-e-bike-claims.json",
+        "bytes": 1011,
+        "purpose": "schema"
+      },
+      {
+        "path": "help/pedestrian-vs-e-bike-collisions.json",
+        "bytes": 1001,
+        "purpose": "schema"
+      },
+      {
+        "path": "help/children-under-16-on-class-3.json",
+        "bytes": 1006,
+        "purpose": "schema"
+      },
+      {
+        "path": "help/product-liability-time-limits.json",
+        "bytes": 1021,
+        "purpose": "schema"
+      },
+      {
+        "path": "help/e-bike-fire-hazards-and-claims.json",
+        "bytes": 1021,
+        "purpose": "schema"
+      },
+      {
+        "path": "help/common-e-bike-fracture-patterns.json",
+        "bytes": 1016,
+        "purpose": "schema"
+      },
+      {
+        "path": "help/when-to-call-pi-attorney-post-crash.json",
+        "bytes": 1031,
+        "purpose": "schema"
+      },
+      {
+        "path": "help/who-can-file-wrongful-death-in-ca.json",
+        "bytes": 1056,
+        "purpose": "schema"
+      },
+      {
+        "path": "help/2-year-statute-for-fatal-crashes.json",
+        "bytes": 1026,
+        "purpose": "schema"
+      },
+      {
+        "path": "help/damages-lost-financial-support.json",
+        "bytes": 1030,
+        "purpose": "schema"
+      },
+      {
+        "path": "help/pain-before-death-recovery.json",
+        "bytes": 1020,
+        "purpose": "schema"
+      },
+      {
+        "path": "help/car-crash-wrongful-death-stats.json",
+        "bytes": 1029,
+        "purpose": "schema"
+      },
+      {
+        "path": "help/dog-bite-fatality-heir-rights.json",
+        "bytes": 1029,
+        "purpose": "schema"
+      },
+      {
+        "path": "help/e-bike-fatalities-family-claims.json",
+        "bytes": 1032,
+        "purpose": "schema"
+      },
+      {
+        "path": "help/motorcycle-wrongful-death-payouts.json",
+        "bytes": 1010,
+        "purpose": "schema"
+      },
+      {
+        "path": "help/truck-crash-multiple-defendants.json",
+        "bytes": 1009,
+        "purpose": "schema"
+      },
+      {
+        "path": "help/dividing-wrongful-death-proceeds.json",
+        "bytes": 1022,
+        "purpose": "schema"
+      },
+      {
+        "path": "help/punitive-damages-in-fatal-dui.json",
+        "bytes": 1010,
+        "purpose": "schema"
+      },
+      {
+        "path": "help/minor-children-wrongful-death.json",
+        "bytes": 1000,
+        "purpose": "schema"
+      },
+      {
+        "path": "help/delayed-death-time-limits.json",
+        "bytes": 988,
+        "purpose": "schema"
+      },
+      {
+        "path": "help/funeral-costs-in-settlements.json",
+        "bytes": 1002,
+        "purpose": "schema"
+      },
+      {
+        "path": "help/comparative-fault-in-wd-cases.json",
+        "bytes": 1009,
+        "purpose": "schema"
+      },
+      {
+        "path": "help/estate-vs-wrongful-death-suits.json",
+        "bytes": 1006,
+        "purpose": "schema"
+      },
+      {
+        "path": "help/no-spouse-parent-claims.json",
+        "bytes": 991,
+        "purpose": "schema"
+      },
+      {
+        "path": "help/liens-on-wrongful-death-awards.json",
+        "bytes": 1010,
+        "purpose": "schema"
+      },
+      {
+        "path": "help/out-of-state-heirs-filing.json",
+        "bytes": 980,
+        "purpose": "schema"
+      },
+      {
+        "path": "help/criminal-conviction-aids-civil.json",
+        "bytes": 1004,
+        "purpose": "schema"
+      },
+      {
+        "path": "help/loss-of-care-companion-damages.json",
+        "bytes": 1009,
+        "purpose": "schema"
+      },
+      {
+        "path": "help/mediation-before-wd-trial.json",
+        "bytes": 1003,
+        "purpose": "schema"
+      },
+      {
+        "path": "help/stepchild-wrongful-death-rights.json",
+        "bytes": 991,
+        "purpose": "schema"
+      },
+      {
+        "path": "help/company-vehicle-fatal-liability.json",
+        "bytes": 1004,
+        "purpose": "schema"
+      },
+      {
+        "path": "help/free-wd-consult-after-crash.json",
+        "bytes": 1022,
+        "purpose": "schema"
+      },
+      {
+        "path": "help/california-strict-liability-dog-bites.json",
+        "bytes": 1076,
+        "purpose": "schema"
+      },
+      {
+        "path": "help/2-year-statute-for-dog-bite-claims.json",
+        "bytes": 1010,
+        "purpose": "schema"
+      },
+      {
+        "path": "help/public-vs-private-property-bites.json",
+        "bytes": 1026,
+        "purpose": "schema"
+      },
+      {
+        "path": "help/infection-risks-after-dog-bites.json",
+        "bytes": 1031,
+        "purpose": "schema"
+      },
+      {
+        "path": "help/landlord-liability-for-tenant-dogs.json",
+        "bytes": 1015,
+        "purpose": "schema"
+      },
+      {
+        "path": "help/child-dog-bite-damages-higher.json",
+        "bytes": 1020,
+        "purpose": "schema"
+      },
+      {
+        "path": "help/homeowners-insurance-coverage.json",
+        "bytes": 1011,
+        "purpose": "schema"
+      },
+      {
+        "path": "help/proving-vicious-propensity.json",
+        "bytes": 1018,
+        "purpose": "schema"
+      },
+      {
+        "path": "help/scarring-and-plastic-surgery-costs.json",
+        "bytes": 1026,
+        "purpose": "schema"
+      },
+      {
+        "path": "help/dog-walker-handler-liability.json",
+        "bytes": 1019,
+        "purpose": "schema"
+      },
+      {
+        "path": "help/fence-jumping-dog-attacks.json",
+        "bytes": 999,
+        "purpose": "schema"
+      },
+      {
+        "path": "help/mail-carrier-special-protections.json",
+        "bytes": 1008,
+        "purpose": "schema"
+      },
+      {
+        "path": "help/leash-law-violations-evidence.json",
+        "bytes": 1000,
+        "purpose": "schema"
+      },
+      {
+        "path": "help/emotional-distress-after-bites.json",
+        "bytes": 1011,
+        "purpose": "schema"
+      },
+      {
+        "path": "help/service-dog-bite-liability.json",
+        "bytes": 1002,
+        "purpose": "schema"
+      },
+      {
+        "path": "help/daycare-groomer-dog-attacks.json",
+        "bytes": 1005,
+        "purpose": "schema"
+      },
+      {
+        "path": "help/breed-bans-don-t-eliminate-liability.json",
+        "bytes": 1009,
+        "purpose": "schema"
+      },
+      {
+        "path": "help/window-screen-bite-claims.json",
+        "bytes": 997,
+        "purpose": "schema"
+      },
+      {
+        "path": "help/family-pet-bites-guests.json",
+        "bytes": 1009,
+        "purpose": "schema"
+      },
+      {
+        "path": "help/security-camera-footage-evidence.json",
+        "bytes": 1002,
+        "purpose": "schema"
+      },
+      {
+        "path": "help/rabies-shot-er-costs-recoverable.json",
+        "bytes": 1008,
+        "purpose": "schema"
+      },
+      {
+        "path": "help/property-damage-from-dog-attacks.json",
+        "bytes": 1013,
+        "purpose": "schema"
+      },
+      {
+        "path": "help/criminal-charges-against-owners.json",
+        "bytes": 1005,
+        "purpose": "schema"
+      },
+      {
+        "path": "help/free-dog-bite-case-evaluation.json",
+        "bytes": 1015,
+        "purpose": "schema"
+      },
+      {
+        "path": "help/plastic-surgery-after-severe-bites.json",
+        "bytes": 1019,
+        "purpose": "schema"
+      },
+      {
+        "path": "help/california-motorcycle-helmet-law.json",
+        "bytes": 1069,
+        "purpose": "schema"
+      },
+      {
+        "path": "help/lane-splitting-legality-guide.json",
+        "bytes": 1057,
+        "purpose": "schema"
+      },
+      {
+        "path": "help/2-year-statute-for-bike-injuries.json",
+        "bytes": 1028,
+        "purpose": "schema"
+      },
+      {
+        "path": "help/left-turn-crash-liability.json",
+        "bytes": 1008,
+        "purpose": "schema"
+      },
+      {
+        "path": "help/dmv-sr-1-filing-after-crash.json",
+        "bytes": 1032,
+        "purpose": "schema"
+      },
+      {
+        "path": "help/pure-comparative-fault-explained.json",
+        "bytes": 1014,
+        "purpose": "schema"
+      },
+      {
+        "path": "help/chp-traffic-collision-report.json",
+        "bytes": 1006,
+        "purpose": "schema"
+      },
+      {
+        "path": "help/helmet-non-use-impact.json",
+        "bytes": 996,
+        "purpose": "schema"
+      },
+      {
+        "path": "help/road-hazard-motorcycle-claims.json",
+        "bytes": 1011,
+        "purpose": "schema"
+      },
+      {
+        "path": "help/custom-bike-value-proof.json",
+        "bytes": 1012,
+        "purpose": "schema"
+      },
+      {
+        "path": "help/leather-gear-evidence.json",
+        "bytes": 1000,
+        "purpose": "schema"
+      },
+      {
+        "path": "help/rear-end-bike-presumption.json",
+        "bytes": 992,
+        "purpose": "schema"
+      },
+      {
+        "path": "help/group-ride-liability.json",
+        "bytes": 985,
+        "purpose": "schema"
+      },
+      {
+        "path": "help/visibility-aids-admissible.json",
+        "bytes": 1018,
+        "purpose": "schema"
+      },
+      {
+        "path": "help/m1-license-irrelevant-civilly.json",
+        "bytes": 998,
+        "purpose": "schema"
+      },
+      {
+        "path": "help/track-day-waiver-limits.json",
+        "bytes": 982,
+        "purpose": "schema"
+      },
+      {
+        "path": "help/gravel-shoulder-claims.json",
+        "bytes": 993,
+        "purpose": "schema"
+      },
+      {
+        "path": "help/bike-black-box-data.json",
+        "bytes": 991,
+        "purpose": "schema"
+      },
+      {
+        "path": "help/rental-harley-reimbursement.json",
+        "bytes": 998,
+        "purpose": "schema"
+      },
+      {
+        "path": "help/prior-tickets-don-t-bar-claims.json",
+        "bytes": 1005,
+        "purpose": "schema"
+      },
+      {
+        "path": "help/fellow-biker-hit-claims.json",
+        "bytes": 971,
+        "purpose": "schema"
+      },
+      {
+        "path": "help/bike-box-liability.json",
+        "bytes": 988,
+        "purpose": "schema"
+      },
+      {
+        "path": "help/enjoyment-loss-damages.json",
+        "bytes": 999,
+        "purpose": "schema"
+      },
+      {
+        "path": "help/crotch-rocket-bias-defense.json",
+        "bytes": 996,
+        "purpose": "schema"
+      },
+      {
+        "path": "help/free-motorcycle-case-consult.json",
+        "bytes": 996,
+        "purpose": "schema"
+      },
+      {
+        "path": "help/fmcsa-hours-of-service-rules.json",
+        "bytes": 1059,
+        "purpose": "schema"
+      },
+      {
+        "path": "help/truck-black-box-ecm-data.json",
+        "bytes": 1046,
+        "purpose": "schema"
+      },
+      {
+        "path": "help/vicarious-liability-driver-vs-company.json",
+        "bytes": 1055,
+        "purpose": "schema"
+      },
+      {
+        "path": "help/750k-commercial-insurance-minimums.json",
+        "bytes": 1017,
+        "purpose": "schema"
+      },
+      {
+        "path": "help/underride-guard-failures.json",
+        "bytes": 1028,
+        "purpose": "schema"
+      },
+      {
+        "path": "help/eld-electronic-log-violations.json",
+        "bytes": 1040,
+        "purpose": "schema"
+      },
+      {
+        "path": "help/cargo-securement-fmcsa-rules.json",
+        "bytes": 1032,
+        "purpose": "schema"
+      },
+      {
+        "path": "help/tire-blowout-product-liability.json",
+        "bytes": 1005,
+        "purpose": "schema"
+      },
+      {
+        "path": "help/brake-failure-inspection-records.json",
+        "bytes": 1038,
+        "purpose": "schema"
+      },
+      {
+        "path": "help/dispatcher-pressure-texts.json",
+        "bytes": 996,
+        "purpose": "schema"
+      },
+      {
+        "path": "help/jackknife-crash-physics.json",
+        "bytes": 1027,
+        "purpose": "schema"
+      },
+      {
+        "path": "help/csa-safety-score-records.json",
+        "bytes": 996,
+        "purpose": "schema"
+      },
+      {
+        "path": "help/amazon-dsp-contractor-liability.json",
+        "bytes": 994,
+        "purpose": "schema"
+      },
+      {
+        "path": "help/hazardous-material-spill-claims.json",
+        "bytes": 1036,
+        "purpose": "schema"
+      },
+      {
+        "path": "help/truck-dashcam-coach-footage.json",
+        "bytes": 1000,
+        "purpose": "schema"
+      },
+      {
+        "path": "help/broker-negligent-hiring-claims.json",
+        "bytes": 1030,
+        "purpose": "schema"
+      },
+      {
+        "path": "help/wide-turn-accommodation-limits.json",
+        "bytes": 1028,
+        "purpose": "schema"
+      },
+      {
+        "path": "help/cdl-license-compliance-2026.json",
+        "bytes": 1008,
+        "purpose": "schema"
+      },
+      {
+        "path": "help/ab98-truck-routing-plans.json",
+        "bytes": 1010,
+        "purpose": "schema"
+      },
+      {
+        "path": "help/move-over-law-expansion.json",
+        "bytes": 1004,
+        "purpose": "schema"
+      },
+      {
+        "path": "help/rollover-center-gravity-defects.json",
+        "bytes": 1025,
+        "purpose": "schema"
+      },
+      {
+        "path": "help/texting-ban-federal-enforcement.json",
+        "bytes": 1024,
+        "purpose": "schema"
+      },
+      {
+        "path": "help/spoliation-penalties-data-deletion.json",
+        "bytes": 1002,
+        "purpose": "schema"
+      },
+      {
+        "path": "help/punitive-damages-reckless-trucking.json",
+        "bytes": 1029,
+        "purpose": "schema"
+      },
+      {
+        "path": "help/free-truck-accident-evaluation.json",
+        "bytes": 1016,
+        "purpose": "schema"
+      },
+      {
+        "path": "help/california-2-year-injury-statute.json",
+        "bytes": 1141,
+        "purpose": "schema"
+      },
+      {
+        "path": "help/mandatory-chp-collision-report.json",
+        "bytes": 1090,
+        "purpose": "schema"
+      },
+      {
+        "path": "help/dmv-sr-1-form-filing-guide.json",
+        "bytes": 1047,
+        "purpose": "schema"
+      },
+      {
+        "path": "help/rear-end-presumption-of-fault.json",
+        "bytes": 1042,
+        "purpose": "schema"
+      },
+      {
+        "path": "help/delayed-injury-documentation.json",
+        "bytes": 1039,
+        "purpose": "schema"
+      },
+      {
+        "path": "help/never-give-recorded-statements.json",
+        "bytes": 1044,
+        "purpose": "schema"
+      },
+      {
+        "path": "help/low-impact-crash-injury-proof.json",
+        "bytes": 1035,
+        "purpose": "schema"
+      },
+      {
+        "path": "help/medical-payment-coverage-risks.json",
+        "bytes": 1032,
+        "purpose": "schema"
+      },
+      {
+        "path": "help/police-opinion-inadmissible.json",
+        "bytes": 1023,
+        "purpose": "schema"
+      },
+      {
+        "path": "help/dashcam-footage-preservation.json",
+        "bytes": 1025,
+        "purpose": "schema"
+      },
+      {
+        "path": "help/seatbelt-non-use-limits.json",
+        "bytes": 1019,
+        "purpose": "schema"
+      },
+      {
+        "path": "help/intersection-yellow-light-rules.json",
+        "bytes": 1027,
+        "purpose": "schema"
+      },
+      {
+        "path": "help/right-on-red-complete-stop.json",
+        "bytes": 1004,
+        "purpose": "schema"
+      },
+      {
+        "path": "help/u-turn-yield-requirements.json",
+        "bytes": 1016,
+        "purpose": "schema"
+      },
+      {
+        "path": "help/freeway-merging-zipper-rule.json",
+        "bytes": 1019,
+        "purpose": "schema"
+      },
+      {
+        "path": "help/carpool-lane-violation-fault.json",
+        "bytes": 1009,
+        "purpose": "schema"
+      },
+      {
+        "path": "help/hit-and-run-uninsured-claims.json",
+        "bytes": 1011,
+        "purpose": "schema"
+      },
+      {
+        "path": "help/parking-lot-negligence-same.json",
+        "bytes": 1014,
+        "purpose": "schema"
+      },
+      {
+        "path": "help/gap-insurance-denial-defense.json",
+        "bytes": 1011,
+        "purpose": "schema"
+      },
+      {
+        "path": "help/pre-existing-condition-aggravation.json",
+        "bytes": 1028,
+        "purpose": "schema"
+      },
+      {
+        "path": "help/chiropractic-bill-reductions.json",
+        "bytes": 1024,
+        "purpose": "schema"
+      },
+      {
+        "path": "help/traffic-light-controller-data.json",
+        "bytes": 1016,
+        "purpose": "schema"
+      },
+      {
+        "path": "help/ems-lights-sirens-proof.json",
+        "bytes": 1001,
+        "purpose": "schema"
+      },
+      {
+        "path": "help/per-diem-pain-calculation.json",
+        "bytes": 1017,
+        "purpose": "schema"
+      },
+      {
+        "path": "help/life-care-planner-future-costs.json",
+        "bytes": 1023,
+        "purpose": "schema"
+      },
+      {
+        "path": "help/vocational-expert-earnings-loss.json",
+        "bytes": 996,
+        "purpose": "schema"
+      },
+      {
+        "path": "help/economist-household-services.json",
+        "bytes": 1014,
+        "purpose": "schema"
+      },
+      {
+        "path": "help/loss-of-consortium-spouse-claim.json",
+        "bytes": 1016,
+        "purpose": "schema"
+      },
+      {
+        "path": "help/multi-car-fault-allocation.json",
+        "bytes": 1010,
+        "purpose": "schema"
+      },
+      {
+        "path": "help/weather-official-records-only.json",
+        "bytes": 1019,
+        "purpose": "schema"
+      },
+      {
+        "path": "help/drunk-driver-punitive-damages.json",
+        "bytes": 995,
+        "purpose": "schema"
+      },
+      {
+        "path": "help/rideshare-uber-lyft-layers.json",
+        "bytes": 989,
+        "purpose": "schema"
+      },
+      {
+        "path": "help/texting-phone-record-subpoena.json",
+        "bytes": 1013,
+        "purpose": "schema"
+      },
+      {
+        "path": "help/workers-comp-third-party.json",
+        "bytes": 1012,
+        "purpose": "schema"
+      },
+      {
+        "path": "help/surveillance-camera-defenses.json",
+        "bytes": 1015,
+        "purpose": "schema"
+      },
+      {
+        "path": "help/social-media-privacy-settings.json",
+        "bytes": 1017,
+        "purpose": "schema"
+      },
+      {
+        "path": "help/prescription-patterns-evidence.json",
+        "bytes": 1006,
+        "purpose": "schema"
+      },
+      {
+        "path": "help/mri-arthrograms-for-shoulders.json",
+        "bytes": 998,
+        "purpose": "schema"
+      },
+      {
+        "path": "help/nerve-conduction-emg-studies.json",
+        "bytes": 1003,
+        "purpose": "schema"
+      },
+      {
+        "path": "help/herniated-disc-surgery-proof.json",
+        "bytes": 1006,
+        "purpose": "schema"
+      },
+      {
+        "path": "help/concussion-without-loc-proof.json",
+        "bytes": 1007,
+        "purpose": "schema"
+      },
+      {
+        "path": "help/cortisone-injection-bills.json",
+        "bytes": 1008,
+        "purpose": "schema"
+      },
+      {
+        "path": "help/home-health-aide-post-discharge.json",
+        "bytes": 996,
+        "purpose": "schema"
+      },
+      {
+        "path": "help/irs-mileage-to-medical-visits.json",
+        "bytes": 1007,
+        "purpose": "schema"
+      },
+      {
+        "path": "help/childcare-costs-during-recovery.json",
+        "bytes": 1010,
+        "purpose": "schema"
+      },
+      {
+        "path": "help/moving-expenses-disability.json",
+        "bytes": 1010,
+        "purpose": "schema"
+      },
+      {
+        "path": "help/gym-exercise-strengthens-case.json",
+        "bytes": 1015,
+        "purpose": "schema"
+      },
+      {
+        "path": "help/accident-reconstruction-experts.json",
+        "bytes": 1008,
+        "purpose": "schema"
+      },
+      {
+        "path": "help/free-24-7-car-crash-evaluation.json",
+        "bytes": 1023,
+        "purpose": "schema"
+      }
+    ],
+    "locations": [
+      {
+        "path": "locations/maricic-law-firm-office.json",
+        "bytes": 329,
+        "purpose": "schema"
+      }
+    ],
+    "awards": [
+      {
+        "path": "awards/top-50-verdicts-in-california-co-counsel-recognition.json",
+        "bytes": 363,
+        "purpose": "schema"
+      },
+      {
+        "path": "awards/5-0-5-0-avvo-client-rating.json",
+        "bytes": 321,
+        "purpose": "schema"
+      },
+      {
+        "path": "awards/active-ca-bar-licensee-no-discipline.json",
+        "bytes": 346,
+        "purpose": "schema"
+      },
+      {
+        "path": "awards/featured-personal-injury-attorney.json",
+        "bytes": 333,
+        "purpose": "schema"
+      },
+      {
+        "path": "awards/top-rated-temecula-car-accident-lawyer.json",
+        "bytes": 342,
+        "purpose": "schema"
+      }
+    ],
+    "case-studies": [
+      {
+        "path": "case-studies/menifee-mom-rear-end-collision.json",
+        "bytes": 632,
+        "purpose": "schema"
+      },
+      {
+        "path": "case-studies/temecula-uber-driver-t-bone.json",
+        "bytes": 597,
+        "purpose": "schema"
+      },
+      {
+        "path": "case-studies/harley-motorcycle-liability-shift.json",
+        "bytes": 624,
+        "purpose": "schema"
+      },
+      {
+        "path": "case-studies/son-s-car-accident-medical-fight.json",
+        "bytes": 612,
+        "purpose": "schema"
+      },
+      {
+        "path": "case-studies/hit-and-run-totaled-new-car.json",
+        "bytes": 591,
+        "purpose": "schema"
+      },
+      {
+        "path": "case-studies/6k-insurance-offer-to-100k.json",
+        "bytes": 540,
+        "purpose": "schema"
+      },
+      {
+        "path": "case-studies/insurance-denial-to-100-fault.json",
+        "bytes": 554,
+        "purpose": "schema"
+      },
+      {
+        "path": "case-studies/temecula-man-fatal-pedestrian.json",
+        "bytes": 532,
+        "purpose": "schema"
+      },
+      {
+        "path": "case-studies/murrieta-e-bike-vs-car.json",
+        "bytes": 559,
+        "purpose": "schema"
+      },
+      {
+        "path": "case-studies/dog-bite-infection-reduction.json",
+        "bytes": 514,
+        "purpose": "schema"
+      }
+    ],
+    "organization": [
+      {
+        "path": "organization/maricic-law-firm-organization.json",
+        "bytes": 3507,
+        "purpose": "schema"
+      }
+    ],
+    "press": [
+      {
+        "path": "press/attorney-dustin.json",
+        "bytes": 308,
+        "purpose": "schema"
+      },
+      {
+        "path": "press/maricic-law-firm-updated-january-2026-10-reviews.json",
+        "bytes": 359,
+        "purpose": "schema"
+      },
+      {
+        "path": "press/top-rated-temecula-personal-injury-lawyer.json",
+        "bytes": 308,
+        "purpose": "schema"
+      },
+      {
+        "path": "press/maricic-law-firm.json",
+        "bytes": 299,
+        "purpose": "schema"
+      },
+      {
+        "path": "press/dustin-maricic-profile-temecula-ca-car-accident-lawyer.json",
+        "bytes": 379,
+        "purpose": "schema"
+      },
+      {
+        "path": "press/maricic-law-firm-41-reviews-personal-injury-law.json",
+        "bytes": 382,
+        "purpose": "schema"
+      }
+    ],
+    "reviews": [
+      {
+        "path": "reviews/best-attorney-for-son-s-case-1-review.json",
+        "bytes": 644,
+        "purpose": "schema"
+      },
+      {
+        "path": "reviews/forced-100-fault-admission-2-review.json",
+        "bytes": 704,
+        "purpose": "schema"
+      },
+      {
+        "path": "reviews/no-nonsense-straightforward-help-3-review.json",
+        "bytes": 518,
+        "purpose": "schema"
+      },
+      {
+        "path": "reviews/settlement-more-than-expected-4-review.json",
+        "bytes": 572,
+        "purpose": "schema"
+      },
+      {
+        "path": "reviews/6k-to-100k-settlement-5-review.json",
+        "bytes": 547,
+        "purpose": "schema"
+      },
+      {
+        "path": "reviews/going-the-extra-mile-6-review.json",
+        "bytes": 599,
+        "purpose": "schema"
+      },
+      {
+        "path": "reviews/genuine-and-comfortable-process-7-review.json",
+        "bytes": 604,
+        "purpose": "schema"
+      },
+      {
+        "path": "reviews/harley-accident-70-liability-win-8-review.json",
+        "bytes": 609,
+        "purpose": "schema"
+      },
+      {
+        "path": "reviews/quick-lucrative-settlement-9-review.json",
+        "bytes": 528,
+        "purpose": "schema"
+      },
+      {
+        "path": "reviews/exceptional-customer-service-10-review.json",
+        "bytes": 566,
+        "purpose": "schema"
+      },
+      {
+        "path": "reviews/hired-on-the-spot-results-11-review.json",
+        "bytes": 551,
+        "purpose": "schema"
+      },
+      {
+        "path": "reviews/constant-communication-professional-12-review.json",
+        "bytes": 531,
+        "purpose": "schema"
+      },
+      {
+        "path": "reviews/responsive-and-respectful-13-review.json",
+        "bytes": 521,
+        "purpose": "schema"
+      },
+      {
+        "path": "reviews/extremely-satisfied-friendly-14-review.json",
+        "bytes": 518,
+        "purpose": "schema"
+      },
+      {
+        "path": "reviews/best-law-firm-representation-15-review.json",
+        "bytes": 577,
+        "purpose": "schema"
+      },
+      {
+        "path": "reviews/calm-professional-outcome-16-review.json",
+        "bytes": 566,
+        "purpose": "schema"
+      },
+      {
+        "path": "reviews/responsive-during-stressful-time-17-review.json",
+        "bytes": 503,
+        "purpose": "schema"
+      },
+      {
+        "path": "reviews/accommodating-maximum-settlement-18-review.json",
+        "bytes": 528,
+        "purpose": "schema"
+      },
+      {
+        "path": "reviews/highly-recommended-polite-19-review.json",
+        "bytes": 466,
+        "purpose": "schema"
+      },
+      {
+        "path": "reviews/smooth-process-for-son-s-accident-20-review.json",
+        "bytes": 475,
+        "purpose": "schema"
+      },
+      {
+        "path": "reviews/outstanding-fair-compensation-21-review.json",
+        "bytes": 492,
+        "purpose": "schema"
+      },
+      {
+        "path": "reviews/efficient-professional-lawsuit-22-review.json",
+        "bytes": 507,
+        "purpose": "schema"
+      },
+      {
+        "path": "reviews/aggressive-friendly-promise-keeper-23-review.json",
+        "bytes": 447,
+        "purpose": "schema"
+      },
+      {
+        "path": "reviews/strong-endorsement-dedicated-24-review.json",
+        "bytes": 429,
+        "purpose": "schema"
+      },
+      {
+        "path": "reviews/known-ten-years-recommend-25-review.json",
+        "bytes": 472,
+        "purpose": "schema"
+      },
+      {
+        "path": "reviews/aggregate-rating.json",
+        "bytes": 215,
+        "purpose": "schema"
+      }
+    ],
+    "public": [
+      {
+        "path": "index.html",
+        "bytes": 21943,
+        "purpose": "LLM-optimized public page"
+      },
+      {
+        "path": "about.html",
+        "bytes": 68001,
+        "purpose": "LLM-optimized public page"
+      },
+      {
+        "path": "services.html",
+        "bytes": 352262,
+        "purpose": "LLM-optimized public page"
+      },
+      {
+        "path": "reviews.html",
+        "bytes": 40314,
+        "purpose": "LLM-optimized public page"
+      },
+      {
+        "path": "contact.html",
+        "bytes": 16788,
+        "purpose": "LLM-optimized public page"
+      },
+      {
+        "path": "faqs.html",
+        "bytes": 132479,
+        "purpose": "LLM-optimized public page"
+      },
+      {
+        "path": "articles.html",
+        "bytes": 113580,
+        "purpose": "LLM-optimized public page"
+      },
+      {
+        "path": "case-studies.html",
+        "bytes": 27841,
+        "purpose": "LLM-optimized public page"
+      },
+      {
+        "path": "team-members.html",
+        "bytes": 48834,
+        "purpose": "LLM-optimized public page"
+      }
+    ],
+    "root": [
+      {
+        "path": "robots.txt",
+        "bytes": 321,
+        "purpose": "Robots policy"
+      },
+      {
+        "path": "llms.txt",
+        "bytes": 3913,
+        "purpose": "LLM hint"
+      },
+      {
+        "path": ".nojekyll",
+        "bytes": 0,
+        "purpose": "Disable Jekyll on GitHub Pages"
+      },
+      {
+        "path": "index.html",
+        "bytes": 357,
+        "purpose": "Landing page (redirects to ai-data.html)"
+      },
+      {
+        "path": "manifest.json",
+        "bytes": 202,
+        "purpose": "Web app manifest"
+      },
+      {
+        "path": "related-destinations.json",
+        "bytes": 1388,
+        "purpose": "Cross-Destination Index (Related AI Data Sources)"
+      },
+      {
+        "path": "ai-data.html",
+        "bytes": 230623,
+        "purpose": "Master AI data index"
+      },
+      {
+        "path": "llms-full.txt",
+        "bytes": 66334,
+        "purpose": "Extended LLM context"
+      },
+      {
+        "path": "llms-full.md",
+        "bytes": 66334,
+        "purpose": "Extended LLM context (markdown)"
+      },
+      {
+        "path": "full-context.md",
+        "bytes": 3966,
+        "purpose": "Full markdown context"
+      },
+      {
+        "path": "README.md",
+        "bytes": 69392,
+        "purpose": "Repository README"
+      },
+      {
+        "path": "ai-sitemap.xml",
+        "bytes": 69431,
+        "purpose": "AI sitemap"
+      },
+      {
+        "path": "sitemap.xml",
+        "bytes": 1060,
+        "purpose": "Standard sitemap"
+      }
+    ]
+  },
+  "destinations": {
+    "github": {
+      "url": "https://github.com/AIOVisibilityHub/maricic-law-firm-ai-schemas-w5da",
+      "pagesUrl": "",
+      "repo": "AIOVisibilityHub/maricic-law-firm-ai-schemas-w5da"
+    }
+  }
+}
