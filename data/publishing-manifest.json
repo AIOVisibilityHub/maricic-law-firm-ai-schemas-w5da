@@ -1,6 +1,6 @@
 {
   "version": "1.0",
-  "generatedAt": "2026-08-25T23:18:27.139Z",
+  "generatedAt": "2026-08-25T23:18:38.293Z",
   "client": {
     "name": "Maricic Law Firm",
     "canonicalUrl": "https://mariciclawfirm.aiovisibility.net",
@@ -149,7 +149,7 @@
   },
   "package": {
     "totalFiles": 644,
-    "totalBytes": 1949322,
+    "totalBytes": 1899211,
     "stats": {
       "faqs": 318,
       "helpArticles": 174,
@@ -3307,47 +3307,47 @@
     "public": [
       {
         "path": "index.html",
-        "bytes": 21943,
+        "bytes": 16064,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "about.html",
-        "bytes": 68001,
+        "bytes": 62251,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "services.html",
-        "bytes": 352262,
+        "bytes": 346323,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "reviews.html",
-        "bytes": 40314,
+        "bytes": 34753,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "contact.html",
-        "bytes": 16788,
+        "bytes": 11152,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "faqs.html",
-        "bytes": 132479,
+        "bytes": 126849,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "articles.html",
-        "bytes": 113580,
+        "bytes": 107992,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "case-studies.html",
-        "bytes": 27841,
+        "bytes": 22094,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "team-members.html",
-        "bytes": 48834,
+        "bytes": 43228,
         "purpose": "LLM-optimized public page"
       }
     ],
@@ -3359,7 +3359,7 @@
       },
       {
         "path": "llms.txt",
-        "bytes": 3913,
+        "bytes": 4045,
         "purpose": "LLM hint"
       },
       {
@@ -3379,32 +3379,32 @@
       },
       {
         "path": "related-destinations.json",
-        "bytes": 1388,
+        "bytes": 1671,
         "purpose": "Cross-Destination Index (Related AI Data Sources)"
       },
       {
         "path": "ai-data.html",
-        "bytes": 230623,
+        "bytes": 230905,
         "purpose": "Master AI data index"
       },
       {
         "path": "llms-full.txt",
-        "bytes": 66334,
+        "bytes": 66466,
         "purpose": "Extended LLM context"
       },
       {
         "path": "llms-full.md",
-        "bytes": 66334,
+        "bytes": 66466,
         "purpose": "Extended LLM context (markdown)"
       },
       {
         "path": "full-context.md",
-        "bytes": 3966,
+        "bytes": 4098,
         "purpose": "Full markdown context"
       },
       {
         "path": "README.md",
-        "bytes": 69392,
+        "bytes": 69524,
         "purpose": "Repository README"
       },
       {
@@ -3422,7 +3422,7 @@
   "destinations": {
     "github": {
       "url": "https://github.com/AIOVisibilityHub/maricic-law-firm-ai-schemas-w5da",
-      "pagesUrl": "",
+      "pagesUrl": "https://aiovisibilityhub.github.io/maricic-law-firm-ai-schemas-w5da/",
       "repo": "AIOVisibilityHub/maricic-law-firm-ai-schemas-w5da"
     }
   }
