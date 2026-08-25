@@ -1,2 +1,696 @@
-# maricic-law-firm-ai-schemas-w5da
-Maricic Law Firm — Schema.org validated JSON-LD structured data
+# Maricic Law Firm — AI Data Package
+
+Canonical AI Data Package for Maricic Law Firm.
+
+- Canonical: https://mariciclawfirm.aiovisibility.net
+- Master index: [ai-data.html](./ai-data.html)
+- Source-of-truth manifest: [data/publishing-manifest.json](./data/publishing-manifest.json)
+
+- LLM hint: [llms.txt](./llms.txt)
+
+## Stats
+- 318 faqs
+- 174 helpArticles
+- 68 services
+- 12 personnel
+- 1 locations
+- 5 awards
+- 10 caseStudies
+- 1 organization
+- 6 press
+- 25 reviews
+- **621** total
+
+## Cross-Destination Index — Related AI Data Sources
+- [canonical] Maricic Law Firm — canonical website — https://mariciclawfirm.aiovisibility.net
+- [ai-data-hub] Maricic Law Firm — AI Data Hub — https://mariciclawfirm.aiovisibility.net/ai-data.html
+- [mirror-repo] GitHub repository — https://github.com/AIOVisibilityHub/maricic-law-firm-ai-schemas-w5da
+
+Purpose: transparent source discovery, entity consistency, mirror verification, and AI crawler navigation. Not a link wheel. Source of truth: related-destinations.json.
+
+
+## Package Contents
+
+Every file below is listed in [`data/publishing-manifest.json`](./data/publishing-manifest.json) — the manifest is the source of truth.
+
+### Root AI Files (6)
+- [`.nojekyll`](./.nojekyll) — Disable Jekyll on GitHub Pages
+- [`index.html`](./index.html) — Landing page (redirects to ai-data.html)
+- [`llms.txt`](./llms.txt) — LLM hint
+- [`manifest.json`](./manifest.json) — Web app manifest
+- [`related-destinations.json`](./related-destinations.json) — Cross-Destination Index (Related AI Data Sources)
+- [`robots.txt`](./robots.txt) — Robots policy
+
+### Organization & About (1)
+- [`organization/maricic-law-firm-organization.json`](./organization/maricic-law-firm-organization.json) — schema
+
+### Services (68)
+- [`services/18-wheeler-accident-lawyer-service.json`](./services/18-wheeler-accident-lawyer-service.json) — schema
+- [`services/big-rig-accident-attorney-service.json`](./services/big-rig-accident-attorney-service.json) — schema
+- [`services/car-accident-lawyer-service.json`](./services/car-accident-lawyer-service.json) — schema
+- [`services/car-accident-service.json`](./services/car-accident-service.json) — schema
+- [`services/child-dog-bite-attorney-service.json`](./services/child-dog-bite-attorney-service.json) — schema
+- [`services/child-e-bike-accident-attorney-service.json`](./services/child-e-bike-accident-attorney-service.json) — schema
+- [`services/commercial-truck-accident-lawyer-service.json`](./services/commercial-truck-accident-lawyer-service.json) — schema
+- [`services/defective-e-bike-accident-attorney-service.json`](./services/defective-e-bike-accident-attorney-service.json) — schema
+- [`services/defective-motorcycle-part-accident-lawyer-service.json`](./services/defective-motorcycle-part-accident-lawyer-service.json) — schema
+- [`services/delivery-truck-accident-attorney-service.json`](./services/delivery-truck-accident-attorney-service.json) — schema
+- [`services/distracted-driving-accident-attorney-service.json`](./services/distracted-driving-accident-attorney-service.json) — schema
+- [`services/dog-attack-attorney-service.json`](./services/dog-attack-attorney-service.json) — schema
+- [`services/dog-bite-lawyer-service.json`](./services/dog-bite-lawyer-service.json) — schema
+- [`services/dog-bite-service.json`](./services/dog-bite-service.json) — schema
+- [`services/drunk-driving-accident-lawyer-service.json`](./services/drunk-driving-accident-lawyer-service.json) — schema
+- [`services/dump-truck-accident-attorney-service.json`](./services/dump-truck-accident-attorney-service.json) — schema
+- [`services/e-bike-accident-lawyer-service.json`](./services/e-bike-accident-lawyer-service.json) — schema
+- [`services/e-bike-accident-service.json`](./services/e-bike-accident-service.json) — schema
+- [`services/e-bike-battery-fire-lawyer-service.json`](./services/e-bike-battery-fire-lawyer-service.json) — schema
+- [`services/e-bike-hit-by-car-attorney-service.json`](./services/e-bike-hit-by-car-attorney-service.json) — schema
+- [`services/e-bike-hit-by-truck-lawyer-service.json`](./services/e-bike-hit-by-truck-lawyer-service.json) — schema
+- [`services/e-bike-pedestrian-accident-lawyer-service.json`](./services/e-bike-pedestrian-accident-lawyer-service.json) — schema
+- [`services/facial-dog-bite-lawyer-service.json`](./services/facial-dog-bite-lawyer-service.json) — schema
+- [`services/fatal-bicycle-accident-lawyer-service.json`](./services/fatal-bicycle-accident-lawyer-service.json) — schema
+- [`services/fatal-car-accident-lawyer-service.json`](./services/fatal-car-accident-lawyer-service.json) — schema
+- [`services/fatal-dog-attack-lawyer-service.json`](./services/fatal-dog-attack-lawyer-service.json) — schema
+- [`services/fatal-drunk-driving-accident-lawyer-service.json`](./services/fatal-drunk-driving-accident-lawyer-service.json) — schema
+- [`services/fatal-hit-and-run-accident-attorney-service.json`](./services/fatal-hit-and-run-accident-attorney-service.json) — schema
+- [`services/fatal-motorcycle-accident-attorney-service.json`](./services/fatal-motorcycle-accident-attorney-service.json) — schema
+- [`services/fatal-pedestrian-accident-attorney-service.json`](./services/fatal-pedestrian-accident-attorney-service.json) — schema
+- [`services/fatal-truck-accident-lawyer-service.json`](./services/fatal-truck-accident-lawyer-service.json) — schema
+- [`services/fatigued-truck-driver-accident-lawyer-service.json`](./services/fatigued-truck-driver-accident-lawyer-service.json) — schema
+- [`services/freeway-accident-lawyer-service.json`](./services/freeway-accident-lawyer-service.json) — schema
+- [`services/garbage-truck-accident-lawyer-service.json`](./services/garbage-truck-accident-lawyer-service.json) — schema
+- [`services/head-on-collision-attorney-service.json`](./services/head-on-collision-attorney-service.json) — schema
+- [`services/hit-and-run-accident-attorney-service.json`](./services/hit-and-run-accident-attorney-service.json) — schema
+- [`services/intersection-accident-lawyer-service.json`](./services/intersection-accident-lawyer-service.json) — schema
+- [`services/jackknife-truck-accident-attorney-service.json`](./services/jackknife-truck-accident-attorney-service.json) — schema
+- [`services/lane-change-motorcycle-accident-lawyer-service.json`](./services/lane-change-motorcycle-accident-lawyer-service.json) — schema
+- [`services/left-turn-motorcycle-accident-attorney-service.json`](./services/left-turn-motorcycle-accident-attorney-service.json) — schema
+- [`services/loose-dog-attack-attorney-service.json`](./services/loose-dog-attack-attorney-service.json) — schema
+- [`services/motorcycle-accident-lawyer-service.json`](./services/motorcycle-accident-lawyer-service.json) — schema
+- [`services/motorcycle-accident-service.json`](./services/motorcycle-accident-service.json) — schema
+- [`services/motorcycle-hit-and-run-accident-attorney-service.json`](./services/motorcycle-hit-and-run-accident-attorney-service.json) — schema
+- [`services/motorcycle-passenger-injury-lawyer-service.json`](./services/motorcycle-passenger-injury-lawyer-service.json) — schema
+- [`services/motorcycle-road-hazard-accident-lawyer-service.json`](./services/motorcycle-road-hazard-accident-lawyer-service.json) — schema
+- [`services/motorcycle-sideswipe-accident-attorney-service.json`](./services/motorcycle-sideswipe-accident-attorney-service.json) — schema
+- [`services/motorcycle-truck-accident-attorney-service.json`](./services/motorcycle-truck-accident-attorney-service.json) — schema
+- [`services/multi-vehicle-accident-lawyer-service.json`](./services/multi-vehicle-accident-lawyer-service.json) — schema
+- [`services/overloaded-truck-accident-attorney-service.json`](./services/overloaded-truck-accident-attorney-service.json) — schema
+- [`services/parking-lot-accident-attorney-service.json`](./services/parking-lot-accident-attorney-service.json) — schema
+- [`services/rear-end-collision-attorney-service.json`](./services/rear-end-collision-attorney-service.json) — schema
+- [`services/rideshare-accident-attorney-service.json`](./services/rideshare-accident-attorney-service.json) — schema
+- [`services/semi-truck-accident-attorney-service.json`](./services/semi-truck-accident-attorney-service.json) — schema
+- [`services/serious-dog-bite-injury-lawyer-service.json`](./services/serious-dog-bite-injury-lawyer-service.json) — schema
+- [`services/shared-e-bike-accident-attorney-service.json`](./services/shared-e-bike-accident-attorney-service.json) — schema
+- [`services/t-bone-accident-lawyer-service.json`](./services/t-bone-accident-lawyer-service.json) — schema
+- [`services/truck-accident-lawyer-service.json`](./services/truck-accident-lawyer-service.json) — schema
+- [`services/truck-accident-service.json`](./services/truck-accident-service.json) — schema
+- [`services/underinsured-driver-accident-attorney-service.json`](./services/underinsured-driver-accident-attorney-service.json) — schema
+- [`services/underride-truck-accident-lawyer-service.json`](./services/underride-truck-accident-lawyer-service.json) — schema
+- [`services/uninsured-driver-accident-lawyer-service.json`](./services/uninsured-driver-accident-lawyer-service.json) — schema
+- [`services/unsecured-cargo-accident-lawyer-service.json`](./services/unsecured-cargo-accident-lawyer-service.json) — schema
+- [`services/wide-turn-truck-accident-attorney-service.json`](./services/wide-turn-truck-accident-attorney-service.json) — schema
+- [`services/workplace-death-attorney-service.json`](./services/workplace-death-attorney-service.json) — schema
+- [`services/wrongful-death-attorney-service.json`](./services/wrongful-death-attorney-service.json) — schema
+- [`services/wrongful-death-attorneydustin-3-service.json`](./services/wrongful-death-attorneydustin-3-service.json) — schema
+- [`services/wrongful-death-service.json`](./services/wrongful-death-service.json) — schema
+
+### Locations (1)
+- [`locations/maricic-law-firm-office.json`](./locations/maricic-law-firm-office.json) — schema
+
+### Attorneys (12)
+- [`lawyers/dustin-nicholas-maricic-and-surrounding-areas-in-southern-california.json`](./lawyers/dustin-nicholas-maricic-and-surrounding-areas-in-southern-california.json) — schema
+- [`lawyers/dustin-nicholas-maricic-canyon-lake.json`](./lawyers/dustin-nicholas-maricic-canyon-lake.json) — schema
+- [`lawyers/dustin-nicholas-maricic-including-san-diego-and-los-angeles-regions.json`](./lawyers/dustin-nicholas-maricic-including-san-diego-and-los-angeles-regions.json) — schema
+- [`lawyers/dustin-nicholas-maricic-menifee.json`](./lawyers/dustin-nicholas-maricic-menifee.json) — schema
+- [`lawyers/dustin-nicholas-maricic-murrieta.json`](./lawyers/dustin-nicholas-maricic-murrieta.json) — schema
+- [`lawyers/dustin-nicholas-maricic-profile.json`](./lawyers/dustin-nicholas-maricic-profile.json) — schema
+- [`lawyers/dustin-nicholas-maricic-riverside-attorneyatlaw-1.json`](./lawyers/dustin-nicholas-maricic-riverside-attorneyatlaw-1.json) — schema
+- [`lawyers/dustin-nicholas-maricic-riverside.json`](./lawyers/dustin-nicholas-maricic-riverside.json) — schema
+- [`lawyers/dustin-nicholas-maricic-sun-city.json`](./lawyers/dustin-nicholas-maricic-sun-city.json) — schema
+- [`lawyers/dustin-nicholas-maricic-temecula.json`](./lawyers/dustin-nicholas-maricic-temecula.json) — schema
+- [`lawyers/dustin-nicholas-maricic-wildomar.json`](./lawyers/dustin-nicholas-maricic-wildomar.json) — schema
+- [`lawyers/dustin-nicholas-maricic-winchester.json`](./lawyers/dustin-nicholas-maricic-winchester.json) — schema
+
+### FAQs (318)
+- [`faqs/are-amazon-contractor-trucks-liable.json`](./faqs/are-amazon-contractor-trucks-liable.json) — schema
+- [`faqs/are-consultations-free-for-accidents.json`](./faqs/are-consultations-free-for-accidents.json) — schema
+- [`faqs/are-e-bike-riders-treated-like-cyclists.json`](./faqs/are-e-bike-riders-treated-like-cyclists.json) — schema
+- [`faqs/are-e-bikes-treated-as-motor-vehicles-in-ca.json`](./faqs/are-e-bikes-treated-as-motor-vehicles-in-ca.json) — schema
+- [`faqs/are-higher-insurance-minimums-required.json`](./faqs/are-higher-insurance-minimums-required.json) — schema
+- [`faqs/are-hourly-rates-ever-charged.json`](./faqs/are-hourly-rates-ever-charged.json) — schema
+- [`faqs/are-mail-carriers-protected-specially.json`](./faqs/are-mail-carriers-protected-specially.json) — schema
+- [`faqs/are-punitive-damages-common.json`](./faqs/are-punitive-damages-common.json) — schema
+- [`faqs/are-punitive-damages-possible.json`](./faqs/are-punitive-damages-possible.json) — schema
+- [`faqs/are-rabies-shots-always-covered.json`](./faqs/are-rabies-shots-always-covered.json) — schema
+- [`faqs/are-you-available-after-hours.json`](./faqs/are-you-available-after-hours.json) — schema
+- [`faqs/can-accident-reconstruction-win-disputes.json`](./faqs/can-accident-reconstruction-win-disputes.json) — schema
+- [`faqs/can-brake-failure-sue-mechanics.json`](./faqs/can-brake-failure-sue-mechanics.json) — schema
+- [`faqs/can-chiropractic-bills-get-reduced.json`](./faqs/can-chiropractic-bills-get-reduced.json) — schema
+- [`faqs/can-cities-ban-specific-breeds.json`](./faqs/can-cities-ban-specific-breeds.json) — schema
+- [`faqs/can-city-liable-for-biker-boxes.json`](./faqs/can-city-liable-for-biker-boxes.json) — schema
+- [`faqs/can-daycare-groomer-face-claims.json`](./faqs/can-daycare-groomer-face-claims.json) — schema
+- [`faqs/can-dog-damage-claim-property-too.json`](./faqs/can-dog-damage-claim-property-too.json) — schema
+- [`faqs/can-dot-records-show-patterns.json`](./faqs/can-dot-records-show-patterns.json) — schema
+- [`faqs/can-e-scooters-claim-like-e-bikes.json`](./faqs/can-e-scooters-claim-like-e-bikes.json) — schema
+- [`faqs/can-economist-testify-lost-household.json`](./faqs/can-economist-testify-lost-household.json) — schema
+- [`faqs/can-employer-liable-for-e-bike-commute.json`](./faqs/can-employer-liable-for-e-bike-commute.json) — schema
+- [`faqs/can-employer-pay-wages-during-disability.json`](./faqs/can-employer-pay-wages-during-disability.json) — schema
+- [`faqs/can-estate-file-survival-action-too.json`](./faqs/can-estate-file-survival-action-too.json) — schema
+- [`faqs/can-estate-sue-if-no-family.json`](./faqs/can-estate-sue-if-no-family.json) — schema
+- [`faqs/can-family-members-claim-loss.json`](./faqs/can-family-members-claim-loss.json) — schema
+- [`faqs/can-family-pets-bite-guests.json`](./faqs/can-family-pets-bite-guests.json) — schema
+- [`faqs/can-family-testify-for-pain-impact.json`](./faqs/can-family-testify-for-pain-impact.json) — schema
+- [`faqs/can-fees-be-deducted-from-gross.json`](./faqs/can-fees-be-deducted-from-gross.json) — schema
+- [`faqs/can-grandparents-sue-for-grandchild.json`](./faqs/can-grandparents-sue-for-grandchild.json) — schema
+- [`faqs/can-i-choose-my-repair-shop.json`](./faqs/can-i-choose-my-repair-shop.json) — schema
+- [`faqs/can-i-claim-childcare-costs.json`](./faqs/can-i-claim-childcare-costs.json) — schema
+- [`faqs/can-i-claim-custom-paint-wraps.json`](./faqs/can-i-claim-custom-paint-wraps.json) — schema
+- [`faqs/can-i-claim-emotional-trauma.json`](./faqs/can-i-claim-emotional-trauma.json) — schema
+- [`faqs/can-i-claim-if-riding-on-sidewalk.json`](./faqs/can-i-claim-if-riding-on-sidewalk.json) — schema
+- [`faqs/can-i-claim-lost-future-earnings.json`](./faqs/can-i-claim-lost-future-earnings.json) — schema
+- [`faqs/can-i-claim-lost-riding-season.json`](./faqs/can-i-claim-lost-riding-season.json) — schema
+- [`faqs/can-i-claim-mileage-to-doctor-visits.json`](./faqs/can-i-claim-mileage-to-doctor-visits.json) — schema
+- [`faqs/can-i-claim-road-hazard-damage.json`](./faqs/can-i-claim-road-hazard-damage.json) — schema
+- [`faqs/can-i-fire-my-first-attorney.json`](./faqs/can-i-fire-my-first-attorney.json) — schema
+- [`faqs/can-i-get-uber-lyft-during-car-repair.json`](./faqs/can-i-get-uber-lyft-during-car-repair.json) — schema
+- [`faqs/can-i-keep-my-totaled-vehicle.json`](./faqs/can-i-keep-my-totaled-vehicle.json) — schema
+- [`faqs/can-i-negotiate-attorney-percentage.json`](./faqs/can-i-negotiate-attorney-percentage.json) — schema
+- [`faqs/can-i-photograph-scene-from-hospital.json`](./faqs/can-i-photograph-scene-from-hospital.json) — schema
+- [`faqs/can-i-recover-harley-rental-value.json`](./faqs/can-i-recover-harley-rental-value.json) — schema
+- [`faqs/can-i-recover-moving-expenses.json`](./faqs/can-i-recover-moving-expenses.json) — schema
+- [`faqs/can-i-settle-before-medical-end.json`](./faqs/can-i-settle-before-medical-end.json) — schema
+- [`faqs/can-i-settle-property-separate-from-injury.json`](./faqs/can-i-settle-property-separate-from-injury.json) — schema
+- [`faqs/can-i-sue-delivery-e-bikes-ubereats.json`](./faqs/can-i-sue-delivery-e-bikes-ubereats.json) — schema
+- [`faqs/can-i-switch-lawyers-mid-case.json`](./faqs/can-i-switch-lawyers-mid-case.json) — schema
+- [`faqs/can-i-track-my-case-online.json`](./faqs/can-i-track-my-case-online.json) — schema
+- [`faqs/can-insurers-delete-truck-data.json`](./faqs/can-insurers-delete-truck-data.json) — schema
+- [`faqs/can-kids-get-higher-dog-bite-awards.json`](./faqs/can-kids-get-higher-dog-bite-awards.json) — schema
+- [`faqs/can-kids-sue-for-dog-attacks.json`](./faqs/can-kids-sue-for-dog-attacks.json) — schema
+- [`faqs/can-kids-under-16-ride-class-3.json`](./faqs/can-kids-under-16-ride-class-3.json) — schema
+- [`faqs/can-life-care-planner-project-costs.json`](./faqs/can-life-care-planner-project-costs.json) — schema
+- [`faqs/can-minors-receive-wrongful-death.json`](./faqs/can-minors-receive-wrongful-death.json) — schema
+- [`faqs/can-multiple-family-sue-separately.json`](./faqs/can-multiple-family-sue-separately.json) — schema
+- [`faqs/can-neighbors-sue-for-unleashed-dog.json`](./faqs/can-neighbors-sue-for-unleashed-dog.json) — schema
+- [`faqs/can-out-of-state-family-sue.json`](./faqs/can-out-of-state-family-sue.json) — schema
+- [`faqs/can-passengers-claim-on-e-bikes.json`](./faqs/can-passengers-claim-on-e-bikes.json) — schema
+- [`faqs/can-passengers-sue-in-bike-crashes.json`](./faqs/can-passengers-sue-in-bike-crashes.json) — schema
+- [`faqs/can-passengers-sue-on-motorcycles.json`](./faqs/can-passengers-sue-on-motorcycles.json) — schema
+- [`faqs/can-scars-permanent-disfigurement-pay.json`](./faqs/can-scars-permanent-disfigurement-pay.json) — schema
+- [`faqs/can-shippers-face-liability.json`](./faqs/can-shippers-face-liability.json) — schema
+- [`faqs/can-stepchildren-claim.json`](./faqs/can-stepchildren-claim.json) — schema
+- [`faqs/can-tire-blowouts-sue-manufacturers.json`](./faqs/can-tire-blowouts-sue-manufacturers.json) — schema
+- [`faqs/can-truck-hit-settle-property-fast.json`](./faqs/can-truck-hit-settle-property-fast.json) — schema
+- [`faqs/can-vocational-expert-value-career-loss.json`](./faqs/can-vocational-expert-value-career-loss.json) — schema
+- [`faqs/can-you-help-with-car-accident-medical-bills.json`](./faqs/can-you-help-with-car-accident-medical-bills.json) — schema
+- [`faqs/can-you-sue-for-fear-of-dog-post-bite.json`](./faqs/can-you-sue-for-fear-of-dog-post-bite.json) — schema
+- [`faqs/do-brokers-face-claims.json`](./faqs/do-brokers-face-claims.json) — schema
+- [`faqs/do-car-accident-lawyers-charge-upfront.json`](./faqs/do-car-accident-lawyers-charge-upfront.json) — schema
+- [`faqs/do-e-bike-lights-reflectors-matter.json`](./faqs/do-e-bike-lights-reflectors-matter.json) — schema
+- [`faqs/do-eld-logs-prove-violations.json`](./faqs/do-eld-logs-prove-violations.json) — schema
+- [`faqs/do-fees-come-before-or-after-costs.json`](./faqs/do-fees-come-before-or-after-costs.json) — schema
+- [`faqs/do-gap-insurance-help-claims.json`](./faqs/do-gap-insurance-help-claims.json) — schema
+- [`faqs/do-i-have-to-pay-upfront-fees.json`](./faqs/do-i-have-to-pay-upfront-fees.json) — schema
+- [`faqs/do-i-need-a-police-report-for-my-claim.json`](./faqs/do-i-need-a-police-report-for-my-claim.json) — schema
+- [`faqs/do-i-need-repair-estimates-for-claim.json`](./faqs/do-i-need-repair-estimates-for-claim.json) — schema
+- [`faqs/do-liens-reduce-my-net-after-fees.json`](./faqs/do-liens-reduce-my-net-after-fees.json) — schema
+- [`faqs/do-liens-reduce-wrongful-death.json`](./faqs/do-liens-reduce-wrongful-death.json) — schema
+- [`faqs/do-potholes-create-city-liability.json`](./faqs/do-potholes-create-city-liability.json) — schema
+- [`faqs/do-prior-injuries-reduce-payout.json`](./faqs/do-prior-injuries-reduce-payout.json) — schema
+- [`faqs/do-referrals-get-fee-discounts.json`](./faqs/do-referrals-get-fee-discounts.json) — schema
+- [`faqs/do-rental-property-owners-share-fault.json`](./faqs/do-rental-property-owners-share-fault.json) — schema
+- [`faqs/do-security-cameras-prove-attacks.json`](./faqs/do-security-cameras-prove-attacks.json) — schema
+- [`faqs/do-service-dogs-change-liability.json`](./faqs/do-service-dogs-change-liability.json) — schema
+- [`faqs/do-surveillance-cams-hurt-cases.json`](./faqs/do-surveillance-cams-hurt-cases.json) — schema
+- [`faqs/do-trails-paths-have-different-rules.json`](./faqs/do-trails-paths-have-different-rules.json) — schema
+- [`faqs/do-truckers-have-special-insurance.json`](./faqs/do-truckers-have-special-insurance.json) — schema
+- [`faqs/do-truckers-need-special-licensing.json`](./faqs/do-truckers-need-special-licensing.json) — schema
+- [`faqs/do-trucking-firms-pay-more.json`](./faqs/do-trucking-firms-pay-more.json) — schema
+- [`faqs/do-you-cover-plastic-surgery-scars.json`](./faqs/do-you-cover-plastic-surgery-scars.json) — schema
+- [`faqs/do-you-handle-fleet-vehicle-claims.json`](./faqs/do-you-handle-fleet-vehicle-claims.json) — schema
+- [`faqs/do-you-handle-helmet-defect-cases.json`](./faqs/do-you-handle-helmet-defect-cases.json) — schema
+- [`faqs/do-you-handle-pedestrian-hits.json`](./faqs/do-you-handle-pedestrian-hits.json) — schema
+- [`faqs/do-you-handle-rental-car-reimbursement.json`](./faqs/do-you-handle-rental-car-reimbursement.json) — schema
+- [`faqs/do-you-handle-slip-and-fall-cases.json`](./faqs/do-you-handle-slip-and-fall-cases.json) — schema
+- [`faqs/do-you-sue-delivery-drivers.json`](./faqs/do-you-sue-delivery-drivers.json) — schema
+- [`faqs/do-you-visit-me-in-hospital.json`](./faqs/do-you-visit-me-in-hospital.json) — schema
+- [`faqs/does-accepting-medical-payment-hurt-case.json`](./faqs/does-accepting-medical-payment-hurt-case.json) — schema
+- [`faqs/does-accident-cause-depression.json`](./faqs/does-accident-cause-depression.json) — schema
+- [`faqs/does-app-data-prove-speed.json`](./faqs/does-app-data-prove-speed.json) — schema
+- [`faqs/does-bike-endorsement-matter-legally.json`](./faqs/does-bike-endorsement-matter-legally.json) — schema
+- [`faqs/does-ca-allow-pain-suffering-payout.json`](./faqs/does-ca-allow-pain-suffering-payout.json) — schema
+- [`faqs/does-ca-require-accident-reports.json`](./faqs/does-ca-require-accident-reports.json) — schema
+- [`faqs/does-case-value-affect-fee-rate.json`](./faqs/does-case-value-affect-fee-rate.json) — schema
+- [`faqs/does-comparative-fault-reduce-payout.json`](./faqs/does-comparative-fault-reduce-payout.json) — schema
+- [`faqs/does-diminished-value-claim-exist.json`](./faqs/does-diminished-value-claim-exist.json) — schema
+- [`faqs/does-dui-conviction-help-civil-case.json`](./faqs/does-dui-conviction-help-civil-case.json) — schema
+- [`faqs/does-e-bike-speed-cause-claim-denial.json`](./faqs/does-e-bike-speed-cause-claim-denial.json) — schema
+- [`faqs/does-ems-response-prove-severity.json`](./faqs/does-ems-response-prove-severity.json) — schema
+- [`faqs/does-experience-affect-fee.json`](./faqs/does-experience-affect-fee.json) — schema
+- [`faqs/does-fee-increase-for-complex-cases.json`](./faqs/does-fee-increase-for-complex-cases.json) — schema
+- [`faqs/does-fmcsa-11-hour-driving-rule-apply.json`](./faqs/does-fmcsa-11-hour-driving-rule-apply.json) — schema
+- [`faqs/does-glass-damage-claim-separately.json`](./faqs/does-glass-damage-claim-separately.json) — schema
+- [`faqs/does-gym-membership-prove-faking.json`](./faqs/does-gym-membership-prove-faking.json) — schema
+- [`faqs/does-helmet-use-affect-e-bike-claims.json`](./faqs/does-helmet-use-affect-e-bike-claims.json) — schema
+- [`faqs/does-helmet-use-reduce-e-bike-payout.json`](./faqs/does-helmet-use-reduce-e-bike-payout.json) — schema
+- [`faqs/does-homeowners-insurance-cover-bites.json`](./faqs/does-homeowners-insurance-cover-bites.json) — schema
+- [`faqs/does-leather-gear-prove-negligence.json`](./faqs/does-leather-gear-prove-negligence.json) — schema
+- [`faqs/does-modification-void-insurance.json`](./faqs/does-modification-void-insurance.json) — schema
+- [`faqs/does-not-wearing-a-helmet-reduce-payout.json`](./faqs/does-not-wearing-a-helmet-reduce-payout.json) — schema
+- [`faqs/does-parking-lot-have-different-rules.json`](./faqs/does-parking-lot-have-different-rules.json) — schema
+- [`faqs/does-prescription-meds-prove-addiction.json`](./faqs/does-prescription-meds-prove-addiction.json) — schema
+- [`faqs/does-prior-therapy-records-hurt.json`](./faqs/does-prior-therapy-records-hurt.json) — schema
+- [`faqs/does-prior-tickets-hurt-rider-claims.json`](./faqs/does-prior-tickets-hurt-rider-claims.json) — schema
+- [`faqs/does-property-settle-before-injury.json`](./faqs/does-property-settle-before-injury.json) — schema
+- [`faqs/does-provocation-reduce-payout.json`](./faqs/does-provocation-reduce-payout.json) — schema
+- [`faqs/does-seatbelt-non-use-reduce-payout.json`](./faqs/does-seatbelt-non-use-reduce-payout.json) — schema
+- [`faqs/does-social-media-hurt-my-case.json`](./faqs/does-social-media-hurt-my-case.json) — schema
+- [`faqs/does-speed-camera-footage-help.json`](./faqs/does-speed-camera-footage-help.json) — schema
+- [`faqs/does-texting-ban-apply-federally.json`](./faqs/does-texting-ban-apply-federally.json) — schema
+- [`faqs/does-texting-while-driving-affect-claims.json`](./faqs/does-texting-while-driving-affect-claims.json) — schema
+- [`faqs/does-visibility-vest-affect-claims.json`](./faqs/does-visibility-vest-affect-claims.json) — schema
+- [`faqs/does-weather-condition-share-fault.json`](./faqs/does-weather-condition-share-fault.json) — schema
+- [`faqs/does-weather-report-prove-causation.json`](./faqs/does-weather-report-prove-causation.json) — schema
+- [`faqs/free-second-opinion-on-settlement.json`](./faqs/free-second-opinion-on-settlement.json) — schema
+- [`faqs/how-calculate-daily-pain-value.json`](./faqs/how-calculate-daily-pain-value.json) — schema
+- [`faqs/how-divide-settlement-money.json`](./faqs/how-divide-settlement-money.json) — schema
+- [`faqs/how-fight-failure-to-mitigate.json`](./faqs/how-fight-failure-to-mitigate.json) — schema
+- [`faqs/how-fight-gap-insurance-denial.json`](./faqs/how-fight-gap-insurance-denial.json) — schema
+- [`faqs/how-fight-pre-existing-condition.json`](./faqs/how-fight-pre-existing-condition.json) — schema
+- [`faqs/how-get-rental-car-while-mine-is-fixed.json`](./faqs/how-get-rental-car-while-mine-is-fixed.json) — schema
+- [`faqs/how-handle-motorcycle-frame-damage.json`](./faqs/how-handle-motorcycle-frame-damage.json) — schema
+- [`faqs/how-handle-out-of-state-drivers.json`](./faqs/how-handle-out-of-state-drivers.json) — schema
+- [`faqs/how-long-after-accident-to-see-a-doctor.json`](./faqs/how-long-after-accident-to-see-a-doctor.json) — schema
+- [`faqs/how-long-do-i-have-to-file-a-personal-injury-claim.json`](./faqs/how-long-do-i-have-to-file-a-personal-injury-claim.json) — schema
+- [`faqs/how-much-is-my-car-accident-case-worth.json`](./faqs/how-much-is-my-car-accident-case-worth.json) — schema
+- [`faqs/how-prove-back-surgery-necessity.json`](./faqs/how-prove-back-surgery-necessity.json) — schema
+- [`faqs/how-prove-custom-modifications-value.json`](./faqs/how-prove-custom-modifications-value.json) — schema
+- [`faqs/how-prove-low-impact-crash-injuries.json`](./faqs/how-prove-low-impact-crash-injuries.json) — schema
+- [`faqs/how-prove-rear-end-motorcycle-crash.json`](./faqs/how-prove-rear-end-motorcycle-crash.json) — schema
+- [`faqs/how-prove-soft-tissue-injuries.json`](./faqs/how-prove-soft-tissue-injuries.json) — schema
+- [`faqs/how-prove-truck-driver-fatigue.json`](./faqs/how-prove-truck-driver-fatigue.json) — schema
+- [`faqs/how-select-accident-reconstruction.json`](./faqs/how-select-accident-reconstruction.json) — schema
+- [`faqs/how-soon-after-accident-for-free-consult.json`](./faqs/how-soon-after-accident-for-free-consult.json) — schema
+- [`faqs/how-value-custom-motorcycle-parts.json`](./faqs/how-value-custom-motorcycle-parts.json) — schema
+- [`faqs/how-value-intimacy-loss-damages.json`](./faqs/how-value-intimacy-loss-damages.json) — schema
+- [`faqs/how-value-lifelong-therapy-needs.json`](./faqs/how-value-lifelong-therapy-needs.json) — schema
+- [`faqs/how-value-missed-family-vacations.json`](./faqs/how-value-missed-family-vacations.json) — schema
+- [`faqs/is-40-trial-fee-always-charged.json`](./faqs/is-40-trial-fee-always-charged.json) — schema
+- [`faqs/is-bike-lane-protection-absolute.json`](./faqs/is-bike-lane-protection-absolute.json) — schema
+- [`faqs/is-breed-pit-bull-evidence-admissible.json`](./faqs/is-breed-pit-bull-evidence-admissible.json) — schema
+- [`faqs/is-chiropractic-care-compensable.json`](./faqs/is-chiropractic-care-compensable.json) — schema
+- [`faqs/is-cortisone-injection-compensable.json`](./faqs/is-cortisone-injection-compensable.json) — schema
+- [`faqs/is-crotch-rocket-bias-overcome.json`](./faqs/is-crotch-rocket-bias-overcome.json) — schema
+- [`faqs/is-discovery-rule-available.json`](./faqs/is-discovery-rule-available.json) — schema
+- [`faqs/is-dispatcher-liable-for-pressure.json`](./faqs/is-dispatcher-liable-for-pressure.json) — schema
+- [`faqs/is-dog-bite-strict-liability-in-ca.json`](./faqs/is-dog-bite-strict-liability-in-ca.json) — schema
+- [`faqs/is-e-bike-insurance-required.json`](./faqs/is-e-bike-insurance-required.json) — schema
+- [`faqs/is-every-dog-bite-owner-liable-in-ca.json`](./faqs/is-every-dog-bite-owner-liable-in-ca.json) — schema
+- [`faqs/is-fence-jumping-dog-owner-liable.json`](./faqs/is-fence-jumping-dog-owner-liable.json) — schema
+- [`faqs/is-freeway-merging-always-yield.json`](./faqs/is-freeway-merging-always-yield.json) — schema
+- [`faqs/is-gravel-shoulder-crash-compensable.json`](./faqs/is-gravel-shoulder-crash-compensable.json) — schema
+- [`faqs/is-group-ride-fault-shared.json`](./faqs/is-group-ride-fault-shared.json) — schema
+- [`faqs/is-headlight-modulator-admissible.json`](./faqs/is-headlight-modulator-admissible.json) — schema
+- [`faqs/is-intersection-yellow-light-defense-valid.json`](./faqs/is-intersection-yellow-light-defense-valid.json) — schema
+- [`faqs/is-lane-splitting-factored-in-claims.json`](./faqs/is-lane-splitting-factored-in-claims.json) — schema
+- [`faqs/is-lane-splitting-legal-in-motorcycle-claims.json`](./faqs/is-lane-splitting-legal-in-motorcycle-claims.json) — schema
+- [`faqs/is-mediation-common-in-death-cases.json`](./faqs/is-mediation-common-in-death-cases.json) — schema
+- [`faqs/is-mediation-required-before-trial.json`](./faqs/is-mediation-required-before-trial.json) — schema
+- [`faqs/is-my-herniated-disc-compensable.json`](./faqs/is-my-herniated-disc-compensable.json) — schema
+- [`faqs/is-neck-brace-use-held-against-me.json`](./faqs/is-neck-brace-use-held-against-me.json) — schema
+- [`faqs/is-night-riding-risk-assumed.json`](./faqs/is-night-riding-risk-assumed.json) — schema
+- [`faqs/is-prescription-refill-pattern-evidence.json`](./faqs/is-prescription-refill-pattern-evidence.json) — schema
+- [`faqs/is-pt-therapy-bill-negotiation-standard.json`](./faqs/is-pt-therapy-bill-negotiation-standard.json) — schema
+- [`faqs/is-rabies-shot-cost-recoverable.json`](./faqs/is-rabies-shot-cost-recoverable.json) — schema
+- [`faqs/is-rental-e-bike-covered.json`](./faqs/is-rental-e-bike-covered.json) — schema
+- [`faqs/is-right-on-red-failure-common.json`](./faqs/is-right-on-red-failure-common.json) — schema
+- [`faqs/is-therapy-dog-fear-compensable.json`](./faqs/is-therapy-dog-fear-compensable.json) — schema
+- [`faqs/is-there-flat-fee-option-available.json`](./faqs/is-there-flat-fee-option-available.json) — schema
+- [`faqs/is-traffic-light-timing-evidence.json`](./faqs/is-traffic-light-timing-evidence.json) — schema
+- [`faqs/is-u-turn-accident-motorist-fault.json`](./faqs/is-u-turn-accident-motorist-fault.json) — schema
+- [`faqs/is-wheel-alignment-compensable.json`](./faqs/is-wheel-alignment-compensable.json) — schema
+- [`faqs/is-wide-turn-accommodation-absolute.json`](./faqs/is-wide-turn-accommodation-absolute.json) — schema
+- [`faqs/is-written-retainer-always-required.json`](./faqs/is-written-retainer-always-required.json) — schema
+- [`faqs/should-i-give-a-recorded-statement-to-insurance.json`](./faqs/should-i-give-a-recorded-statement-to-insurance.json) — schema
+- [`faqs/should-i-talk-to-insurance-right-after-crash.json`](./faqs/should-i-talk-to-insurance-right-after-crash.json) — schema
+- [`faqs/time-limit-for-e-bike-product-claims.json`](./faqs/time-limit-for-e-bike-product-claims.json) — schema
+- [`faqs/time-limit-for-wrongful-death.json`](./faqs/time-limit-for-wrongful-death.json) — schema
+- [`faqs/what-about-aftermarket-parts-value.json`](./faqs/what-about-aftermarket-parts-value.json) — schema
+- [`faqs/what-about-dog-attack-scarring.json`](./faqs/what-about-dog-attack-scarring.json) — schema
+- [`faqs/what-about-dog-bite-property-damage.json`](./faqs/what-about-dog-bite-property-damage.json) — schema
+- [`faqs/what-about-e-bike-battery-replacement.json`](./faqs/what-about-e-bike-battery-replacement.json) — schema
+- [`faqs/what-about-household-services-loss.json`](./faqs/what-about-household-services-loss.json) — schema
+- [`faqs/what-about-phantom-vehicle-claims.json`](./faqs/what-about-phantom-vehicle-claims.json) — schema
+- [`faqs/what-about-property-damage-only.json`](./faqs/what-about-property-damage-only.json) — schema
+- [`faqs/what-areas-do-you-serve.json`](./faqs/what-areas-do-you-serve.json) — schema
+- [`faqs/what-black-box-data-from-bikes.json`](./faqs/what-black-box-data-from-bikes.json) — schema
+- [`faqs/what-cargo-securement-violations.json`](./faqs/what-cargo-securement-violations.json) — schema
+- [`faqs/what-costs-do-you-advance.json`](./faqs/what-costs-do-you-advance.json) — schema
+- [`faqs/what-costs-total-typically.json`](./faqs/what-costs-total-typically.json) — schema
+- [`faqs/what-covers-home-health-aide.json`](./faqs/what-covers-home-health-aide.json) — schema
+- [`faqs/what-covers-prescription-copays.json`](./faqs/what-covers-prescription-copays.json) — schema
+- [`faqs/what-covers-rental-car-damage.json`](./faqs/what-covers-rental-car-damage.json) — schema
+- [`faqs/what-damages-beyond-medicals.json`](./faqs/what-damages-beyond-medicals.json) — schema
+- [`faqs/what-damages-can-i-recover-in-a-car-accident.json`](./faqs/what-damages-can-i-recover-in-a-car-accident.json) — schema
+- [`faqs/what-damages-for-lost-income.json`](./faqs/what-damages-for-lost-income.json) — schema
+- [`faqs/what-damages-in-wrongful-death.json`](./faqs/what-damages-in-wrongful-death.json) — schema
+- [`faqs/what-evidence-for-loss-of-care.json`](./faqs/what-evidence-for-loss-of-care.json) — schema
+- [`faqs/what-evidence-proves-e-bike-fault.json`](./faqs/what-evidence-proves-e-bike-fault.json) — schema
+- [`faqs/what-fee-agreement-must-disclose.json`](./faqs/what-fee-agreement-must-disclose.json) — schema
+- [`faqs/what-funeral-costs-recoverable.json`](./faqs/what-funeral-costs-recoverable.json) — schema
+- [`faqs/what-happens-if-case-loses.json`](./faqs/what-happens-if-case-loses.json) — schema
+- [`faqs/what-if-airbag-didn-t-deploy.json`](./faqs/what-if-airbag-didn-t-deploy.json) — schema
+- [`faqs/what-if-bike-flips-under-truck.json`](./faqs/what-if-bike-flips-under-truck.json) — schema
+- [`faqs/what-if-bike-lane-violation.json`](./faqs/what-if-bike-lane-violation.json) — schema
+- [`faqs/what-if-bite-through-fence.json`](./faqs/what-if-bite-through-fence.json) — schema
+- [`faqs/what-if-bite-through-window-screen.json`](./faqs/what-if-bite-through-window-screen.json) — schema
+- [`faqs/what-if-bitten-trespassing.json`](./faqs/what-if-bitten-trespassing.json) — schema
+- [`faqs/what-if-car-declared-total-loss.json`](./faqs/what-if-car-declared-total-loss.json) — schema
+- [`faqs/what-if-carpool-lane-violation-crash.json`](./faqs/what-if-carpool-lane-violation-crash.json) — schema
+- [`faqs/what-if-cop-blames-me-wrongly.json`](./faqs/what-if-cop-blames-me-wrongly.json) — schema
+- [`faqs/what-if-cop-car-rear-ends-you.json`](./faqs/what-if-cop-car-rear-ends-you.json) — schema
+- [`faqs/what-if-criminal-case-pending.json`](./faqs/what-if-criminal-case-pending.json) — schema
+- [`faqs/what-if-damage-appears-later.json`](./faqs/what-if-damage-appears-later.json) — schema
+- [`faqs/what-if-dashcam-shows-their-fault.json`](./faqs/what-if-dashcam-shows-their-fault.json) — schema
+- [`faqs/what-if-death-delayed-after-crash.json`](./faqs/what-if-death-delayed-after-crash.json) — schema
+- [`faqs/what-if-dooring-by-parked-car.json`](./faqs/what-if-dooring-by-parked-car.json) — schema
+- [`faqs/what-if-driver-flees-scene.json`](./faqs/what-if-driver-flees-scene.json) — schema
+- [`faqs/what-if-drunk-driver-caused-crash.json`](./faqs/what-if-drunk-driver-caused-crash.json) — schema
+- [`faqs/what-if-employer-vehicle-involved.json`](./faqs/what-if-employer-vehicle-involved.json) — schema
+- [`faqs/what-if-hit-by-fellow-biker.json`](./faqs/what-if-hit-by-fellow-biker.json) — schema
+- [`faqs/what-if-hit-parked-car.json`](./faqs/what-if-hit-parked-car.json) — schema
+- [`faqs/what-if-hit-pedestrian.json`](./faqs/what-if-hit-pedestrian.json) — schema
+- [`faqs/what-if-i-can-t-work-during-recovery.json`](./faqs/what-if-i-can-t-work-during-recovery.json) — schema
+- [`faqs/what-if-i-feel-fine-but-hurt-later.json`](./faqs/what-if-i-feel-fine-but-hurt-later.json) — schema
+- [`faqs/what-if-i-was-hit-by-a-rideshare-driver.json`](./faqs/what-if-i-was-hit-by-a-rideshare-driver.json) — schema
+- [`faqs/what-if-i-was-partially-at-fault.json`](./faqs/what-if-i-was-partially-at-fault.json) — schema
+- [`faqs/what-if-injured-on-vacation.json`](./faqs/what-if-injured-on-vacation.json) — schema
+- [`faqs/what-if-injured-passenger-in-friend-s-car.json`](./faqs/what-if-injured-passenger-in-friend-s-car.json) — schema
+- [`faqs/what-if-injury-shows-later.json`](./faqs/what-if-injury-shows-later.json) — schema
+- [`faqs/what-if-insurer-offers-quick-cash.json`](./faqs/what-if-insurer-offers-quick-cash.json) — schema
+- [`faqs/what-if-insurer-pays-direct-medicals.json`](./faqs/what-if-insurer-pays-direct-medicals.json) — schema
+- [`faqs/what-if-insurer-records-calls.json`](./faqs/what-if-insurer-records-calls.json) — schema
+- [`faqs/what-if-motorcycle-totaled.json`](./faqs/what-if-motorcycle-totaled.json) — schema
+- [`faqs/what-if-multi-car-pileup.json`](./faqs/what-if-multi-car-pileup.json) — schema
+- [`faqs/what-if-multiple-insurers-involved.json`](./faqs/what-if-multiple-insurers-involved.json) — schema
+- [`faqs/what-if-no-car-insurance.json`](./faqs/what-if-no-car-insurance.json) — schema
+- [`faqs/what-if-pain-radiates-to-limbs.json`](./faqs/what-if-pain-radiates-to-limbs.json) — schema
+- [`faqs/what-if-rear-ended-at-stoplight.json`](./faqs/what-if-rear-ended-at-stoplight.json) — schema
+- [`faqs/what-if-semi-lane-change-hits.json`](./faqs/what-if-semi-lane-change-hits.json) — schema
+- [`faqs/what-if-settlement-rejected.json`](./faqs/what-if-settlement-rejected.json) — schema
+- [`faqs/what-if-settlement-under-10k.json`](./faqs/what-if-settlement-under-10k.json) — schema
+- [`faqs/what-if-stopped-suddenly-causing-rear-end.json`](./faqs/what-if-stopped-suddenly-causing-rear-end.json) — schema
+- [`faqs/what-if-the-accident-wasn-t-my-fault.json`](./faqs/what-if-the-accident-wasn-t-my-fault.json) — schema
+- [`faqs/what-if-truck-cargo-caused-crash.json`](./faqs/what-if-truck-cargo-caused-crash.json) — schema
+- [`faqs/what-if-trucker-falls-asleep.json`](./faqs/what-if-trucker-falls-asleep.json) — schema
+- [`faqs/what-is-a-contingency-fee-percentage.json`](./faqs/what-is-a-contingency-fee-percentage.json) — schema
+- [`faqs/what-is-a-truck-s-black-box-data.json`](./faqs/what-is-a-truck-s-black-box-data.json) — schema
+- [`faqs/what-is-uninsured-motorist-coverage.json`](./faqs/what-is-uninsured-motorist-coverage.json) — schema
+- [`faqs/what-medical-proof-for-infections.json`](./faqs/what-medical-proof-for-infections.json) — schema
+- [`faqs/what-proves-brake-failure-liability.json`](./faqs/what-proves-brake-failure-liability.json) — schema
+- [`faqs/what-proves-concussion-without-loc.json`](./faqs/what-proves-concussion-without-loc.json) — schema
+- [`faqs/what-proves-driver-caused-death.json`](./faqs/what-proves-driver-caused-death.json) — schema
+- [`faqs/what-proves-drunk-motorist-hit-biker.json`](./faqs/what-proves-drunk-motorist-hit-biker.json) — schema
+- [`faqs/what-proves-e-bike-accident-liability.json`](./faqs/what-proves-e-bike-accident-liability.json) — schema
+- [`faqs/what-proves-pain-and-suffering.json`](./faqs/what-proves-pain-and-suffering.json) — schema
+- [`faqs/what-proves-pre-accident-condition.json`](./faqs/what-proves-pre-accident-condition.json) — schema
+- [`faqs/what-proves-shoulder-labrum-tear.json`](./faqs/what-proves-shoulder-labrum-tear.json) — schema
+- [`faqs/what-proves-t-bone-intersection-fault.json`](./faqs/what-proves-t-bone-intersection-fault.json) — schema
+- [`faqs/what-proves-vicious-propensity.json`](./faqs/what-proves-vicious-propensity.json) — schema
+- [`faqs/what-proves-whiplash-validity.json`](./faqs/what-proves-whiplash-validity.json) — schema
+- [`faqs/what-records-do-i-keep.json`](./faqs/what-records-do-i-keep.json) — schema
+- [`faqs/what-records-prove-lost-wages.json`](./faqs/what-records-prove-lost-wages.json) — schema
+- [`faqs/what-rollover-physics-prove.json`](./faqs/what-rollover-physics-prove.json) — schema
+- [`faqs/what-s-ca-comparative-fault-for-e-bikes.json`](./faqs/what-s-ca-comparative-fault-for-e-bikes.json) — schema
+- [`faqs/what-s-the-time-limit-for-wrongful-death.json`](./faqs/what-s-the-time-limit-for-wrongful-death.json) — schema
+- [`faqs/what-spill-response-costs.json`](./faqs/what-spill-response-costs.json) — schema
+- [`faqs/what-truck-black-box-records.json`](./faqs/what-truck-black-box-records.json) — schema
+- [`faqs/what-truck-dashcam-footage.json`](./faqs/what-truck-dashcam-footage.json) — schema
+- [`faqs/what-types-of-cases-do-you-handle.json`](./faqs/what-types-of-cases-do-you-handle.json) — schema
+- [`faqs/what-underride-guard-failures-mean.json`](./faqs/what-underride-guard-failures-mean.json) — schema
+- [`faqs/when-receive-net-settlement-check.json`](./faqs/when-receive-net-settlement-check.json) — schema
+- [`faqs/who-covers-jackknife-damages.json`](./faqs/who-covers-jackknife-damages.json) — schema
+- [`faqs/who-covers-temporary-transportation.json`](./faqs/who-covers-temporary-transportation.json) — schema
+- [`faqs/who-files-if-no-spouse-children.json`](./faqs/who-files-if-no-spouse-children.json) — schema
+- [`faqs/who-files-wrongful-death-suit.json`](./faqs/who-files-wrongful-death-suit.json) — schema
+- [`faqs/who-liable-besides-truck-driver.json`](./faqs/who-liable-besides-truck-driver.json) — schema
+- [`faqs/who-liable-for-motorcycle-left-turn-crash.json`](./faqs/who-liable-for-motorcycle-left-turn-crash.json) — schema
+- [`faqs/who-liable-if-bike-stolen-post-crash.json`](./faqs/who-liable-if-bike-stolen-post-crash.json) — schema
+- [`faqs/who-liable-if-company-car-crash.json`](./faqs/who-liable-if-company-car-crash.json) — schema
+- [`faqs/who-liable-if-dog-bites-during-walk.json`](./faqs/who-liable-if-dog-bites-during-walk.json) — schema
+- [`faqs/who-liable-if-e-bike-battery-fails.json`](./faqs/who-liable-if-e-bike-battery-fails.json) — schema
+- [`faqs/who-liable-in-truck-underride-crashes.json`](./faqs/who-liable-in-truck-underride-crashes.json) — schema
+- [`faqs/who-pays-case-expenses-like-experts.json`](./faqs/who-pays-case-expenses-like-experts.json) — schema
+- [`faqs/who-pays-for-car-towing-after-crash.json`](./faqs/who-pays-for-car-towing-after-crash.json) — schema
+- [`faqs/who-pays-for-e-bike-repairs.json`](./faqs/who-pays-for-e-bike-repairs.json) — schema
+- [`faqs/who-pays-for-hazardous-material-spills.json`](./faqs/who-pays-for-hazardous-material-spills.json) — schema
+- [`faqs/who-pays-for-lost-personal-items.json`](./faqs/who-pays-for-lost-personal-items.json) — schema
+- [`faqs/who-pays-storage-fees.json`](./faqs/who-pays-storage-fees.json) — schema
+- [`faqs/who-pays-track-day-bike-damage.json`](./faqs/who-pays-track-day-bike-damage.json) — schema
+- [`faqs/who-qualifies-to-file-wrongful-death.json`](./faqs/who-qualifies-to-file-wrongful-death.json) — schema
+- [`faqs/why-higher-payouts-for-motorcycles.json`](./faqs/why-higher-payouts-for-motorcycles.json) — schema
+- [`faqs/will-i-work-directly-with-the-attorney.json`](./faqs/will-i-work-directly-with-the-attorney.json) — schema
+- [`faqs/will-my-health-insurance-be-reimbursed.json`](./faqs/will-my-health-insurance-be-reimbursed.json) — schema
+
+### Help Articles (174)
+- [`help/2-year-statute-for-bike-injuries.json`](./help/2-year-statute-for-bike-injuries.json) — schema
+- [`help/2-year-statute-for-dog-bite-claims.json`](./help/2-year-statute-for-dog-bite-claims.json) — schema
+- [`help/2-year-statute-for-fatal-crashes.json`](./help/2-year-statute-for-fatal-crashes.json) — schema
+- [`help/750k-commercial-insurance-minimums.json`](./help/750k-commercial-insurance-minimums.json) — schema
+- [`help/ab98-truck-routing-plans.json`](./help/ab98-truck-routing-plans.json) — schema
+- [`help/accident-reconstruction-experts.json`](./help/accident-reconstruction-experts.json) — schema
+- [`help/amazon-dsp-contractor-liability.json`](./help/amazon-dsp-contractor-liability.json) — schema
+- [`help/app-data-in-e-bike-claims.json`](./help/app-data-in-e-bike-claims.json) — schema
+- [`help/bike-black-box-data.json`](./help/bike-black-box-data.json) — schema
+- [`help/bike-box-liability.json`](./help/bike-box-liability.json) — schema
+- [`help/bike-lane-crash-liability.json`](./help/bike-lane-crash-liability.json) — schema
+- [`help/brake-failure-inspection-records.json`](./help/brake-failure-inspection-records.json) — schema
+- [`help/breed-bans-don-t-eliminate-liability.json`](./help/breed-bans-don-t-eliminate-liability.json) — schema
+- [`help/broker-negligent-hiring-claims.json`](./help/broker-negligent-hiring-claims.json) — schema
+- [`help/california-2-year-injury-statute.json`](./help/california-2-year-injury-statute.json) — schema
+- [`help/california-e-bike-classifications.json`](./help/california-e-bike-classifications.json) — schema
+- [`help/california-motorcycle-helmet-law.json`](./help/california-motorcycle-helmet-law.json) — schema
+- [`help/california-strict-liability-dog-bites.json`](./help/california-strict-liability-dog-bites.json) — schema
+- [`help/car-crash-wrongful-death-stats.json`](./help/car-crash-wrongful-death-stats.json) — schema
+- [`help/cargo-securement-fmcsa-rules.json`](./help/cargo-securement-fmcsa-rules.json) — schema
+- [`help/carpool-lane-violation-fault.json`](./help/carpool-lane-violation-fault.json) — schema
+- [`help/cdl-license-compliance-2026.json`](./help/cdl-license-compliance-2026.json) — schema
+- [`help/child-dog-bite-damages-higher.json`](./help/child-dog-bite-damages-higher.json) — schema
+- [`help/childcare-costs-during-recovery.json`](./help/childcare-costs-during-recovery.json) — schema
+- [`help/children-under-16-on-class-3.json`](./help/children-under-16-on-class-3.json) — schema
+- [`help/chiropractic-bill-reductions.json`](./help/chiropractic-bill-reductions.json) — schema
+- [`help/chp-traffic-collision-report.json`](./help/chp-traffic-collision-report.json) — schema
+- [`help/common-e-bike-fracture-patterns.json`](./help/common-e-bike-fracture-patterns.json) — schema
+- [`help/company-vehicle-fatal-liability.json`](./help/company-vehicle-fatal-liability.json) — schema
+- [`help/comparative-fault-in-wd-cases.json`](./help/comparative-fault-in-wd-cases.json) — schema
+- [`help/concussion-without-loc-proof.json`](./help/concussion-without-loc-proof.json) — schema
+- [`help/cortisone-injection-bills.json`](./help/cortisone-injection-bills.json) — schema
+- [`help/criminal-charges-against-owners.json`](./help/criminal-charges-against-owners.json) — schema
+- [`help/criminal-conviction-aids-civil.json`](./help/criminal-conviction-aids-civil.json) — schema
+- [`help/crotch-rocket-bias-defense.json`](./help/crotch-rocket-bias-defense.json) — schema
+- [`help/csa-safety-score-records.json`](./help/csa-safety-score-records.json) — schema
+- [`help/custom-bike-value-proof.json`](./help/custom-bike-value-proof.json) — schema
+- [`help/damages-lost-financial-support.json`](./help/damages-lost-financial-support.json) — schema
+- [`help/dashcam-footage-preservation.json`](./help/dashcam-footage-preservation.json) — schema
+- [`help/daycare-groomer-dog-attacks.json`](./help/daycare-groomer-dog-attacks.json) — schema
+- [`help/delayed-death-time-limits.json`](./help/delayed-death-time-limits.json) — schema
+- [`help/delayed-injury-documentation.json`](./help/delayed-injury-documentation.json) — schema
+- [`help/delivery-e-bike-crashes-uber-eats.json`](./help/delivery-e-bike-crashes-uber-eats.json) — schema
+- [`help/dispatcher-pressure-texts.json`](./help/dispatcher-pressure-texts.json) — schema
+- [`help/dividing-wrongful-death-proceeds.json`](./help/dividing-wrongful-death-proceeds.json) — schema
+- [`help/dmv-sr-1-filing-after-crash.json`](./help/dmv-sr-1-filing-after-crash.json) — schema
+- [`help/dmv-sr-1-form-filing-guide.json`](./help/dmv-sr-1-form-filing-guide.json) — schema
+- [`help/dog-bite-fatality-heir-rights.json`](./help/dog-bite-fatality-heir-rights.json) — schema
+- [`help/dog-walker-handler-liability.json`](./help/dog-walker-handler-liability.json) — schema
+- [`help/doorings-parked-car-liability.json`](./help/doorings-parked-car-liability.json) — schema
+- [`help/drunk-driver-punitive-damages.json`](./help/drunk-driver-punitive-damages.json) — schema
+- [`help/e-bike-battery-defect-claims.json`](./help/e-bike-battery-defect-claims.json) — schema
+- [`help/e-bike-brake-failure-evidence.json`](./help/e-bike-brake-failure-evidence.json) — schema
+- [`help/e-bike-fatalities-family-claims.json`](./help/e-bike-fatalities-family-claims.json) — schema
+- [`help/e-bike-fire-hazards-and-claims.json`](./help/e-bike-fire-hazards-and-claims.json) — schema
+- [`help/e-bike-injury-statistics-surge.json`](./help/e-bike-injury-statistics-surge.json) — schema
+- [`help/e-bike-insurance-coverage.json`](./help/e-bike-insurance-coverage.json) — schema
+- [`help/e-bike-speed-limit-violations.json`](./help/e-bike-speed-limit-violations.json) — schema
+- [`help/economist-household-services.json`](./help/economist-household-services.json) — schema
+- [`help/eld-electronic-log-violations.json`](./help/eld-electronic-log-violations.json) — schema
+- [`help/emotional-distress-after-bites.json`](./help/emotional-distress-after-bites.json) — schema
+- [`help/ems-lights-sirens-proof.json`](./help/ems-lights-sirens-proof.json) — schema
+- [`help/enjoyment-loss-damages.json`](./help/enjoyment-loss-damages.json) — schema
+- [`help/estate-vs-wrongful-death-suits.json`](./help/estate-vs-wrongful-death-suits.json) — schema
+- [`help/family-pet-bites-guests.json`](./help/family-pet-bites-guests.json) — schema
+- [`help/fellow-biker-hit-claims.json`](./help/fellow-biker-hit-claims.json) — schema
+- [`help/fence-jumping-dog-attacks.json`](./help/fence-jumping-dog-attacks.json) — schema
+- [`help/filing-police-report-post-e-bike-hit.json`](./help/filing-police-report-post-e-bike-hit.json) — schema
+- [`help/fmcsa-hours-of-service-rules.json`](./help/fmcsa-hours-of-service-rules.json) — schema
+- [`help/free-24-7-car-crash-evaluation.json`](./help/free-24-7-car-crash-evaluation.json) — schema
+- [`help/free-dog-bite-case-evaluation.json`](./help/free-dog-bite-case-evaluation.json) — schema
+- [`help/free-motorcycle-case-consult.json`](./help/free-motorcycle-case-consult.json) — schema
+- [`help/free-truck-accident-evaluation.json`](./help/free-truck-accident-evaluation.json) — schema
+- [`help/free-wd-consult-after-crash.json`](./help/free-wd-consult-after-crash.json) — schema
+- [`help/freeway-merging-zipper-rule.json`](./help/freeway-merging-zipper-rule.json) — schema
+- [`help/funeral-costs-in-settlements.json`](./help/funeral-costs-in-settlements.json) — schema
+- [`help/gap-insurance-denial-defense.json`](./help/gap-insurance-denial-defense.json) — schema
+- [`help/gravel-shoulder-claims.json`](./help/gravel-shoulder-claims.json) — schema
+- [`help/group-ride-liability.json`](./help/group-ride-liability.json) — schema
+- [`help/gym-exercise-strengthens-case.json`](./help/gym-exercise-strengthens-case.json) — schema
+- [`help/hazardous-material-spill-claims.json`](./help/hazardous-material-spill-claims.json) — schema
+- [`help/helmet-laws-after-e-bike-crashes.json`](./help/helmet-laws-after-e-bike-crashes.json) — schema
+- [`help/helmet-non-use-impact.json`](./help/helmet-non-use-impact.json) — schema
+- [`help/herniated-disc-surgery-proof.json`](./help/herniated-disc-surgery-proof.json) — schema
+- [`help/hit-and-run-uninsured-claims.json`](./help/hit-and-run-uninsured-claims.json) — schema
+- [`help/home-health-aide-post-discharge.json`](./help/home-health-aide-post-discharge.json) — schema
+- [`help/homeowners-insurance-coverage.json`](./help/homeowners-insurance-coverage.json) — schema
+- [`help/infection-risks-after-dog-bites.json`](./help/infection-risks-after-dog-bites.json) — schema
+- [`help/intersection-yellow-light-rules.json`](./help/intersection-yellow-light-rules.json) — schema
+- [`help/irs-mileage-to-medical-visits.json`](./help/irs-mileage-to-medical-visits.json) — schema
+- [`help/jackknife-crash-physics.json`](./help/jackknife-crash-physics.json) — schema
+- [`help/landlord-liability-for-tenant-dogs.json`](./help/landlord-liability-for-tenant-dogs.json) — schema
+- [`help/lane-splitting-legality-guide.json`](./help/lane-splitting-legality-guide.json) — schema
+- [`help/leash-law-violations-evidence.json`](./help/leash-law-violations-evidence.json) — schema
+- [`help/leather-gear-evidence.json`](./help/leather-gear-evidence.json) — schema
+- [`help/left-turn-crash-liability.json`](./help/left-turn-crash-liability.json) — schema
+- [`help/liens-on-wrongful-death-awards.json`](./help/liens-on-wrongful-death-awards.json) — schema
+- [`help/life-care-planner-future-costs.json`](./help/life-care-planner-future-costs.json) — schema
+- [`help/loss-of-care-companion-damages.json`](./help/loss-of-care-companion-damages.json) — schema
+- [`help/loss-of-consortium-spouse-claim.json`](./help/loss-of-consortium-spouse-claim.json) — schema
+- [`help/low-impact-crash-injury-proof.json`](./help/low-impact-crash-injury-proof.json) — schema
+- [`help/m1-license-irrelevant-civilly.json`](./help/m1-license-irrelevant-civilly.json) — schema
+- [`help/mail-carrier-special-protections.json`](./help/mail-carrier-special-protections.json) — schema
+- [`help/mandatory-chp-collision-report.json`](./help/mandatory-chp-collision-report.json) — schema
+- [`help/mediation-before-wd-trial.json`](./help/mediation-before-wd-trial.json) — schema
+- [`help/medical-payment-coverage-risks.json`](./help/medical-payment-coverage-risks.json) — schema
+- [`help/minor-children-wrongful-death.json`](./help/minor-children-wrongful-death.json) — schema
+- [`help/modifications-and-insurance-voids.json`](./help/modifications-and-insurance-voids.json) — schema
+- [`help/motorcycle-wrongful-death-payouts.json`](./help/motorcycle-wrongful-death-payouts.json) — schema
+- [`help/move-over-law-expansion.json`](./help/move-over-law-expansion.json) — schema
+- [`help/moving-expenses-disability.json`](./help/moving-expenses-disability.json) — schema
+- [`help/mri-arthrograms-for-shoulders.json`](./help/mri-arthrograms-for-shoulders.json) — schema
+- [`help/multi-car-fault-allocation.json`](./help/multi-car-fault-allocation.json) — schema
+- [`help/nerve-conduction-emg-studies.json`](./help/nerve-conduction-emg-studies.json) — schema
+- [`help/never-give-recorded-statements.json`](./help/never-give-recorded-statements.json) — schema
+- [`help/night-riding-visibility-tips.json`](./help/night-riding-visibility-tips.json) — schema
+- [`help/no-spouse-parent-claims.json`](./help/no-spouse-parent-claims.json) — schema
+- [`help/out-of-state-heirs-filing.json`](./help/out-of-state-heirs-filing.json) — schema
+- [`help/pain-before-death-recovery.json`](./help/pain-before-death-recovery.json) — schema
+- [`help/parking-lot-negligence-same.json`](./help/parking-lot-negligence-same.json) — schema
+- [`help/passenger-claims-on-e-bikes.json`](./help/passenger-claims-on-e-bikes.json) — schema
+- [`help/pedestrian-vs-e-bike-collisions.json`](./help/pedestrian-vs-e-bike-collisions.json) — schema
+- [`help/per-diem-pain-calculation.json`](./help/per-diem-pain-calculation.json) — schema
+- [`help/plastic-surgery-after-severe-bites.json`](./help/plastic-surgery-after-severe-bites.json) — schema
+- [`help/police-opinion-inadmissible.json`](./help/police-opinion-inadmissible.json) — schema
+- [`help/pothole-claims-against-cities.json`](./help/pothole-claims-against-cities.json) — schema
+- [`help/pre-existing-condition-aggravation.json`](./help/pre-existing-condition-aggravation.json) — schema
+- [`help/prescription-patterns-evidence.json`](./help/prescription-patterns-evidence.json) — schema
+- [`help/prior-tickets-don-t-bar-claims.json`](./help/prior-tickets-don-t-bar-claims.json) — schema
+- [`help/product-liability-time-limits.json`](./help/product-liability-time-limits.json) — schema
+- [`help/property-damage-from-dog-attacks.json`](./help/property-damage-from-dog-attacks.json) — schema
+- [`help/proving-driver-liability-in-e-bike-cases.json`](./help/proving-driver-liability-in-e-bike-cases.json) — schema
+- [`help/proving-vicious-propensity.json`](./help/proving-vicious-propensity.json) — schema
+- [`help/public-vs-private-property-bites.json`](./help/public-vs-private-property-bites.json) — schema
+- [`help/punitive-damages-in-fatal-dui.json`](./help/punitive-damages-in-fatal-dui.json) — schema
+- [`help/punitive-damages-reckless-trucking.json`](./help/punitive-damages-reckless-trucking.json) — schema
+- [`help/pure-comparative-fault-explained.json`](./help/pure-comparative-fault-explained.json) — schema
+- [`help/rabies-shot-er-costs-recoverable.json`](./help/rabies-shot-er-costs-recoverable.json) — schema
+- [`help/rear-end-bike-presumption.json`](./help/rear-end-bike-presumption.json) — schema
+- [`help/rear-end-presumption-of-fault.json`](./help/rear-end-presumption-of-fault.json) — schema
+- [`help/rental-e-bike-accident-rights.json`](./help/rental-e-bike-accident-rights.json) — schema
+- [`help/rental-harley-reimbursement.json`](./help/rental-harley-reimbursement.json) — schema
+- [`help/rideshare-uber-lyft-layers.json`](./help/rideshare-uber-lyft-layers.json) — schema
+- [`help/right-on-red-complete-stop.json`](./help/right-on-red-complete-stop.json) — schema
+- [`help/road-hazard-motorcycle-claims.json`](./help/road-hazard-motorcycle-claims.json) — schema
+- [`help/rollover-center-gravity-defects.json`](./help/rollover-center-gravity-defects.json) — schema
+- [`help/scarring-and-plastic-surgery-costs.json`](./help/scarring-and-plastic-surgery-costs.json) — schema
+- [`help/seatbelt-non-use-limits.json`](./help/seatbelt-non-use-limits.json) — schema
+- [`help/security-camera-footage-evidence.json`](./help/security-camera-footage-evidence.json) — schema
+- [`help/service-dog-bite-liability.json`](./help/service-dog-bite-liability.json) — schema
+- [`help/social-media-privacy-settings.json`](./help/social-media-privacy-settings.json) — schema
+- [`help/spoliation-penalties-data-deletion.json`](./help/spoliation-penalties-data-deletion.json) — schema
+- [`help/stepchild-wrongful-death-rights.json`](./help/stepchild-wrongful-death-rights.json) — schema
+- [`help/surveillance-camera-defenses.json`](./help/surveillance-camera-defenses.json) — schema
+- [`help/texting-ban-federal-enforcement.json`](./help/texting-ban-federal-enforcement.json) — schema
+- [`help/texting-phone-record-subpoena.json`](./help/texting-phone-record-subpoena.json) — schema
+- [`help/tire-blowout-product-liability.json`](./help/tire-blowout-product-liability.json) — schema
+- [`help/track-day-waiver-limits.json`](./help/track-day-waiver-limits.json) — schema
+- [`help/traffic-light-controller-data.json`](./help/traffic-light-controller-data.json) — schema
+- [`help/trail-and-path-e-bike-rules.json`](./help/trail-and-path-e-bike-rules.json) — schema
+- [`help/truck-black-box-ecm-data.json`](./help/truck-black-box-ecm-data.json) — schema
+- [`help/truck-crash-multiple-defendants.json`](./help/truck-crash-multiple-defendants.json) — schema
+- [`help/truck-dashcam-coach-footage.json`](./help/truck-dashcam-coach-footage.json) — schema
+- [`help/u-turn-yield-requirements.json`](./help/u-turn-yield-requirements.json) — schema
+- [`help/underride-guard-failures.json`](./help/underride-guard-failures.json) — schema
+- [`help/vicarious-liability-driver-vs-company.json`](./help/vicarious-liability-driver-vs-company.json) — schema
+- [`help/visibility-aids-admissible.json`](./help/visibility-aids-admissible.json) — schema
+- [`help/vocational-expert-earnings-loss.json`](./help/vocational-expert-earnings-loss.json) — schema
+- [`help/weather-official-records-only.json`](./help/weather-official-records-only.json) — schema
+- [`help/when-to-call-pi-attorney-post-crash.json`](./help/when-to-call-pi-attorney-post-crash.json) — schema
+- [`help/who-can-file-wrongful-death-in-ca.json`](./help/who-can-file-wrongful-death-in-ca.json) — schema
+- [`help/wide-turn-accommodation-limits.json`](./help/wide-turn-accommodation-limits.json) — schema
+- [`help/window-screen-bite-claims.json`](./help/window-screen-bite-claims.json) — schema
+- [`help/workers-comp-third-party.json`](./help/workers-comp-third-party.json) — schema
+
+### Public Pages (9)
+- [`about.html`](./about.html) — LLM-optimized public page
+- [`articles.html`](./articles.html) — LLM-optimized public page
+- [`case-studies.html`](./case-studies.html) — LLM-optimized public page
+- [`contact.html`](./contact.html) — LLM-optimized public page
+- [`faqs.html`](./faqs.html) — LLM-optimized public page
+- [`index.html`](./index.html) — LLM-optimized public page
+- [`reviews.html`](./reviews.html) — LLM-optimized public page
+- [`services.html`](./services.html) — LLM-optimized public page
+- [`team-members.html`](./team-members.html) — LLM-optimized public page
+
+### Reviews (26)
+- [`reviews/6k-to-100k-settlement-5-review.json`](./reviews/6k-to-100k-settlement-5-review.json) — schema
+- [`reviews/accommodating-maximum-settlement-18-review.json`](./reviews/accommodating-maximum-settlement-18-review.json) — schema
+- [`reviews/aggregate-rating.json`](./reviews/aggregate-rating.json) — schema
+- [`reviews/aggressive-friendly-promise-keeper-23-review.json`](./reviews/aggressive-friendly-promise-keeper-23-review.json) — schema
+- [`reviews/best-attorney-for-son-s-case-1-review.json`](./reviews/best-attorney-for-son-s-case-1-review.json) — schema
+- [`reviews/best-law-firm-representation-15-review.json`](./reviews/best-law-firm-representation-15-review.json) — schema
+- [`reviews/calm-professional-outcome-16-review.json`](./reviews/calm-professional-outcome-16-review.json) — schema
+- [`reviews/constant-communication-professional-12-review.json`](./reviews/constant-communication-professional-12-review.json) — schema
+- [`reviews/efficient-professional-lawsuit-22-review.json`](./reviews/efficient-professional-lawsuit-22-review.json) — schema
+- [`reviews/exceptional-customer-service-10-review.json`](./reviews/exceptional-customer-service-10-review.json) — schema
+- [`reviews/extremely-satisfied-friendly-14-review.json`](./reviews/extremely-satisfied-friendly-14-review.json) — schema
+- [`reviews/forced-100-fault-admission-2-review.json`](./reviews/forced-100-fault-admission-2-review.json) — schema
+- [`reviews/genuine-and-comfortable-process-7-review.json`](./reviews/genuine-and-comfortable-process-7-review.json) — schema
+- [`reviews/going-the-extra-mile-6-review.json`](./reviews/going-the-extra-mile-6-review.json) — schema
+- [`reviews/harley-accident-70-liability-win-8-review.json`](./reviews/harley-accident-70-liability-win-8-review.json) — schema
+- [`reviews/highly-recommended-polite-19-review.json`](./reviews/highly-recommended-polite-19-review.json) — schema
+- [`reviews/hired-on-the-spot-results-11-review.json`](./reviews/hired-on-the-spot-results-11-review.json) — schema
+- [`reviews/known-ten-years-recommend-25-review.json`](./reviews/known-ten-years-recommend-25-review.json) — schema
+- [`reviews/no-nonsense-straightforward-help-3-review.json`](./reviews/no-nonsense-straightforward-help-3-review.json) — schema
+- [`reviews/outstanding-fair-compensation-21-review.json`](./reviews/outstanding-fair-compensation-21-review.json) — schema
+- [`reviews/quick-lucrative-settlement-9-review.json`](./reviews/quick-lucrative-settlement-9-review.json) — schema
+- [`reviews/responsive-and-respectful-13-review.json`](./reviews/responsive-and-respectful-13-review.json) — schema
+- [`reviews/responsive-during-stressful-time-17-review.json`](./reviews/responsive-during-stressful-time-17-review.json) — schema
+- [`reviews/settlement-more-than-expected-4-review.json`](./reviews/settlement-more-than-expected-4-review.json) — schema
+- [`reviews/smooth-process-for-son-s-accident-20-review.json`](./reviews/smooth-process-for-son-s-accident-20-review.json) — schema
+- [`reviews/strong-endorsement-dedicated-24-review.json`](./reviews/strong-endorsement-dedicated-24-review.json) — schema
+
+### Press (6)
+- [`press/attorney-dustin.json`](./press/attorney-dustin.json) — schema
+- [`press/dustin-maricic-profile-temecula-ca-car-accident-lawyer.json`](./press/dustin-maricic-profile-temecula-ca-car-accident-lawyer.json) — schema
+- [`press/maricic-law-firm-41-reviews-personal-injury-law.json`](./press/maricic-law-firm-41-reviews-personal-injury-law.json) — schema
+- [`press/maricic-law-firm-updated-january-2026-10-reviews.json`](./press/maricic-law-firm-updated-january-2026-10-reviews.json) — schema
+- [`press/maricic-law-firm.json`](./press/maricic-law-firm.json) — schema
+- [`press/top-rated-temecula-personal-injury-lawyer.json`](./press/top-rated-temecula-personal-injury-lawyer.json) — schema
+
+### Awards (5)
+- [`awards/5-0-5-0-avvo-client-rating.json`](./awards/5-0-5-0-avvo-client-rating.json) — schema
+- [`awards/active-ca-bar-licensee-no-discipline.json`](./awards/active-ca-bar-licensee-no-discipline.json) — schema
+- [`awards/featured-personal-injury-attorney.json`](./awards/featured-personal-injury-attorney.json) — schema
+- [`awards/top-50-verdicts-in-california-co-counsel-recognition.json`](./awards/top-50-verdicts-in-california-co-counsel-recognition.json) — schema
+- [`awards/top-rated-temecula-car-accident-lawyer.json`](./awards/top-rated-temecula-car-accident-lawyer.json) — schema
+
+### Case Studies (10)
+- [`case-studies/6k-insurance-offer-to-100k.json`](./case-studies/6k-insurance-offer-to-100k.json) — schema
+- [`case-studies/dog-bite-infection-reduction.json`](./case-studies/dog-bite-infection-reduction.json) — schema
+- [`case-studies/harley-motorcycle-liability-shift.json`](./case-studies/harley-motorcycle-liability-shift.json) — schema
+- [`case-studies/hit-and-run-totaled-new-car.json`](./case-studies/hit-and-run-totaled-new-car.json) — schema
+- [`case-studies/insurance-denial-to-100-fault.json`](./case-studies/insurance-denial-to-100-fault.json) — schema
+- [`case-studies/menifee-mom-rear-end-collision.json`](./case-studies/menifee-mom-rear-end-collision.json) — schema
+- [`case-studies/murrieta-e-bike-vs-car.json`](./case-studies/murrieta-e-bike-vs-car.json) — schema
+- [`case-studies/son-s-car-accident-medical-fight.json`](./case-studies/son-s-car-accident-medical-fight.json) — schema
+- [`case-studies/temecula-man-fatal-pedestrian.json`](./case-studies/temecula-man-fatal-pedestrian.json) — schema
+- [`case-studies/temecula-uber-driver-t-bone.json`](./case-studies/temecula-uber-driver-t-bone.json) — schema
+
+
