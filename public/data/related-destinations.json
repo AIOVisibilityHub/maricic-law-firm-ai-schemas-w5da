@@ -1,6 +1,6 @@
 {
   "version": "1.0",
-  "generatedAt": "2026-09-05T21:50:37.807Z",
+  "generatedAt": "2026-09-05T21:50:51.785Z",
   "name": "Cross-Destination Index",
   "aliases": [
     "Authority Network",
@@ -36,13 +36,13 @@
       "role": "mirror-pages",
       "platform": "github",
       "label": "GitHub — AI Data Hub mirror",
-      "url": "https://aiovisibilityhub.github.io/maricic-law-firm-ai-schemas-w5da/ai-data.html"
+      "url": "https://mariciclawfirm.aiovisibility.net/ai-data.html"
     }
   ],
   "destinations": {
     "github": {
       "url": "https://github.com/AIOVisibilityHub/maricic-law-firm-ai-schemas-w5da",
-      "pagesUrl": "https://aiovisibilityhub.github.io/maricic-law-firm-ai-schemas-w5da/",
+      "pagesUrl": "https://mariciclawfirm.aiovisibility.net/",
       "repo": "AIOVisibilityHub/maricic-law-firm-ai-schemas-w5da"
     }
   }
