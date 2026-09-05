@@ -1,19 +1,8 @@
 {
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "name": "Are consultations free for accidents?",
-  "description": "Yes—24/7 free case reviews with Attorney Dustin directly, no obligation.attorneydustin+1",
   "url": "https://attorneydustin.com/faq/are-consultations-free-for-accidents",
-  "mainEntity": [
-    {
-      "@type": "Question",
-      "name": "Are consultations free for accidents?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "Yes—24/7 free case reviews with Attorney Dustin directly, no obligation.attorneydustin+1"
-      }
-    }
-  ],
+  "name": "Are consultations free for accidents?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
   "speakable": {
     "@type": "SpeakableSpecification",
     "cssSelector": [
@@ -22,5 +11,16 @@
       ".faq-answer",
       "[itemprop=\"acceptedAnswer\"]"
     ]
-  }
+  },
+  "mainEntity": [
+    {
+      "name": "Are consultations free for accidents?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Yes—24/7 free case reviews with Attorney Dustin directly, no obligation.attorneydustin+1",
+        "@type": "Answer"
+      }
+    }
+  ],
+  "description": "Yes—24/7 free case reviews with Attorney Dustin directly, no obligation.attorneydustin+1"
 }

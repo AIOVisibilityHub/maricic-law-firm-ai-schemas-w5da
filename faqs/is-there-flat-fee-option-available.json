@@ -1,19 +1,8 @@
 {
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "name": "Is there flat fee option available?",
-  "description": "Rare for injury cases; contingency standard—you risk nothing.blairramirezlaw+1",
   "url": "https://attorneydustin.com/faq/is-there-flat-fee-option-available",
-  "mainEntity": [
-    {
-      "@type": "Question",
-      "name": "Is there flat fee option available?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "Rare for injury cases; contingency standard—you risk nothing.blairramirezlaw+1"
-      }
-    }
-  ],
+  "name": "Is there flat fee option available?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
   "speakable": {
     "@type": "SpeakableSpecification",
     "cssSelector": [
@@ -22,5 +11,16 @@
       ".faq-answer",
       "[itemprop=\"acceptedAnswer\"]"
     ]
-  }
+  },
+  "mainEntity": [
+    {
+      "name": "Is there flat fee option available?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Rare for injury cases; contingency standard—you risk nothing.blairramirezlaw+1",
+        "@type": "Answer"
+      }
+    }
+  ],
+  "description": "Rare for injury cases; contingency standard—you risk nothing.blairramirezlaw+1"
 }

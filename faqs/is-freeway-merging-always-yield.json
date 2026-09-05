@@ -1,19 +1,8 @@
 {
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "name": "Is freeway merging always yield?",
-  "description": "Yes to through traffic; zipper merge only advisory signs.attorneyatlaw+1",
   "url": "https://attorneydustin.com/faq/is-freeway-merging-always-yield",
-  "mainEntity": [
-    {
-      "@type": "Question",
-      "name": "Is freeway merging always yield?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "Yes to through traffic; zipper merge only advisory signs.attorneyatlaw+1"
-      }
-    }
-  ],
+  "name": "Is freeway merging always yield?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
   "speakable": {
     "@type": "SpeakableSpecification",
     "cssSelector": [
@@ -22,5 +11,16 @@
       ".faq-answer",
       "[itemprop=\"acceptedAnswer\"]"
     ]
-  }
+  },
+  "mainEntity": [
+    {
+      "name": "Is freeway merging always yield?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Yes to through traffic; zipper merge only advisory signs.attorneyatlaw+1",
+        "@type": "Answer"
+      }
+    }
+  ],
+  "description": "Yes to through traffic; zipper merge only advisory signs.attorneyatlaw+1"
 }

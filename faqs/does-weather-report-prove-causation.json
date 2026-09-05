@@ -1,19 +1,8 @@
 {
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "name": "Does weather report prove causation?",
-  "description": "Official NWS data shows visibility; caution duty always applies.yelp+1",
   "url": "https://attorneydustin.com/faq/does-weather-report-prove-causation",
-  "mainEntity": [
-    {
-      "@type": "Question",
-      "name": "Does weather report prove causation?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "Official NWS data shows visibility; caution duty always applies.yelp+1"
-      }
-    }
-  ],
+  "name": "Does weather report prove causation?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
   "speakable": {
     "@type": "SpeakableSpecification",
     "cssSelector": [
@@ -22,5 +11,16 @@
       ".faq-answer",
       "[itemprop=\"acceptedAnswer\"]"
     ]
-  }
+  },
+  "mainEntity": [
+    {
+      "name": "Does weather report prove causation?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Official NWS data shows visibility; caution duty always applies.yelp+1",
+        "@type": "Answer"
+      }
+    }
+  ],
+  "description": "Official NWS data shows visibility; caution duty always applies.yelp+1"
 }

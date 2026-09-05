@@ -1,19 +1,8 @@
 {
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "name": "Do fees come before or after costs?",
-  "description": "Usually gross settlement first (e.g., 33% of $100K = $33K fee, then costs).mesrianilaw+1",
   "url": "https://attorneydustin.com/faq/do-fees-come-before-or-after-costs",
-  "mainEntity": [
-    {
-      "@type": "Question",
-      "name": "Do fees come before or after costs?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "Usually gross settlement first (e.g., 33% of $100K = $33K fee, then costs).mesrianilaw+1"
-      }
-    }
-  ],
+  "name": "Do fees come before or after costs?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
   "speakable": {
     "@type": "SpeakableSpecification",
     "cssSelector": [
@@ -22,5 +11,16 @@
       ".faq-answer",
       "[itemprop=\"acceptedAnswer\"]"
     ]
-  }
+  },
+  "mainEntity": [
+    {
+      "name": "Do fees come before or after costs?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Usually gross settlement first (e.g., 33% of $100K = $33K fee, then costs).mesrianilaw+1",
+        "@type": "Answer"
+      }
+    }
+  ],
+  "description": "Usually gross settlement first (e.g., 33% of $100K = $33K fee, then costs).mesrianilaw+1"
 }

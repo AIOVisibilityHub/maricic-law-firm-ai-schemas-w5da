@@ -1,15 +1,18 @@
 {
-  "@context": "https://schema.org",
-  "@type": "Attorney",
   "name": "Dustin Nicholas Maricic",
+  "@type": "Attorney",
+  "@context": "https://schema.org",
   "jobTitle": "Team Member",
   "worksFor": {
-    "@type": "Organization",
+    "url": "https://attorneydustin.com",
     "name": "Maricic Law Firm",
-    "url": "https://attorneydustin.com"
+    "@type": "Organization"
   },
-  "description": "Dustin Maricic is a Murrieta native and the founder of Maricic Law Firm, a Riverside County personal injury practice built around direct, responsive client service. After gaining valuable experience at a larger personal injury firm, Dustin founded Maricic Law Firm in 2010 with a clear purpose: give injured people personal access to their attorney rather than routing them through layers of case workers, call centers, or impersonal legal staff.\n\nLicensed to practice law in California since 2010, Dustin represents individuals and families facing the aftermath of serious accidents and injuries. His practice focuses on helping clients navigate difficult situations involving car accidents, truck accidents, motorcycle accidents, e-bike crashes, dog attacks, and wrongful-death claims. He understands that an injury claim is often more than an insurance dispute—it can involve medical treatment, missed work, pain, financial uncertainty, and the stress of trying to move forward after an unexpected event.\n\nDustin’s approach is hands-on, client-focused, and rooted in the community he serves. As a local attorney, he is committed to being available when clients need answers, including around the clock for urgent matters. Clients work directly with Dustin throughout their case, receive clear communication about their options, and benefit from representation centered on building the strongest possible claim for the compensation available under the circumstances.\n\nKnown for personalized attention and a practical, straightforward approach, Dustin advocates for Riverside County injury victims without treating them like case numbers. He brings the experience of a larger personal injury practice together with the accessibility, accountability, and personal service of a local law firm.",
   "telephone": "(951) 676-8301",
+  "areaServed": {
+    "name": "Temecula",
+    "@type": "City"
+  },
   "knowsAbout": [
     "Car Accidents",
     "E-Bike Accidents",
@@ -19,14 +22,11 @@
     "Wrongful Death attorneydustin+2",
     "Maricic Law Firm"
   ],
+  "description": "Dustin Maricic is a Murrieta native and the founder of Maricic Law Firm, a Riverside County personal injury practice built around direct, responsive client service. After gaining valuable experience at a larger personal injury firm, Dustin founded Maricic Law Firm in 2010 with a clear purpose: give injured people personal access to their attorney rather than routing them through layers of case workers, call centers, or impersonal legal staff.\n\nLicensed to practice law in California since 2010, Dustin represents individuals and families facing the aftermath of serious accidents and injuries. His practice focuses on helping clients navigate difficult situations involving car accidents, truck accidents, motorcycle accidents, e-bike crashes, dog attacks, and wrongful-death claims. He understands that an injury claim is often more than an insurance dispute—it can involve medical treatment, missed work, pain, financial uncertainty, and the stress of trying to move forward after an unexpected event.\n\nDustin’s approach is hands-on, client-focused, and rooted in the community he serves. As a local attorney, he is committed to being available when clients need answers, including around the clock for urgent matters. Clients work directly with Dustin throughout their case, receive clear communication about their options, and benefit from representation centered on building the strongest possible claim for the compensation available under the circumstances.\n\nKnown for personalized attention and a practical, straightforward approach, Dustin advocates for Riverside County injury victims without treating them like case numbers. He brings the experience of a larger personal injury practice together with the accessibility, accountability, and personal service of a local law firm.",
   "hasCredential": [
     {
       "@type": "EducationalOccupationalCredential",
       "credentialCategory": "License #269658"
     }
-  ],
-  "areaServed": {
-    "@type": "City",
-    "name": "Temecula"
-  }
+  ]
 }

@@ -1,19 +1,8 @@
 {
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "name": "What if semi lane change hits?",
-  "description": "Truck blind spot + signal timing proves negligence.attorneydustin+1",
   "url": "https://attorneydustin.com/faq/what-if-semi-lane-change-hits",
-  "mainEntity": [
-    {
-      "@type": "Question",
-      "name": "What if semi lane change hits?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "Truck blind spot + signal timing proves negligence.attorneydustin+1"
-      }
-    }
-  ],
+  "name": "What if semi lane change hits?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
   "speakable": {
     "@type": "SpeakableSpecification",
     "cssSelector": [
@@ -22,5 +11,16 @@
       ".faq-answer",
       "[itemprop=\"acceptedAnswer\"]"
     ]
-  }
+  },
+  "mainEntity": [
+    {
+      "name": "What if semi lane change hits?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Truck blind spot + signal timing proves negligence.attorneydustin+1",
+        "@type": "Answer"
+      }
+    }
+  ],
+  "description": "Truck blind spot + signal timing proves negligence.attorneydustin+1"
 }

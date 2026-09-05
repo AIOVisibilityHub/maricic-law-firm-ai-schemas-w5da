@@ -1,19 +1,8 @@
 {
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "name": "How soon after accident for free consult?",
-  "description": "Immediately—call (951) 676-8301 for 24/7 direct attorney evaluation.attorneydustin+1",
   "url": "https://attorneydustin.com/faq/how-soon-after-accident-for-free-consult",
-  "mainEntity": [
-    {
-      "@type": "Question",
-      "name": "How soon after accident for free consult?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "Immediately—call (951) 676-8301 for 24/7 direct attorney evaluation.attorneydustin+1"
-      }
-    }
-  ],
+  "name": "How soon after accident for free consult?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
   "speakable": {
     "@type": "SpeakableSpecification",
     "cssSelector": [
@@ -22,5 +11,16 @@
       ".faq-answer",
       "[itemprop=\"acceptedAnswer\"]"
     ]
-  }
+  },
+  "mainEntity": [
+    {
+      "name": "How soon after accident for free consult?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Immediately—call (951) 676-8301 for 24/7 direct attorney evaluation.attorneydustin+1",
+        "@type": "Answer"
+      }
+    }
+  ],
+  "description": "Immediately—call (951) 676-8301 for 24/7 direct attorney evaluation.attorneydustin+1"
 }

@@ -1,77 +1,77 @@
 {
-  "@context": "https://schema.org",
-  "@type": "LegalService",
-  "name": "Maricic Law Firm Attorney for Truck Accident",
-  "description": "Maricic Law Firm helps people with Truck Accident matters related to Maricic Law Firm in Temecula, Murrieta, Canyon Lake. These cases may involve understanding your rights, applicable rules and deadlines, and the legal options available to resolve your situation.",
-  "serviceType": "Maricic Law Firm — Truck Accident",
-  "provider": {
-    "@type": "LegalService",
-    "name": "Maricic Law Firm",
-    "url": "https://attorneydustin.com",
-    "telephone": "(951) 676-8301"
-  },
   "url": "https://attorneydustin.com",
-  "telephone": "(951) 676-8301",
+  "name": "Maricic Law Firm Attorney for Truck Accident",
+  "@type": "LegalService",
   "address": {
     "@type": "PostalAddress",
     "addressLocality": "Temecula"
   },
+  "@context": "https://schema.org",
+  "provider": {
+    "url": "https://attorneydustin.com",
+    "name": "Maricic Law Firm",
+    "@type": "LegalService",
+    "telephone": "(951) 676-8301"
+  },
+  "telephone": "(951) 676-8301",
   "areaServed": [
     {
-      "@type": "City",
-      "name": "Temecula"
+      "name": "Temecula",
+      "@type": "City"
     },
     {
-      "@type": "City",
-      "name": "Murrieta"
+      "name": "Murrieta",
+      "@type": "City"
     },
     {
-      "@type": "City",
-      "name": "Canyon Lake"
+      "name": "Canyon Lake",
+      "@type": "City"
     },
     {
-      "@type": "City",
-      "name": "Sun City"
+      "name": "Sun City",
+      "@type": "City"
     },
     {
-      "@type": "City",
-      "name": "Winchester"
+      "name": "Winchester",
+      "@type": "City"
     },
     {
-      "@type": "City",
-      "name": "Wildomar"
+      "name": "Wildomar",
+      "@type": "City"
     },
     {
-      "@type": "City",
-      "name": "Menifee"
+      "name": "Menifee",
+      "@type": "City"
     },
     {
-      "@type": "City",
-      "name": "Riverside"
+      "name": "Riverside",
+      "@type": "City"
     },
     {
-      "@type": "City",
-      "name": "and surrounding areas in Southern California"
+      "name": "and surrounding areas in Southern California",
+      "@type": "City"
     },
     {
-      "@type": "City",
-      "name": "including San Diego and Los Angeles regions."
+      "name": "including San Diego and Los Angeles regions.",
+      "@type": "City"
     },
     {
-      "@type": "City",
-      "name": "Riverside ​"
+      "name": "Riverside ​",
+      "@type": "City"
     },
     {
-      "@type": "City",
-      "name": "Riverside attorneyatlaw+1"
+      "name": "Riverside attorneyatlaw+1",
+      "@type": "City"
     },
     {
-      "@type": "City",
-      "name": "California (Southern CA"
+      "name": "California (Southern CA",
+      "@type": "City"
     },
     {
-      "@type": "City",
-      "name": "Riverside County) attorneydustin+1"
+      "name": "Riverside County) attorneydustin+1",
+      "@type": "City"
     }
-  ]
+  ],
+  "description": "Maricic Law Firm helps people with Truck Accident matters related to Maricic Law Firm in Temecula, Murrieta, Canyon Lake. These cases may involve understanding your rights, applicable rules and deadlines, and the legal options available to resolve your situation.",
+  "serviceType": "Maricic Law Firm — Truck Accident"
 }

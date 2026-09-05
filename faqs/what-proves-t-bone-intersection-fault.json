@@ -1,19 +1,8 @@
 {
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "name": "What proves T-bone intersection fault?",
-  "description": "No-stop sign vs. yield duty determines primary liability.attorneyatlaw+1",
   "url": "https://attorneydustin.com/faq/what-proves-t-bone-intersection-fault",
-  "mainEntity": [
-    {
-      "@type": "Question",
-      "name": "What proves T-bone intersection fault?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "No-stop sign vs. yield duty determines primary liability.attorneyatlaw+1"
-      }
-    }
-  ],
+  "name": "What proves T-bone intersection fault?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
   "speakable": {
     "@type": "SpeakableSpecification",
     "cssSelector": [
@@ -22,5 +11,16 @@
       ".faq-answer",
       "[itemprop=\"acceptedAnswer\"]"
     ]
-  }
+  },
+  "mainEntity": [
+    {
+      "name": "What proves T-bone intersection fault?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "No-stop sign vs. yield duty determines primary liability.attorneyatlaw+1",
+        "@type": "Answer"
+      }
+    }
+  ],
+  "description": "No-stop sign vs. yield duty determines primary liability.attorneyatlaw+1"
 }

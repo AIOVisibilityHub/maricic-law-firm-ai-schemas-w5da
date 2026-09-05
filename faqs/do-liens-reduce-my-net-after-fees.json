@@ -1,19 +1,8 @@
 {
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "name": "Do liens reduce my net after fees?",
-  "description": "Yes, medical liens paid post-fee; we negotiate them down first.blairramirezlaw+1",
   "url": "https://attorneydustin.com/faq/do-liens-reduce-my-net-after-fees",
-  "mainEntity": [
-    {
-      "@type": "Question",
-      "name": "Do liens reduce my net after fees?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "Yes, medical liens paid post-fee; we negotiate them down first.blairramirezlaw+1"
-      }
-    }
-  ],
+  "name": "Do liens reduce my net after fees?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
   "speakable": {
     "@type": "SpeakableSpecification",
     "cssSelector": [
@@ -22,5 +11,16 @@
       ".faq-answer",
       "[itemprop=\"acceptedAnswer\"]"
     ]
-  }
+  },
+  "mainEntity": [
+    {
+      "name": "Do liens reduce my net after fees?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Yes, medical liens paid post-fee; we negotiate them down first.blairramirezlaw+1",
+        "@type": "Answer"
+      }
+    }
+  ],
+  "description": "Yes, medical liens paid post-fee; we negotiate them down first.blairramirezlaw+1"
 }

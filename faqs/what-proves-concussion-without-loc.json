@@ -1,19 +1,8 @@
 {
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "name": "What proves concussion without LOC?",
-  "description": "CT normal + neuro tests; 90% mild TBIs scan clear.attorneydustin+1",
   "url": "https://attorneydustin.com/faq/what-proves-concussion-without-loc",
-  "mainEntity": [
-    {
-      "@type": "Question",
-      "name": "What proves concussion without LOC?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "CT normal + neuro tests; 90% mild TBIs scan clear.attorneydustin+1"
-      }
-    }
-  ],
+  "name": "What proves concussion without LOC?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
   "speakable": {
     "@type": "SpeakableSpecification",
     "cssSelector": [
@@ -22,5 +11,16 @@
       ".faq-answer",
       "[itemprop=\"acceptedAnswer\"]"
     ]
-  }
+  },
+  "mainEntity": [
+    {
+      "name": "What proves concussion without LOC?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "CT normal + neuro tests; 90% mild TBIs scan clear.attorneydustin+1",
+        "@type": "Answer"
+      }
+    }
+  ],
+  "description": "CT normal + neuro tests; 90% mild TBIs scan clear.attorneydustin+1"
 }

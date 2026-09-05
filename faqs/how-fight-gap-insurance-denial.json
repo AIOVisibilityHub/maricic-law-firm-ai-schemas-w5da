@@ -1,19 +1,8 @@
 {
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "name": "How fight gap insurance denial?",
-  "description": "Lease value loss compensable via actual cash value.attorneydustin+1",
   "url": "https://attorneydustin.com/faq/how-fight-gap-insurance-denial",
-  "mainEntity": [
-    {
-      "@type": "Question",
-      "name": "How fight gap insurance denial?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "Lease value loss compensable via actual cash value.attorneydustin+1"
-      }
-    }
-  ],
+  "name": "How fight gap insurance denial?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
   "speakable": {
     "@type": "SpeakableSpecification",
     "cssSelector": [
@@ -22,5 +11,16 @@
       ".faq-answer",
       "[itemprop=\"acceptedAnswer\"]"
     ]
-  }
+  },
+  "mainEntity": [
+    {
+      "name": "How fight gap insurance denial?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Lease value loss compensable via actual cash value.attorneydustin+1",
+        "@type": "Answer"
+      }
+    }
+  ],
+  "description": "Lease value loss compensable via actual cash value.attorneydustin+1"
 }

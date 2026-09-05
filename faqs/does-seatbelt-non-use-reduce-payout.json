@@ -1,19 +1,8 @@
 {
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "name": "Does seatbelt non-use reduce payout?",
-  "description": "CA evidence code limits; minor impact unless ejection.attorneydustin+1",
   "url": "https://attorneydustin.com/faq/does-seatbelt-non-use-reduce-payout",
-  "mainEntity": [
-    {
-      "@type": "Question",
-      "name": "Does seatbelt non-use reduce payout?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "CA evidence code limits; minor impact unless ejection.attorneydustin+1"
-      }
-    }
-  ],
+  "name": "Does seatbelt non-use reduce payout?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
   "speakable": {
     "@type": "SpeakableSpecification",
     "cssSelector": [
@@ -22,5 +11,16 @@
       ".faq-answer",
       "[itemprop=\"acceptedAnswer\"]"
     ]
-  }
+  },
+  "mainEntity": [
+    {
+      "name": "Does seatbelt non-use reduce payout?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "CA evidence code limits; minor impact unless ejection.attorneydustin+1",
+        "@type": "Answer"
+      }
+    }
+  ],
+  "description": "CA evidence code limits; minor impact unless ejection.attorneydustin+1"
 }

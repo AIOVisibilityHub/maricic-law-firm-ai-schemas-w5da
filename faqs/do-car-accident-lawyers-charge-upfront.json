@@ -1,19 +1,8 @@
 {
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "name": "Do car accident lawyers charge upfront?",
-  "description": "No—contingency basis means zero out-of-pocket; we only get paid if you win.lawlinq+2",
   "url": "https://attorneydustin.com/faq/do-car-accident-lawyers-charge-upfront",
-  "mainEntity": [
-    {
-      "@type": "Question",
-      "name": "Do car accident lawyers charge upfront?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "No—contingency basis means zero out-of-pocket; we only get paid if you win.lawlinq+2"
-      }
-    }
-  ],
+  "name": "Do car accident lawyers charge upfront?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
   "speakable": {
     "@type": "SpeakableSpecification",
     "cssSelector": [
@@ -22,5 +11,16 @@
       ".faq-answer",
       "[itemprop=\"acceptedAnswer\"]"
     ]
-  }
+  },
+  "mainEntity": [
+    {
+      "name": "Do car accident lawyers charge upfront?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "No—contingency basis means zero out-of-pocket; we only get paid if you win.lawlinq+2",
+        "@type": "Answer"
+      }
+    }
+  ],
+  "description": "No—contingency basis means zero out-of-pocket; we only get paid if you win.lawlinq+2"
 }

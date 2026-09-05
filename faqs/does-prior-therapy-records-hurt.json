@@ -1,19 +1,8 @@
 {
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "name": "Does prior therapy records hurt?",
-  "description": "Shows baseline; crash exacerbation gets full new damages.attorneydustin+1",
   "url": "https://attorneydustin.com/faq/does-prior-therapy-records-hurt",
-  "mainEntity": [
-    {
-      "@type": "Question",
-      "name": "Does prior therapy records hurt?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "Shows baseline; crash exacerbation gets full new damages.attorneydustin+1"
-      }
-    }
-  ],
+  "name": "Does prior therapy records hurt?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
   "speakable": {
     "@type": "SpeakableSpecification",
     "cssSelector": [
@@ -22,5 +11,16 @@
       ".faq-answer",
       "[itemprop=\"acceptedAnswer\"]"
     ]
-  }
+  },
+  "mainEntity": [
+    {
+      "name": "Does prior therapy records hurt?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Shows baseline; crash exacerbation gets full new damages.attorneydustin+1",
+        "@type": "Answer"
+      }
+    }
+  ],
+  "description": "Shows baseline; crash exacerbation gets full new damages.attorneydustin+1"
 }

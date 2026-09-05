@@ -1,19 +1,8 @@
 {
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "name": "What if multiple insurers involved?",
-  "description": "We identify all policies, pursue highest limits first.attorneydustin+1",
   "url": "https://attorneydustin.com/faq/what-if-multiple-insurers-involved",
-  "mainEntity": [
-    {
-      "@type": "Question",
-      "name": "What if multiple insurers involved?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "We identify all policies, pursue highest limits first.attorneydustin+1"
-      }
-    }
-  ],
+  "name": "What if multiple insurers involved?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
   "speakable": {
     "@type": "SpeakableSpecification",
     "cssSelector": [
@@ -22,5 +11,16 @@
       ".faq-answer",
       "[itemprop=\"acceptedAnswer\"]"
     ]
-  }
+  },
+  "mainEntity": [
+    {
+      "name": "What if multiple insurers involved?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "We identify all policies, pursue highest limits first.attorneydustin+1",
+        "@type": "Answer"
+      }
+    }
+  ],
+  "description": "We identify all policies, pursue highest limits first.attorneydustin+1"
 }

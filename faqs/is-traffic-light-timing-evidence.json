@@ -1,19 +1,8 @@
 {
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "name": "Is traffic light timing evidence?",
-  "description": "Controller data proves sequence; yellow too short = city liability.attorneydustin+1",
   "url": "https://attorneydustin.com/faq/is-traffic-light-timing-evidence",
-  "mainEntity": [
-    {
-      "@type": "Question",
-      "name": "Is traffic light timing evidence?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "Controller data proves sequence; yellow too short = city liability.attorneydustin+1"
-      }
-    }
-  ],
+  "name": "Is traffic light timing evidence?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
   "speakable": {
     "@type": "SpeakableSpecification",
     "cssSelector": [
@@ -22,5 +11,16 @@
       ".faq-answer",
       "[itemprop=\"acceptedAnswer\"]"
     ]
-  }
+  },
+  "mainEntity": [
+    {
+      "name": "Is traffic light timing evidence?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Controller data proves sequence; yellow too short = city liability.attorneydustin+1",
+        "@type": "Answer"
+      }
+    }
+  ],
+  "description": "Controller data proves sequence; yellow too short = city liability.attorneydustin+1"
 }

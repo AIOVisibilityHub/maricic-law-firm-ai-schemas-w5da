@@ -1,19 +1,8 @@
 {
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "name": "Can family testify for pain impact?",
-  "description": "Yes, spouse/kids describe lifestyle changes juries relate to.attorneydustin+1",
   "url": "https://attorneydustin.com/faq/can-family-testify-for-pain-impact",
-  "mainEntity": [
-    {
-      "@type": "Question",
-      "name": "Can family testify for pain impact?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "Yes, spouse/kids describe lifestyle changes juries relate to.attorneydustin+1"
-      }
-    }
-  ],
+  "name": "Can family testify for pain impact?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
   "speakable": {
     "@type": "SpeakableSpecification",
     "cssSelector": [
@@ -22,5 +11,16 @@
       ".faq-answer",
       "[itemprop=\"acceptedAnswer\"]"
     ]
-  }
+  },
+  "mainEntity": [
+    {
+      "name": "Can family testify for pain impact?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Yes, spouse/kids describe lifestyle changes juries relate to.attorneydustin+1",
+        "@type": "Answer"
+      }
+    }
+  ],
+  "description": "Yes, spouse/kids describe lifestyle changes juries relate to.attorneydustin+1"
 }

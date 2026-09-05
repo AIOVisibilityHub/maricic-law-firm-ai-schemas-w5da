@@ -1,19 +1,8 @@
 {
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "name": "What happens if case loses?",
-  "description": "You owe nothing; we absorb 100% risk and costs.lawlinq+2",
   "url": "https://attorneydustin.com/faq/what-happens-if-case-loses",
-  "mainEntity": [
-    {
-      "@type": "Question",
-      "name": "What happens if case loses?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "You owe nothing; we absorb 100% risk and costs.lawlinq+2"
-      }
-    }
-  ],
+  "name": "What happens if case loses?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
   "speakable": {
     "@type": "SpeakableSpecification",
     "cssSelector": [
@@ -22,5 +11,16 @@
       ".faq-answer",
       "[itemprop=\"acceptedAnswer\"]"
     ]
-  }
+  },
+  "mainEntity": [
+    {
+      "name": "What happens if case loses?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "You owe nothing; we absorb 100% risk and costs.lawlinq+2",
+        "@type": "Answer"
+      }
+    }
+  ],
+  "description": "You owe nothing; we absorb 100% risk and costs.lawlinq+2"
 }

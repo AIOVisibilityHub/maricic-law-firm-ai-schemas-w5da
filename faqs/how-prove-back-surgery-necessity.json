@@ -1,19 +1,8 @@
 {
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "name": "How prove back surgery necessity?",
-  "description": "Pre/post MRIs + surgeon opinion linking to crash.attorneydustin+1",
   "url": "https://attorneydustin.com/faq/how-prove-back-surgery-necessity",
-  "mainEntity": [
-    {
-      "@type": "Question",
-      "name": "How prove back surgery necessity?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "Pre/post MRIs + surgeon opinion linking to crash.attorneydustin+1"
-      }
-    }
-  ],
+  "name": "How prove back surgery necessity?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
   "speakable": {
     "@type": "SpeakableSpecification",
     "cssSelector": [
@@ -22,5 +11,16 @@
       ".faq-answer",
       "[itemprop=\"acceptedAnswer\"]"
     ]
-  }
+  },
+  "mainEntity": [
+    {
+      "name": "How prove back surgery necessity?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Pre/post MRIs + surgeon opinion linking to crash.attorneydustin+1",
+        "@type": "Answer"
+      }
+    }
+  ],
+  "description": "Pre/post MRIs + surgeon opinion linking to crash.attorneydustin+1"
 }

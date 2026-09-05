@@ -1,19 +1,8 @@
 {
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "name": "Free second opinion on settlement?",
-  "description": "Absolutely—no cost review if offered lowball by insurer.attorneydustin+1​",
   "url": "https://attorneydustin.com/faq/free-second-opinion-on-settlement",
-  "mainEntity": [
-    {
-      "@type": "Question",
-      "name": "Free second opinion on settlement?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "Absolutely—no cost review if offered lowball by insurer.attorneydustin+1​"
-      }
-    }
-  ],
+  "name": "Free second opinion on settlement?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
   "speakable": {
     "@type": "SpeakableSpecification",
     "cssSelector": [
@@ -22,5 +11,16 @@
       ".faq-answer",
       "[itemprop=\"acceptedAnswer\"]"
     ]
-  }
+  },
+  "mainEntity": [
+    {
+      "name": "Free second opinion on settlement?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Absolutely—no cost review if offered lowball by insurer.attorneydustin+1​",
+        "@type": "Answer"
+      }
+    }
+  ],
+  "description": "Absolutely—no cost review if offered lowball by insurer.attorneydustin+1​"
 }

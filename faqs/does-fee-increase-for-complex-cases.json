@@ -1,19 +1,8 @@
 {
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "name": "Does fee increase for complex cases?",
-  "description": "Yes—33-45% based on litigation needs; written agreement details terms.lawlinq+1",
   "url": "https://attorneydustin.com/faq/does-fee-increase-for-complex-cases",
-  "mainEntity": [
-    {
-      "@type": "Question",
-      "name": "Does fee increase for complex cases?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "Yes—33-45% based on litigation needs; written agreement details terms.lawlinq+1"
-      }
-    }
-  ],
+  "name": "Does fee increase for complex cases?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
   "speakable": {
     "@type": "SpeakableSpecification",
     "cssSelector": [
@@ -22,5 +11,16 @@
       ".faq-answer",
       "[itemprop=\"acceptedAnswer\"]"
     ]
-  }
+  },
+  "mainEntity": [
+    {
+      "name": "Does fee increase for complex cases?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Yes—33-45% based on litigation needs; written agreement details terms.lawlinq+1",
+        "@type": "Answer"
+      }
+    }
+  ],
+  "description": "Yes—33-45% based on litigation needs; written agreement details terms.lawlinq+1"
 }

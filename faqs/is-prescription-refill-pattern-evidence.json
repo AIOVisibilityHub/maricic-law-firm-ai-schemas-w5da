@@ -1,19 +1,8 @@
 {
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "name": "Is prescription refill pattern evidence?",
-  "description": "Consistent use proves chronic pain reality.attorneydustin+1",
   "url": "https://attorneydustin.com/faq/is-prescription-refill-pattern-evidence",
-  "mainEntity": [
-    {
-      "@type": "Question",
-      "name": "Is prescription refill pattern evidence?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "Consistent use proves chronic pain reality.attorneydustin+1"
-      }
-    }
-  ],
+  "name": "Is prescription refill pattern evidence?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
   "speakable": {
     "@type": "SpeakableSpecification",
     "cssSelector": [
@@ -22,5 +11,16 @@
       ".faq-answer",
       "[itemprop=\"acceptedAnswer\"]"
     ]
-  }
+  },
+  "mainEntity": [
+    {
+      "name": "Is prescription refill pattern evidence?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Consistent use proves chronic pain reality.attorneydustin+1",
+        "@type": "Answer"
+      }
+    }
+  ],
+  "description": "Consistent use proves chronic pain reality.attorneydustin+1"
 }

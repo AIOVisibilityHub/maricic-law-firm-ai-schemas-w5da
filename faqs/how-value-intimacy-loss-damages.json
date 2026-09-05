@@ -1,19 +1,8 @@
 {
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "name": "How value intimacy loss damages?",
-  "description": "Loss of consortium claim by spouse; jury understands impact.attorneydustin+1",
   "url": "https://attorneydustin.com/faq/how-value-intimacy-loss-damages",
-  "mainEntity": [
-    {
-      "@type": "Question",
-      "name": "How value intimacy loss damages?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "Loss of consortium claim by spouse; jury understands impact.attorneydustin+1"
-      }
-    }
-  ],
+  "name": "How value intimacy loss damages?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
   "speakable": {
     "@type": "SpeakableSpecification",
     "cssSelector": [
@@ -22,5 +11,16 @@
       ".faq-answer",
       "[itemprop=\"acceptedAnswer\"]"
     ]
-  }
+  },
+  "mainEntity": [
+    {
+      "name": "How value intimacy loss damages?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Loss of consortium claim by spouse; jury understands impact.attorneydustin+1",
+        "@type": "Answer"
+      }
+    }
+  ],
+  "description": "Loss of consortium claim by spouse; jury understands impact.attorneydustin+1"
 }
