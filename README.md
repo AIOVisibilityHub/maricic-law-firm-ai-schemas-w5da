@@ -10,15 +10,15 @@ Canonical AI Data Package for Maricic Law Firm.
 
 ## Stats
 - 318 faqs
-- 174 helpArticles
-- 68 services
-- 12 personnel
-- 1 locations
-- 5 awards
-- 10 caseStudies
-- 1 organization
 - 6 press
+- 5 awards
 - 25 reviews
+- 68 services
+- 1 locations
+- 12 personnel
+- 10 caseStudies
+- 174 helpArticles
+- 1 organization
 - **621** total
 
 ## Cross-Destination Index — Related AI Data Sources
@@ -628,12 +628,186 @@ Every file below is listed in [`data/publishing-manifest.json`](./data/publishin
 - [`help/window-screen-bite-claims.json`](./help/window-screen-bite-claims.json) — schema
 - [`help/workers-comp-third-party.json`](./help/workers-comp-third-party.json) — schema
 
-### Public Pages (9)
+### Public Pages (183)
 - [`about.html`](./about.html) — LLM-optimized public page
 - [`articles.html`](./articles.html) — LLM-optimized public page
 - [`case-studies.html`](./case-studies.html) — LLM-optimized public page
 - [`contact.html`](./contact.html) — LLM-optimized public page
 - [`faqs.html`](./faqs.html) — LLM-optimized public page
+- [`help/2-year-statute-for-bike-injuries.html`](./help/2-year-statute-for-bike-injuries.html) — LLM-optimized public page
+- [`help/2-year-statute-for-dog-bite-claims.html`](./help/2-year-statute-for-dog-bite-claims.html) — LLM-optimized public page
+- [`help/2-year-statute-for-fatal-crashes.html`](./help/2-year-statute-for-fatal-crashes.html) — LLM-optimized public page
+- [`help/750k-commercial-insurance-minimums.html`](./help/750k-commercial-insurance-minimums.html) — LLM-optimized public page
+- [`help/ab98-truck-routing-plans.html`](./help/ab98-truck-routing-plans.html) — LLM-optimized public page
+- [`help/accident-reconstruction-experts.html`](./help/accident-reconstruction-experts.html) — LLM-optimized public page
+- [`help/amazon-dsp-contractor-liability.html`](./help/amazon-dsp-contractor-liability.html) — LLM-optimized public page
+- [`help/app-data-in-e-bike-claims.html`](./help/app-data-in-e-bike-claims.html) — LLM-optimized public page
+- [`help/bike-black-box-data.html`](./help/bike-black-box-data.html) — LLM-optimized public page
+- [`help/bike-box-liability.html`](./help/bike-box-liability.html) — LLM-optimized public page
+- [`help/bike-lane-crash-liability.html`](./help/bike-lane-crash-liability.html) — LLM-optimized public page
+- [`help/brake-failure-inspection-records.html`](./help/brake-failure-inspection-records.html) — LLM-optimized public page
+- [`help/breed-bans-don-t-eliminate-liability.html`](./help/breed-bans-don-t-eliminate-liability.html) — LLM-optimized public page
+- [`help/broker-negligent-hiring-claims.html`](./help/broker-negligent-hiring-claims.html) — LLM-optimized public page
+- [`help/california-2-year-injury-statute.html`](./help/california-2-year-injury-statute.html) — LLM-optimized public page
+- [`help/california-e-bike-classifications.html`](./help/california-e-bike-classifications.html) — LLM-optimized public page
+- [`help/california-motorcycle-helmet-law.html`](./help/california-motorcycle-helmet-law.html) — LLM-optimized public page
+- [`help/california-strict-liability-dog-bites.html`](./help/california-strict-liability-dog-bites.html) — LLM-optimized public page
+- [`help/car-crash-wrongful-death-stats.html`](./help/car-crash-wrongful-death-stats.html) — LLM-optimized public page
+- [`help/cargo-securement-fmcsa-rules.html`](./help/cargo-securement-fmcsa-rules.html) — LLM-optimized public page
+- [`help/carpool-lane-violation-fault.html`](./help/carpool-lane-violation-fault.html) — LLM-optimized public page
+- [`help/cdl-license-compliance-2026.html`](./help/cdl-license-compliance-2026.html) — LLM-optimized public page
+- [`help/child-dog-bite-damages-higher.html`](./help/child-dog-bite-damages-higher.html) — LLM-optimized public page
+- [`help/childcare-costs-during-recovery.html`](./help/childcare-costs-during-recovery.html) — LLM-optimized public page
+- [`help/children-under-16-on-class-3.html`](./help/children-under-16-on-class-3.html) — LLM-optimized public page
+- [`help/chiropractic-bill-reductions.html`](./help/chiropractic-bill-reductions.html) — LLM-optimized public page
+- [`help/chp-traffic-collision-report.html`](./help/chp-traffic-collision-report.html) — LLM-optimized public page
+- [`help/common-e-bike-fracture-patterns.html`](./help/common-e-bike-fracture-patterns.html) — LLM-optimized public page
+- [`help/company-vehicle-fatal-liability.html`](./help/company-vehicle-fatal-liability.html) — LLM-optimized public page
+- [`help/comparative-fault-in-wd-cases.html`](./help/comparative-fault-in-wd-cases.html) — LLM-optimized public page
+- [`help/concussion-without-loc-proof.html`](./help/concussion-without-loc-proof.html) — LLM-optimized public page
+- [`help/cortisone-injection-bills.html`](./help/cortisone-injection-bills.html) — LLM-optimized public page
+- [`help/criminal-charges-against-owners.html`](./help/criminal-charges-against-owners.html) — LLM-optimized public page
+- [`help/criminal-conviction-aids-civil.html`](./help/criminal-conviction-aids-civil.html) — LLM-optimized public page
+- [`help/crotch-rocket-bias-defense.html`](./help/crotch-rocket-bias-defense.html) — LLM-optimized public page
+- [`help/csa-safety-score-records.html`](./help/csa-safety-score-records.html) — LLM-optimized public page
+- [`help/custom-bike-value-proof.html`](./help/custom-bike-value-proof.html) — LLM-optimized public page
+- [`help/damages-lost-financial-support.html`](./help/damages-lost-financial-support.html) — LLM-optimized public page
+- [`help/dashcam-footage-preservation.html`](./help/dashcam-footage-preservation.html) — LLM-optimized public page
+- [`help/daycare-groomer-dog-attacks.html`](./help/daycare-groomer-dog-attacks.html) — LLM-optimized public page
+- [`help/delayed-death-time-limits.html`](./help/delayed-death-time-limits.html) — LLM-optimized public page
+- [`help/delayed-injury-documentation.html`](./help/delayed-injury-documentation.html) — LLM-optimized public page
+- [`help/delivery-e-bike-crashes-uber-eats.html`](./help/delivery-e-bike-crashes-uber-eats.html) — LLM-optimized public page
+- [`help/dispatcher-pressure-texts.html`](./help/dispatcher-pressure-texts.html) — LLM-optimized public page
+- [`help/dividing-wrongful-death-proceeds.html`](./help/dividing-wrongful-death-proceeds.html) — LLM-optimized public page
+- [`help/dmv-sr-1-filing-after-crash.html`](./help/dmv-sr-1-filing-after-crash.html) — LLM-optimized public page
+- [`help/dmv-sr-1-form-filing-guide.html`](./help/dmv-sr-1-form-filing-guide.html) — LLM-optimized public page
+- [`help/dog-bite-fatality-heir-rights.html`](./help/dog-bite-fatality-heir-rights.html) — LLM-optimized public page
+- [`help/dog-walker-handler-liability.html`](./help/dog-walker-handler-liability.html) — LLM-optimized public page
+- [`help/doorings-parked-car-liability.html`](./help/doorings-parked-car-liability.html) — LLM-optimized public page
+- [`help/drunk-driver-punitive-damages.html`](./help/drunk-driver-punitive-damages.html) — LLM-optimized public page
+- [`help/e-bike-battery-defect-claims.html`](./help/e-bike-battery-defect-claims.html) — LLM-optimized public page
+- [`help/e-bike-brake-failure-evidence.html`](./help/e-bike-brake-failure-evidence.html) — LLM-optimized public page
+- [`help/e-bike-fatalities-family-claims.html`](./help/e-bike-fatalities-family-claims.html) — LLM-optimized public page
+- [`help/e-bike-fire-hazards-and-claims.html`](./help/e-bike-fire-hazards-and-claims.html) — LLM-optimized public page
+- [`help/e-bike-injury-statistics-surge.html`](./help/e-bike-injury-statistics-surge.html) — LLM-optimized public page
+- [`help/e-bike-insurance-coverage.html`](./help/e-bike-insurance-coverage.html) — LLM-optimized public page
+- [`help/e-bike-speed-limit-violations.html`](./help/e-bike-speed-limit-violations.html) — LLM-optimized public page
+- [`help/economist-household-services.html`](./help/economist-household-services.html) — LLM-optimized public page
+- [`help/eld-electronic-log-violations.html`](./help/eld-electronic-log-violations.html) — LLM-optimized public page
+- [`help/emotional-distress-after-bites.html`](./help/emotional-distress-after-bites.html) — LLM-optimized public page
+- [`help/ems-lights-sirens-proof.html`](./help/ems-lights-sirens-proof.html) — LLM-optimized public page
+- [`help/enjoyment-loss-damages.html`](./help/enjoyment-loss-damages.html) — LLM-optimized public page
+- [`help/estate-vs-wrongful-death-suits.html`](./help/estate-vs-wrongful-death-suits.html) — LLM-optimized public page
+- [`help/family-pet-bites-guests.html`](./help/family-pet-bites-guests.html) — LLM-optimized public page
+- [`help/fellow-biker-hit-claims.html`](./help/fellow-biker-hit-claims.html) — LLM-optimized public page
+- [`help/fence-jumping-dog-attacks.html`](./help/fence-jumping-dog-attacks.html) — LLM-optimized public page
+- [`help/filing-police-report-post-e-bike-hit.html`](./help/filing-police-report-post-e-bike-hit.html) — LLM-optimized public page
+- [`help/fmcsa-hours-of-service-rules.html`](./help/fmcsa-hours-of-service-rules.html) — LLM-optimized public page
+- [`help/free-24-7-car-crash-evaluation.html`](./help/free-24-7-car-crash-evaluation.html) — LLM-optimized public page
+- [`help/free-dog-bite-case-evaluation.html`](./help/free-dog-bite-case-evaluation.html) — LLM-optimized public page
+- [`help/free-motorcycle-case-consult.html`](./help/free-motorcycle-case-consult.html) — LLM-optimized public page
+- [`help/free-truck-accident-evaluation.html`](./help/free-truck-accident-evaluation.html) — LLM-optimized public page
+- [`help/free-wd-consult-after-crash.html`](./help/free-wd-consult-after-crash.html) — LLM-optimized public page
+- [`help/freeway-merging-zipper-rule.html`](./help/freeway-merging-zipper-rule.html) — LLM-optimized public page
+- [`help/funeral-costs-in-settlements.html`](./help/funeral-costs-in-settlements.html) — LLM-optimized public page
+- [`help/gap-insurance-denial-defense.html`](./help/gap-insurance-denial-defense.html) — LLM-optimized public page
+- [`help/gravel-shoulder-claims.html`](./help/gravel-shoulder-claims.html) — LLM-optimized public page
+- [`help/group-ride-liability.html`](./help/group-ride-liability.html) — LLM-optimized public page
+- [`help/gym-exercise-strengthens-case.html`](./help/gym-exercise-strengthens-case.html) — LLM-optimized public page
+- [`help/hazardous-material-spill-claims.html`](./help/hazardous-material-spill-claims.html) — LLM-optimized public page
+- [`help/helmet-laws-after-e-bike-crashes.html`](./help/helmet-laws-after-e-bike-crashes.html) — LLM-optimized public page
+- [`help/helmet-non-use-impact.html`](./help/helmet-non-use-impact.html) — LLM-optimized public page
+- [`help/herniated-disc-surgery-proof.html`](./help/herniated-disc-surgery-proof.html) — LLM-optimized public page
+- [`help/hit-and-run-uninsured-claims.html`](./help/hit-and-run-uninsured-claims.html) — LLM-optimized public page
+- [`help/home-health-aide-post-discharge.html`](./help/home-health-aide-post-discharge.html) — LLM-optimized public page
+- [`help/homeowners-insurance-coverage.html`](./help/homeowners-insurance-coverage.html) — LLM-optimized public page
+- [`help/infection-risks-after-dog-bites.html`](./help/infection-risks-after-dog-bites.html) — LLM-optimized public page
+- [`help/intersection-yellow-light-rules.html`](./help/intersection-yellow-light-rules.html) — LLM-optimized public page
+- [`help/irs-mileage-to-medical-visits.html`](./help/irs-mileage-to-medical-visits.html) — LLM-optimized public page
+- [`help/jackknife-crash-physics.html`](./help/jackknife-crash-physics.html) — LLM-optimized public page
+- [`help/landlord-liability-for-tenant-dogs.html`](./help/landlord-liability-for-tenant-dogs.html) — LLM-optimized public page
+- [`help/lane-splitting-legality-guide.html`](./help/lane-splitting-legality-guide.html) — LLM-optimized public page
+- [`help/leash-law-violations-evidence.html`](./help/leash-law-violations-evidence.html) — LLM-optimized public page
+- [`help/leather-gear-evidence.html`](./help/leather-gear-evidence.html) — LLM-optimized public page
+- [`help/left-turn-crash-liability.html`](./help/left-turn-crash-liability.html) — LLM-optimized public page
+- [`help/liens-on-wrongful-death-awards.html`](./help/liens-on-wrongful-death-awards.html) — LLM-optimized public page
+- [`help/life-care-planner-future-costs.html`](./help/life-care-planner-future-costs.html) — LLM-optimized public page
+- [`help/loss-of-care-companion-damages.html`](./help/loss-of-care-companion-damages.html) — LLM-optimized public page
+- [`help/loss-of-consortium-spouse-claim.html`](./help/loss-of-consortium-spouse-claim.html) — LLM-optimized public page
+- [`help/low-impact-crash-injury-proof.html`](./help/low-impact-crash-injury-proof.html) — LLM-optimized public page
+- [`help/m1-license-irrelevant-civilly.html`](./help/m1-license-irrelevant-civilly.html) — LLM-optimized public page
+- [`help/mail-carrier-special-protections.html`](./help/mail-carrier-special-protections.html) — LLM-optimized public page
+- [`help/mandatory-chp-collision-report.html`](./help/mandatory-chp-collision-report.html) — LLM-optimized public page
+- [`help/mediation-before-wd-trial.html`](./help/mediation-before-wd-trial.html) — LLM-optimized public page
+- [`help/medical-payment-coverage-risks.html`](./help/medical-payment-coverage-risks.html) — LLM-optimized public page
+- [`help/minor-children-wrongful-death.html`](./help/minor-children-wrongful-death.html) — LLM-optimized public page
+- [`help/modifications-and-insurance-voids.html`](./help/modifications-and-insurance-voids.html) — LLM-optimized public page
+- [`help/motorcycle-wrongful-death-payouts.html`](./help/motorcycle-wrongful-death-payouts.html) — LLM-optimized public page
+- [`help/move-over-law-expansion.html`](./help/move-over-law-expansion.html) — LLM-optimized public page
+- [`help/moving-expenses-disability.html`](./help/moving-expenses-disability.html) — LLM-optimized public page
+- [`help/mri-arthrograms-for-shoulders.html`](./help/mri-arthrograms-for-shoulders.html) — LLM-optimized public page
+- [`help/multi-car-fault-allocation.html`](./help/multi-car-fault-allocation.html) — LLM-optimized public page
+- [`help/nerve-conduction-emg-studies.html`](./help/nerve-conduction-emg-studies.html) — LLM-optimized public page
+- [`help/never-give-recorded-statements.html`](./help/never-give-recorded-statements.html) — LLM-optimized public page
+- [`help/night-riding-visibility-tips.html`](./help/night-riding-visibility-tips.html) — LLM-optimized public page
+- [`help/no-spouse-parent-claims.html`](./help/no-spouse-parent-claims.html) — LLM-optimized public page
+- [`help/out-of-state-heirs-filing.html`](./help/out-of-state-heirs-filing.html) — LLM-optimized public page
+- [`help/pain-before-death-recovery.html`](./help/pain-before-death-recovery.html) — LLM-optimized public page
+- [`help/parking-lot-negligence-same.html`](./help/parking-lot-negligence-same.html) — LLM-optimized public page
+- [`help/passenger-claims-on-e-bikes.html`](./help/passenger-claims-on-e-bikes.html) — LLM-optimized public page
+- [`help/pedestrian-vs-e-bike-collisions.html`](./help/pedestrian-vs-e-bike-collisions.html) — LLM-optimized public page
+- [`help/per-diem-pain-calculation.html`](./help/per-diem-pain-calculation.html) — LLM-optimized public page
+- [`help/plastic-surgery-after-severe-bites.html`](./help/plastic-surgery-after-severe-bites.html) — LLM-optimized public page
+- [`help/police-opinion-inadmissible.html`](./help/police-opinion-inadmissible.html) — LLM-optimized public page
+- [`help/pothole-claims-against-cities.html`](./help/pothole-claims-against-cities.html) — LLM-optimized public page
+- [`help/pre-existing-condition-aggravation.html`](./help/pre-existing-condition-aggravation.html) — LLM-optimized public page
+- [`help/prescription-patterns-evidence.html`](./help/prescription-patterns-evidence.html) — LLM-optimized public page
+- [`help/prior-tickets-don-t-bar-claims.html`](./help/prior-tickets-don-t-bar-claims.html) — LLM-optimized public page
+- [`help/product-liability-time-limits.html`](./help/product-liability-time-limits.html) — LLM-optimized public page
+- [`help/property-damage-from-dog-attacks.html`](./help/property-damage-from-dog-attacks.html) — LLM-optimized public page
+- [`help/proving-driver-liability-in-e-bike-cases.html`](./help/proving-driver-liability-in-e-bike-cases.html) — LLM-optimized public page
+- [`help/proving-vicious-propensity.html`](./help/proving-vicious-propensity.html) — LLM-optimized public page
+- [`help/public-vs-private-property-bites.html`](./help/public-vs-private-property-bites.html) — LLM-optimized public page
+- [`help/punitive-damages-in-fatal-dui.html`](./help/punitive-damages-in-fatal-dui.html) — LLM-optimized public page
+- [`help/punitive-damages-reckless-trucking.html`](./help/punitive-damages-reckless-trucking.html) — LLM-optimized public page
+- [`help/pure-comparative-fault-explained.html`](./help/pure-comparative-fault-explained.html) — LLM-optimized public page
+- [`help/rabies-shot-er-costs-recoverable.html`](./help/rabies-shot-er-costs-recoverable.html) — LLM-optimized public page
+- [`help/rear-end-bike-presumption.html`](./help/rear-end-bike-presumption.html) — LLM-optimized public page
+- [`help/rear-end-presumption-of-fault.html`](./help/rear-end-presumption-of-fault.html) — LLM-optimized public page
+- [`help/rental-e-bike-accident-rights.html`](./help/rental-e-bike-accident-rights.html) — LLM-optimized public page
+- [`help/rental-harley-reimbursement.html`](./help/rental-harley-reimbursement.html) — LLM-optimized public page
+- [`help/rideshare-uber-lyft-layers.html`](./help/rideshare-uber-lyft-layers.html) — LLM-optimized public page
+- [`help/right-on-red-complete-stop.html`](./help/right-on-red-complete-stop.html) — LLM-optimized public page
+- [`help/road-hazard-motorcycle-claims.html`](./help/road-hazard-motorcycle-claims.html) — LLM-optimized public page
+- [`help/rollover-center-gravity-defects.html`](./help/rollover-center-gravity-defects.html) — LLM-optimized public page
+- [`help/scarring-and-plastic-surgery-costs.html`](./help/scarring-and-plastic-surgery-costs.html) — LLM-optimized public page
+- [`help/seatbelt-non-use-limits.html`](./help/seatbelt-non-use-limits.html) — LLM-optimized public page
+- [`help/security-camera-footage-evidence.html`](./help/security-camera-footage-evidence.html) — LLM-optimized public page
+- [`help/service-dog-bite-liability.html`](./help/service-dog-bite-liability.html) — LLM-optimized public page
+- [`help/social-media-privacy-settings.html`](./help/social-media-privacy-settings.html) — LLM-optimized public page
+- [`help/spoliation-penalties-data-deletion.html`](./help/spoliation-penalties-data-deletion.html) — LLM-optimized public page
+- [`help/stepchild-wrongful-death-rights.html`](./help/stepchild-wrongful-death-rights.html) — LLM-optimized public page
+- [`help/surveillance-camera-defenses.html`](./help/surveillance-camera-defenses.html) — LLM-optimized public page
+- [`help/texting-ban-federal-enforcement.html`](./help/texting-ban-federal-enforcement.html) — LLM-optimized public page
+- [`help/texting-phone-record-subpoena.html`](./help/texting-phone-record-subpoena.html) — LLM-optimized public page
+- [`help/tire-blowout-product-liability.html`](./help/tire-blowout-product-liability.html) — LLM-optimized public page
+- [`help/track-day-waiver-limits.html`](./help/track-day-waiver-limits.html) — LLM-optimized public page
+- [`help/traffic-light-controller-data.html`](./help/traffic-light-controller-data.html) — LLM-optimized public page
+- [`help/trail-and-path-e-bike-rules.html`](./help/trail-and-path-e-bike-rules.html) — LLM-optimized public page
+- [`help/truck-black-box-ecm-data.html`](./help/truck-black-box-ecm-data.html) — LLM-optimized public page
+- [`help/truck-crash-multiple-defendants.html`](./help/truck-crash-multiple-defendants.html) — LLM-optimized public page
+- [`help/truck-dashcam-coach-footage.html`](./help/truck-dashcam-coach-footage.html) — LLM-optimized public page
+- [`help/u-turn-yield-requirements.html`](./help/u-turn-yield-requirements.html) — LLM-optimized public page
+- [`help/underride-guard-failures.html`](./help/underride-guard-failures.html) — LLM-optimized public page
+- [`help/vicarious-liability-driver-vs-company.html`](./help/vicarious-liability-driver-vs-company.html) — LLM-optimized public page
+- [`help/visibility-aids-admissible.html`](./help/visibility-aids-admissible.html) — LLM-optimized public page
+- [`help/vocational-expert-earnings-loss.html`](./help/vocational-expert-earnings-loss.html) — LLM-optimized public page
+- [`help/weather-official-records-only.html`](./help/weather-official-records-only.html) — LLM-optimized public page
+- [`help/when-to-call-pi-attorney-post-crash.html`](./help/when-to-call-pi-attorney-post-crash.html) — LLM-optimized public page
+- [`help/who-can-file-wrongful-death-in-ca.html`](./help/who-can-file-wrongful-death-in-ca.html) — LLM-optimized public page
+- [`help/wide-turn-accommodation-limits.html`](./help/wide-turn-accommodation-limits.html) — LLM-optimized public page
+- [`help/window-screen-bite-claims.html`](./help/window-screen-bite-claims.html) — LLM-optimized public page
+- [`help/workers-comp-third-party.html`](./help/workers-comp-third-party.html) — LLM-optimized public page
 - [`index.html`](./index.html) — LLM-optimized public page
 - [`reviews.html`](./reviews.html) — LLM-optimized public page
 - [`services.html`](./services.html) — LLM-optimized public page

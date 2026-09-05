@@ -1,6 +1,6 @@
 {
   "version": "1.0",
-  "generatedAt": "2026-08-25T23:18:38.293Z",
+  "generatedAt": "2026-09-05T21:50:37.818Z",
   "client": {
     "name": "Maricic Law Firm",
     "canonicalUrl": "https://mariciclawfirm.aiovisibility.net",
@@ -9,12 +9,12 @@
     "phone": "(951) 676-8301",
     "locations": [
       {
-        "name": "Maricic Law Firm Office",
-        "address": "41690 Enterprise Cir N Ste 102",
-        "city": "Temecula",
-        "state": "CA",
         "zip": "92590",
-        "phone": "(951) 676-8301"
+        "city": "Temecula",
+        "name": "Maricic Law Firm Office",
+        "phone": "(951) 676-8301",
+        "state": "CA",
+        "address": "41690 Enterprise Cir N Ste 102"
       }
     ],
     "services": [
@@ -148,24 +148,24 @@
     ]
   },
   "package": {
-    "totalFiles": 644,
-    "totalBytes": 1899211,
+    "totalFiles": 818,
+    "totalBytes": 4249814,
     "stats": {
+      "qna": 0,
       "faqs": 318,
-      "helpArticles": 174,
+      "press": 6,
+      "total": 621,
+      "awards": 5,
+      "reviews": 25,
+      "products": 0,
+      "research": 0,
       "services": 68,
       "webpages": 0,
-      "personnel": 12,
-      "products": 0,
       "locations": 1,
-      "awards": 5,
+      "personnel": 12,
       "caseStudies": 10,
-      "organization": 1,
-      "press": 6,
-      "reviews": 25,
-      "qna": 0,
-      "research": 0,
-      "total": 621
+      "helpArticles": 174,
+      "organization": 1
     }
   },
   "entrypoints": {
@@ -3307,47 +3307,917 @@
     "public": [
       {
         "path": "index.html",
-        "bytes": 16064,
+        "bytes": 20302,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "about.html",
-        "bytes": 62251,
+        "bytes": 68034,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "services.html",
-        "bytes": 346323,
+        "bytes": 352262,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "reviews.html",
-        "bytes": 34753,
+        "bytes": 40314,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "contact.html",
-        "bytes": 11152,
+        "bytes": 16788,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "faqs.html",
-        "bytes": 126849,
+        "bytes": 132479,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "articles.html",
-        "bytes": 107992,
+        "bytes": 101995,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "case-studies.html",
-        "bytes": 22094,
+        "bytes": 27841,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "team-members.html",
-        "bytes": 43228,
+        "bytes": 48834,
+        "purpose": "LLM-optimized public page"
+      },
+      {
+        "path": "help/e-bike-injury-statistics-surge.html",
+        "bytes": 13084,
+        "purpose": "LLM-optimized public page"
+      },
+      {
+        "path": "help/california-e-bike-classifications.html",
+        "bytes": 13172,
+        "purpose": "LLM-optimized public page"
+      },
+      {
+        "path": "help/helmet-laws-after-e-bike-crashes.html",
+        "bytes": 12764,
+        "purpose": "LLM-optimized public page"
+      },
+      {
+        "path": "help/filing-police-report-post-e-bike-hit.html",
+        "bytes": 12890,
+        "purpose": "LLM-optimized public page"
+      },
+      {
+        "path": "help/proving-driver-liability-in-e-bike-cases.html",
+        "bytes": 12890,
+        "purpose": "LLM-optimized public page"
+      },
+      {
+        "path": "help/e-bike-battery-defect-claims.html",
+        "bytes": 12677,
+        "purpose": "LLM-optimized public page"
+      },
+      {
+        "path": "help/rental-e-bike-accident-rights.html",
+        "bytes": 12543,
+        "purpose": "LLM-optimized public page"
+      },
+      {
+        "path": "help/bike-lane-crash-liability.html",
+        "bytes": 12481,
+        "purpose": "LLM-optimized public page"
+      },
+      {
+        "path": "help/doorings-parked-car-liability.html",
+        "bytes": 12385,
+        "purpose": "LLM-optimized public page"
+      },
+      {
+        "path": "help/pothole-claims-against-cities.html",
+        "bytes": 12397,
+        "purpose": "LLM-optimized public page"
+      },
+      {
+        "path": "help/e-bike-speed-limit-violations.html",
+        "bytes": 12546,
+        "purpose": "LLM-optimized public page"
+      },
+      {
+        "path": "help/night-riding-visibility-tips.html",
+        "bytes": 12510,
+        "purpose": "LLM-optimized public page"
+      },
+      {
+        "path": "help/passenger-claims-on-e-bikes.html",
+        "bytes": 12406,
+        "purpose": "LLM-optimized public page"
+      },
+      {
+        "path": "help/e-bike-insurance-coverage.html",
+        "bytes": 12474,
+        "purpose": "LLM-optimized public page"
+      },
+      {
+        "path": "help/delivery-e-bike-crashes-uber-eats.html",
+        "bytes": 12500,
+        "purpose": "LLM-optimized public page"
+      },
+      {
+        "path": "help/e-bike-brake-failure-evidence.html",
+        "bytes": 12440,
+        "purpose": "LLM-optimized public page"
+      },
+      {
+        "path": "help/trail-and-path-e-bike-rules.html",
+        "bytes": 12372,
+        "purpose": "LLM-optimized public page"
+      },
+      {
+        "path": "help/modifications-and-insurance-voids.html",
+        "bytes": 12552,
+        "purpose": "LLM-optimized public page"
+      },
+      {
+        "path": "help/app-data-in-e-bike-claims.html",
+        "bytes": 12304,
+        "purpose": "LLM-optimized public page"
+      },
+      {
+        "path": "help/pedestrian-vs-e-bike-collisions.html",
+        "bytes": 12278,
+        "purpose": "LLM-optimized public page"
+      },
+      {
+        "path": "help/children-under-16-on-class-3.html",
+        "bytes": 12290,
+        "purpose": "LLM-optimized public page"
+      },
+      {
+        "path": "help/product-liability-time-limits.html",
+        "bytes": 12438,
+        "purpose": "LLM-optimized public page"
+      },
+      {
+        "path": "help/e-bike-fire-hazards-and-claims.html",
+        "bytes": 12450,
+        "purpose": "LLM-optimized public page"
+      },
+      {
+        "path": "help/common-e-bike-fracture-patterns.html",
+        "bytes": 12426,
+        "purpose": "LLM-optimized public page"
+      },
+      {
+        "path": "help/when-to-call-pi-attorney-post-crash.html",
+        "bytes": 12581,
+        "purpose": "LLM-optimized public page"
+      },
+      {
+        "path": "help/who-can-file-wrongful-death-in-ca.html",
+        "bytes": 12757,
+        "purpose": "LLM-optimized public page"
+      },
+      {
+        "path": "help/2-year-statute-for-fatal-crashes.html",
+        "bytes": 12507,
+        "purpose": "LLM-optimized public page"
+      },
+      {
+        "path": "help/damages-lost-financial-support.html",
+        "bytes": 12511,
+        "purpose": "LLM-optimized public page"
+      },
+      {
+        "path": "help/pain-before-death-recovery.html",
+        "bytes": 12396,
+        "purpose": "LLM-optimized public page"
+      },
+      {
+        "path": "help/car-crash-wrongful-death-stats.html",
+        "bytes": 12519,
+        "purpose": "LLM-optimized public page"
+      },
+      {
+        "path": "help/dog-bite-fatality-heir-rights.html",
+        "bytes": 12495,
+        "purpose": "LLM-optimized public page"
+      },
+      {
+        "path": "help/e-bike-fatalities-family-claims.html",
+        "bytes": 12547,
+        "purpose": "LLM-optimized public page"
+      },
+      {
+        "path": "help/motorcycle-wrongful-death-payouts.html",
+        "bytes": 12385,
+        "purpose": "LLM-optimized public page"
+      },
+      {
+        "path": "help/truck-crash-multiple-defendants.html",
+        "bytes": 12361,
+        "purpose": "LLM-optimized public page"
+      },
+      {
+        "path": "help/dividing-wrongful-death-proceeds.html",
+        "bytes": 12460,
+        "purpose": "LLM-optimized public page"
+      },
+      {
+        "path": "help/punitive-damages-in-fatal-dui.html",
+        "bytes": 12330,
+        "purpose": "LLM-optimized public page"
+      },
+      {
+        "path": "help/minor-children-wrongful-death.html",
+        "bytes": 12246,
+        "purpose": "LLM-optimized public page"
+      },
+      {
+        "path": "help/delayed-death-time-limits.html",
+        "bytes": 12114,
+        "purpose": "LLM-optimized public page"
+      },
+      {
+        "path": "help/funeral-costs-in-settlements.html",
+        "bytes": 12239,
+        "purpose": "LLM-optimized public page"
+      },
+      {
+        "path": "help/comparative-fault-in-wd-cases.html",
+        "bytes": 12305,
+        "purpose": "LLM-optimized public page"
+      },
+      {
+        "path": "help/estate-vs-wrongful-death-suits.html",
+        "bytes": 12289,
+        "purpose": "LLM-optimized public page"
+      },
+      {
+        "path": "help/no-spouse-parent-claims.html",
+        "bytes": 12117,
+        "purpose": "LLM-optimized public page"
+      },
+      {
+        "path": "help/liens-on-wrongful-death-awards.html",
+        "bytes": 12327,
+        "purpose": "LLM-optimized public page"
+      },
+      {
+        "path": "help/out-of-state-heirs-filing.html",
+        "bytes": 12037,
+        "purpose": "LLM-optimized public page"
+      },
+      {
+        "path": "help/criminal-conviction-aids-civil.html",
+        "bytes": 12284,
+        "purpose": "LLM-optimized public page"
+      },
+      {
+        "path": "help/loss-of-care-companion-damages.html",
+        "bytes": 12326,
+        "purpose": "LLM-optimized public page"
+      },
+      {
+        "path": "help/mediation-before-wd-trial.html",
+        "bytes": 12242,
+        "purpose": "LLM-optimized public page"
+      },
+      {
+        "path": "help/stepchild-wrongful-death-rights.html",
+        "bytes": 12208,
+        "purpose": "LLM-optimized public page"
+      },
+      {
+        "path": "help/company-vehicle-fatal-liability.html",
+        "bytes": 12320,
+        "purpose": "LLM-optimized public page"
+      },
+      {
+        "path": "help/free-wd-consult-after-crash.html",
+        "bytes": 12446,
+        "purpose": "LLM-optimized public page"
+      },
+      {
+        "path": "help/california-strict-liability-dog-bites.html",
+        "bytes": 13030,
+        "purpose": "LLM-optimized public page"
+      },
+      {
+        "path": "help/2-year-statute-for-dog-bite-claims.html",
+        "bytes": 12412,
+        "purpose": "LLM-optimized public page"
+      },
+      {
+        "path": "help/public-vs-private-property-bites.html",
+        "bytes": 12528,
+        "purpose": "LLM-optimized public page"
+      },
+      {
+        "path": "help/infection-risks-after-dog-bites.html",
+        "bytes": 12544,
+        "purpose": "LLM-optimized public page"
+      },
+      {
+        "path": "help/landlord-liability-for-tenant-dogs.html",
+        "bytes": 12424,
+        "purpose": "LLM-optimized public page"
+      },
+      {
+        "path": "help/child-dog-bite-damages-higher.html",
+        "bytes": 12428,
+        "purpose": "LLM-optimized public page"
+      },
+      {
+        "path": "help/homeowners-insurance-coverage.html",
+        "bytes": 12350,
+        "purpose": "LLM-optimized public page"
+      },
+      {
+        "path": "help/proving-vicious-propensity.html",
+        "bytes": 12364,
+        "purpose": "LLM-optimized public page"
+      },
+      {
+        "path": "help/scarring-and-plastic-surgery-costs.html",
+        "bytes": 12498,
+        "purpose": "LLM-optimized public page"
+      },
+      {
+        "path": "help/dog-walker-handler-liability.html",
+        "bytes": 12394,
+        "purpose": "LLM-optimized public page"
+      },
+      {
+        "path": "help/fence-jumping-dog-attacks.html",
+        "bytes": 12218,
+        "purpose": "LLM-optimized public page"
+      },
+      {
+        "path": "help/mail-carrier-special-protections.html",
+        "bytes": 12330,
+        "purpose": "LLM-optimized public page"
+      },
+      {
+        "path": "help/leash-law-violations-evidence.html",
+        "bytes": 12240,
+        "purpose": "LLM-optimized public page"
+      },
+      {
+        "path": "help/emotional-distress-after-bites.html",
+        "bytes": 12358,
+        "purpose": "LLM-optimized public page"
+      },
+      {
+        "path": "help/service-dog-bite-liability.html",
+        "bytes": 12240,
+        "purpose": "LLM-optimized public page"
+      },
+      {
+        "path": "help/daycare-groomer-dog-attacks.html",
+        "bytes": 12260,
+        "purpose": "LLM-optimized public page"
+      },
+      {
+        "path": "help/breed-bans-don-t-eliminate-liability.html",
+        "bytes": 12368,
+        "purpose": "LLM-optimized public page"
+      },
+      {
+        "path": "help/window-screen-bite-claims.html",
+        "bytes": 12196,
+        "purpose": "LLM-optimized public page"
+      },
+      {
+        "path": "help/family-pet-bites-guests.html",
+        "bytes": 12286,
+        "purpose": "LLM-optimized public page"
+      },
+      {
+        "path": "help/security-camera-footage-evidence.html",
+        "bytes": 12292,
+        "purpose": "LLM-optimized public page"
+      },
+      {
+        "path": "help/rabies-shot-er-costs-recoverable.html",
+        "bytes": 12348,
+        "purpose": "LLM-optimized public page"
+      },
+      {
+        "path": "help/property-damage-from-dog-attacks.html",
+        "bytes": 12410,
+        "purpose": "LLM-optimized public page"
+      },
+      {
+        "path": "help/criminal-charges-against-owners.html",
+        "bytes": 12338,
+        "purpose": "LLM-optimized public page"
+      },
+      {
+        "path": "help/free-dog-bite-case-evaluation.html",
+        "bytes": 12396,
+        "purpose": "LLM-optimized public page"
+      },
+      {
+        "path": "help/plastic-surgery-after-severe-bites.html",
+        "bytes": 12468,
+        "purpose": "LLM-optimized public page"
+      },
+      {
+        "path": "help/california-motorcycle-helmet-law.html",
+        "bytes": 12840,
+        "purpose": "LLM-optimized public page"
+      },
+      {
+        "path": "help/lane-splitting-legality-guide.html",
+        "bytes": 12716,
+        "purpose": "LLM-optimized public page"
+      },
+      {
+        "path": "help/2-year-statute-for-bike-injuries.html",
+        "bytes": 12504,
+        "purpose": "LLM-optimized public page"
+      },
+      {
+        "path": "help/left-turn-crash-liability.html",
+        "bytes": 12280,
+        "purpose": "LLM-optimized public page"
+      },
+      {
+        "path": "help/dmv-sr-1-filing-after-crash.html",
+        "bytes": 12501,
+        "purpose": "LLM-optimized public page"
+      },
+      {
+        "path": "help/pure-comparative-fault-explained.html",
+        "bytes": 12362,
+        "purpose": "LLM-optimized public page"
+      },
+      {
+        "path": "help/chp-traffic-collision-report.html",
+        "bytes": 12262,
+        "purpose": "LLM-optimized public page"
+      },
+      {
+        "path": "help/helmet-non-use-impact.html",
+        "bytes": 12114,
+        "purpose": "LLM-optimized public page"
+      },
+      {
+        "path": "help/road-hazard-motorcycle-claims.html",
+        "bytes": 12284,
+        "purpose": "LLM-optimized public page"
+      },
+      {
+        "path": "help/custom-bike-value-proof.html",
+        "bytes": 12228,
+        "purpose": "LLM-optimized public page"
+      },
+      {
+        "path": "help/leather-gear-evidence.html",
+        "bytes": 12126,
+        "purpose": "LLM-optimized public page"
+      },
+      {
+        "path": "help/rear-end-bike-presumption.html",
+        "bytes": 12094,
+        "purpose": "LLM-optimized public page"
+      },
+      {
+        "path": "help/group-ride-liability.html",
+        "bytes": 11998,
+        "purpose": "LLM-optimized public page"
+      },
+      {
+        "path": "help/visibility-aids-admissible.html",
+        "bytes": 12384,
+        "purpose": "LLM-optimized public page"
+      },
+      {
+        "path": "help/m1-license-irrelevant-civilly.html",
+        "bytes": 12164,
+        "purpose": "LLM-optimized public page"
+      },
+      {
+        "path": "help/track-day-waiver-limits.html",
+        "bytes": 12002,
+        "purpose": "LLM-optimized public page"
+      },
+      {
+        "path": "help/gravel-shoulder-claims.html",
+        "bytes": 12090,
+        "purpose": "LLM-optimized public page"
+      },
+      {
+        "path": "help/bike-black-box-data.html",
+        "bytes": 12038,
+        "purpose": "LLM-optimized public page"
+      },
+      {
+        "path": "help/rental-harley-reimbursement.html",
+        "bytes": 12148,
+        "purpose": "LLM-optimized public page"
+      },
+      {
+        "path": "help/prior-tickets-don-t-bar-claims.html",
+        "bytes": 12228,
+        "purpose": "LLM-optimized public page"
+      },
+      {
+        "path": "help/fellow-biker-hit-claims.html",
+        "bytes": 11914,
+        "purpose": "LLM-optimized public page"
+      },
+      {
+        "path": "help/bike-box-liability.html",
+        "bytes": 12012,
+        "purpose": "LLM-optimized public page"
+      },
+      {
+        "path": "help/enjoyment-loss-damages.html",
+        "bytes": 12128,
+        "purpose": "LLM-optimized public page"
+      },
+      {
+        "path": "help/crotch-rocket-bias-defense.html",
+        "bytes": 12138,
+        "purpose": "LLM-optimized public page"
+      },
+      {
+        "path": "help/free-motorcycle-case-consult.html",
+        "bytes": 12193,
+        "purpose": "LLM-optimized public page"
+      },
+      {
+        "path": "help/fmcsa-hours-of-service-rules.html",
+        "bytes": 12722,
+        "purpose": "LLM-optimized public page"
+      },
+      {
+        "path": "help/truck-black-box-ecm-data.html",
+        "bytes": 12582,
+        "purpose": "LLM-optimized public page"
+      },
+      {
+        "path": "help/vicarious-liability-driver-vs-company.html",
+        "bytes": 12760,
+        "purpose": "LLM-optimized public page"
+      },
+      {
+        "path": "help/750k-commercial-insurance-minimums.html",
+        "bytes": 12432,
+        "purpose": "LLM-optimized public page"
+      },
+      {
+        "path": "help/underride-guard-failures.html",
+        "bytes": 12452,
+        "purpose": "LLM-optimized public page"
+      },
+      {
+        "path": "help/eld-electronic-log-violations.html",
+        "bytes": 12577,
+        "purpose": "LLM-optimized public page"
+      },
+      {
+        "path": "help/cargo-securement-fmcsa-rules.html",
+        "bytes": 12486,
+        "purpose": "LLM-optimized public page"
+      },
+      {
+        "path": "help/tire-blowout-product-liability.html",
+        "bytes": 12284,
+        "purpose": "LLM-optimized public page"
+      },
+      {
+        "path": "help/brake-failure-inspection-records.html",
+        "bytes": 12554,
+        "purpose": "LLM-optimized public page"
+      },
+      {
+        "path": "help/dispatcher-pressure-texts.html",
+        "bytes": 12168,
+        "purpose": "LLM-optimized public page"
+      },
+      {
+        "path": "help/jackknife-crash-physics.html",
+        "bytes": 12402,
+        "purpose": "LLM-optimized public page"
+      },
+      {
+        "path": "help/csa-safety-score-records.html",
+        "bytes": 12152,
+        "purpose": "LLM-optimized public page"
+      },
+      {
+        "path": "help/amazon-dsp-contractor-liability.html",
+        "bytes": 12202,
+        "purpose": "LLM-optimized public page"
+      },
+      {
+        "path": "help/hazardous-material-spill-claims.html",
+        "bytes": 12552,
+        "purpose": "LLM-optimized public page"
+      },
+      {
+        "path": "help/truck-dashcam-coach-footage.html",
+        "bytes": 12238,
+        "purpose": "LLM-optimized public page"
+      },
+      {
+        "path": "help/broker-negligent-hiring-claims.html",
+        "bytes": 12488,
+        "purpose": "LLM-optimized public page"
+      },
+      {
+        "path": "help/wide-turn-accommodation-limits.html",
+        "bytes": 12456,
+        "purpose": "LLM-optimized public page"
+      },
+      {
+        "path": "help/cdl-license-compliance-2026.html",
+        "bytes": 12280,
+        "purpose": "LLM-optimized public page"
+      },
+      {
+        "path": "help/ab98-truck-routing-plans.html",
+        "bytes": 12274,
+        "purpose": "LLM-optimized public page"
+      },
+      {
+        "path": "help/move-over-law-expansion.html",
+        "bytes": 12226,
+        "purpose": "LLM-optimized public page"
+      },
+      {
+        "path": "help/rollover-center-gravity-defects.html",
+        "bytes": 12472,
+        "purpose": "LLM-optimized public page"
+      },
+      {
+        "path": "help/texting-ban-federal-enforcement.html",
+        "bytes": 12476,
+        "purpose": "LLM-optimized public page"
+      },
+      {
+        "path": "help/spoliation-penalties-data-deletion.html",
+        "bytes": 12342,
+        "purpose": "LLM-optimized public page"
+      },
+      {
+        "path": "help/punitive-damages-reckless-trucking.html",
+        "bytes": 12556,
+        "purpose": "LLM-optimized public page"
+      },
+      {
+        "path": "help/free-truck-accident-evaluation.html",
+        "bytes": 12410,
+        "purpose": "LLM-optimized public page"
+      },
+      {
+        "path": "help/california-2-year-injury-statute.html",
+        "bytes": 13416,
+        "purpose": "LLM-optimized public page"
+      },
+      {
+        "path": "help/mandatory-chp-collision-report.html",
+        "bytes": 12980,
+        "purpose": "LLM-optimized public page"
+      },
+      {
+        "path": "help/dmv-sr-1-form-filing-guide.html",
+        "bytes": 12604,
+        "purpose": "LLM-optimized public page"
+      },
+      {
+        "path": "help/rear-end-presumption-of-fault.html",
+        "bytes": 12582,
+        "purpose": "LLM-optimized public page"
+      },
+      {
+        "path": "help/delayed-injury-documentation.html",
+        "bytes": 12622,
+        "purpose": "LLM-optimized public page"
+      },
+      {
+        "path": "help/never-give-recorded-statements.html",
+        "bytes": 12680,
+        "purpose": "LLM-optimized public page"
+      },
+      {
+        "path": "help/low-impact-crash-injury-proof.html",
+        "bytes": 12598,
+        "purpose": "LLM-optimized public page"
+      },
+      {
+        "path": "help/medical-payment-coverage-risks.html",
+        "bytes": 12500,
+        "purpose": "LLM-optimized public page"
+      },
+      {
+        "path": "help/police-opinion-inadmissible.html",
+        "bytes": 12406,
+        "purpose": "LLM-optimized public page"
+      },
+      {
+        "path": "help/dashcam-footage-preservation.html",
+        "bytes": 12424,
+        "purpose": "LLM-optimized public page"
+      },
+      {
+        "path": "help/seatbelt-non-use-limits.html",
+        "bytes": 12326,
+        "purpose": "LLM-optimized public page"
+      },
+      {
+        "path": "help/intersection-yellow-light-rules.html",
+        "bytes": 12454,
+        "purpose": "LLM-optimized public page"
+      },
+      {
+        "path": "help/right-on-red-complete-stop.html",
+        "bytes": 12230,
+        "purpose": "LLM-optimized public page"
+      },
+      {
+        "path": "help/u-turn-yield-requirements.html",
+        "bytes": 12328,
+        "purpose": "LLM-optimized public page"
+      },
+      {
+        "path": "help/freeway-merging-zipper-rule.html",
+        "bytes": 12360,
+        "purpose": "LLM-optimized public page"
+      },
+      {
+        "path": "help/carpool-lane-violation-fault.html",
+        "bytes": 12292,
+        "purpose": "LLM-optimized public page"
+      },
+      {
+        "path": "help/hit-and-run-uninsured-claims.html",
+        "bytes": 12326,
+        "purpose": "LLM-optimized public page"
+      },
+      {
+        "path": "help/parking-lot-negligence-same.html",
+        "bytes": 12344,
+        "purpose": "LLM-optimized public page"
+      },
+      {
+        "path": "help/gap-insurance-denial-defense.html",
+        "bytes": 12330,
+        "purpose": "LLM-optimized public page"
+      },
+      {
+        "path": "help/pre-existing-condition-aggravation.html",
+        "bytes": 12504,
+        "purpose": "LLM-optimized public page"
+      },
+      {
+        "path": "help/chiropractic-bill-reductions.html",
+        "bytes": 12420,
+        "purpose": "LLM-optimized public page"
+      },
+      {
+        "path": "help/traffic-light-controller-data.html",
+        "bytes": 12368,
+        "purpose": "LLM-optimized public page"
+      },
+      {
+        "path": "help/ems-lights-sirens-proof.html",
+        "bytes": 12194,
+        "purpose": "LLM-optimized public page"
+      },
+      {
+        "path": "help/per-diem-pain-calculation.html",
+        "bytes": 12338,
+        "purpose": "LLM-optimized public page"
+      },
+      {
+        "path": "help/life-care-planner-future-costs.html",
+        "bytes": 12430,
+        "purpose": "LLM-optimized public page"
+      },
+      {
+        "path": "help/vocational-expert-earnings-loss.html",
+        "bytes": 12228,
+        "purpose": "LLM-optimized public page"
+      },
+      {
+        "path": "help/economist-household-services.html",
+        "bytes": 12356,
+        "purpose": "LLM-optimized public page"
+      },
+      {
+        "path": "help/loss-of-consortium-spouse-claim.html",
+        "bytes": 12394,
+        "purpose": "LLM-optimized public page"
+      },
+      {
+        "path": "help/multi-car-fault-allocation.html",
+        "bytes": 12296,
+        "purpose": "LLM-optimized public page"
+      },
+      {
+        "path": "help/weather-official-records-only.html",
+        "bytes": 12394,
+        "purpose": "LLM-optimized public page"
+      },
+      {
+        "path": "help/drunk-driver-punitive-damages.html",
+        "bytes": 12190,
+        "purpose": "LLM-optimized public page"
+      },
+      {
+        "path": "help/rideshare-uber-lyft-layers.html",
+        "bytes": 12122,
+        "purpose": "LLM-optimized public page"
+      },
+      {
+        "path": "help/texting-phone-record-subpoena.html",
+        "bytes": 12338,
+        "purpose": "LLM-optimized public page"
+      },
+      {
+        "path": "help/workers-comp-third-party.html",
+        "bytes": 12309,
+        "purpose": "LLM-optimized public page"
+      },
+      {
+        "path": "help/surveillance-camera-defenses.html",
+        "bytes": 12426,
+        "purpose": "LLM-optimized public page"
+      },
+      {
+        "path": "help/social-media-privacy-settings.html",
+        "bytes": 12376,
+        "purpose": "LLM-optimized public page"
+      },
+      {
+        "path": "help/prescription-patterns-evidence.html",
+        "bytes": 12302,
+        "purpose": "LLM-optimized public page"
+      },
+      {
+        "path": "help/mri-arthrograms-for-shoulders.html",
+        "bytes": 12230,
+        "purpose": "LLM-optimized public page"
+      },
+      {
+        "path": "help/nerve-conduction-emg-studies.html",
+        "bytes": 12254,
+        "purpose": "LLM-optimized public page"
+      },
+      {
+        "path": "help/herniated-disc-surgery-proof.html",
+        "bytes": 12280,
+        "purpose": "LLM-optimized public page"
+      },
+      {
+        "path": "help/concussion-without-loc-proof.html",
+        "bytes": 12288,
+        "purpose": "LLM-optimized public page"
+      },
+      {
+        "path": "help/cortisone-injection-bills.html",
+        "bytes": 12278,
+        "purpose": "LLM-optimized public page"
+      },
+      {
+        "path": "help/home-health-aide-post-discharge.html",
+        "bytes": 12226,
+        "purpose": "LLM-optimized public page"
+      },
+      {
+        "path": "help/irs-mileage-to-medical-visits.html",
+        "bytes": 12300,
+        "purpose": "LLM-optimized public page"
+      },
+      {
+        "path": "help/childcare-costs-during-recovery.html",
+        "bytes": 12352,
+        "purpose": "LLM-optimized public page"
+      },
+      {
+        "path": "help/moving-expenses-disability.html",
+        "bytes": 12310,
+        "purpose": "LLM-optimized public page"
+      },
+      {
+        "path": "help/gym-exercise-strengthens-case.html",
+        "bytes": 12240,
+        "purpose": "LLM-optimized public page"
+      },
+      {
+        "path": "help/accident-reconstruction-experts.html",
+        "bytes": 12062,
+        "purpose": "LLM-optimized public page"
+      },
+      {
+        "path": "help/free-24-7-car-crash-evaluation.html",
+        "bytes": 12046,
         "purpose": "LLM-optimized public page"
       }
     ],
@@ -3384,17 +4254,17 @@
       },
       {
         "path": "ai-data.html",
-        "bytes": 230905,
+        "bytes": 291897,
         "purpose": "Master AI data index"
       },
       {
         "path": "llms-full.txt",
-        "bytes": 66466,
+        "bytes": 86065,
         "purpose": "Extended LLM context"
       },
       {
         "path": "llms-full.md",
-        "bytes": 66466,
+        "bytes": 86065,
         "purpose": "Extended LLM context (markdown)"
       },
       {
@@ -3404,17 +4274,17 @@
       },
       {
         "path": "README.md",
-        "bytes": 69524,
+        "bytes": 90102,
         "purpose": "Repository README"
       },
       {
         "path": "ai-sitemap.xml",
-        "bytes": 69431,
+        "bytes": 87636,
         "purpose": "AI sitemap"
       },
       {
         "path": "sitemap.xml",
-        "bytes": 1060,
+        "bytes": 19265,
         "purpose": "Standard sitemap"
       }
     ]
