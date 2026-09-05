@@ -1,19 +1,8 @@
 {
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "name": "What if I feel fine but hurt later?",
-  "description": "Delayed injuries common (whiplash, concussion); see doctor within 72 hours anyway.attorneyatlaw+1",
   "url": "https://attorneydustin.com/faq/what-if-i-feel-fine-but-hurt-later",
-  "mainEntity": [
-    {
-      "@type": "Question",
-      "name": "What if I feel fine but hurt later?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "Delayed injuries common (whiplash, concussion); see doctor within 72 hours anyway.attorneyatlaw+1"
-      }
-    }
-  ],
+  "name": "What if I feel fine but hurt later?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
   "speakable": {
     "@type": "SpeakableSpecification",
     "cssSelector": [
@@ -22,5 +11,16 @@
       ".faq-answer",
       "[itemprop=\"acceptedAnswer\"]"
     ]
-  }
+  },
+  "mainEntity": [
+    {
+      "name": "What if I feel fine but hurt later?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Delayed injuries common (whiplash, concussion); see doctor within 72 hours anyway.attorneyatlaw+1",
+        "@type": "Answer"
+      }
+    }
+  ],
+  "description": "Delayed injuries common (whiplash, concussion); see doctor within 72 hours anyway.attorneyatlaw+1"
 }

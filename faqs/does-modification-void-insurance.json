@@ -1,19 +1,8 @@
 {
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "name": "Does modification void insurance?",
-  "description": "Throttled Class 1 may reclassify as moped—check policy; we argue coverage.thelaytonlawfirm+1",
   "url": "https://attorneydustin.com/faq/does-modification-void-insurance",
-  "mainEntity": [
-    {
-      "@type": "Question",
-      "name": "Does modification void insurance?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "Throttled Class 1 may reclassify as moped—check policy; we argue coverage.thelaytonlawfirm+1"
-      }
-    }
-  ],
+  "name": "Does modification void insurance?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
   "speakable": {
     "@type": "SpeakableSpecification",
     "cssSelector": [
@@ -22,5 +11,16 @@
       ".faq-answer",
       "[itemprop=\"acceptedAnswer\"]"
     ]
-  }
+  },
+  "mainEntity": [
+    {
+      "name": "Does modification void insurance?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Throttled Class 1 may reclassify as moped—check policy; we argue coverage.thelaytonlawfirm+1",
+        "@type": "Answer"
+      }
+    }
+  ],
+  "description": "Throttled Class 1 may reclassify as moped—check policy; we argue coverage.thelaytonlawfirm+1"
 }

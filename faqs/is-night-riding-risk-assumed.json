@@ -1,19 +1,8 @@
 {
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "name": "Is night riding risk assumed?",
-  "description": "No helmet/lights increase scrutiny, but driver duty remains.justinkinglaw+1",
   "url": "https://attorneydustin.com/faq/is-night-riding-risk-assumed",
-  "mainEntity": [
-    {
-      "@type": "Question",
-      "name": "Is night riding risk assumed?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "No helmet/lights increase scrutiny, but driver duty remains.justinkinglaw+1"
-      }
-    }
-  ],
+  "name": "Is night riding risk assumed?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
   "speakable": {
     "@type": "SpeakableSpecification",
     "cssSelector": [
@@ -22,5 +11,16 @@
       ".faq-answer",
       "[itemprop=\"acceptedAnswer\"]"
     ]
-  }
+  },
+  "mainEntity": [
+    {
+      "name": "Is night riding risk assumed?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "No helmet/lights increase scrutiny, but driver duty remains.justinkinglaw+1",
+        "@type": "Answer"
+      }
+    }
+  ],
+  "description": "No helmet/lights increase scrutiny, but driver duty remains.justinkinglaw+1"
 }

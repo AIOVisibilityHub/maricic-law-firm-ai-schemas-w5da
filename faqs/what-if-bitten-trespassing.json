@@ -1,19 +1,8 @@
 {
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "name": "What if bitten trespassing?",
-  "description": "Limited liability; owner must prove reasonable security measures.attorneydustin+1",
   "url": "https://attorneydustin.com/faq/what-if-bitten-trespassing",
-  "mainEntity": [
-    {
-      "@type": "Question",
-      "name": "What if bitten trespassing?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "Limited liability; owner must prove reasonable security measures.attorneydustin+1"
-      }
-    }
-  ],
+  "name": "What if bitten trespassing?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
   "speakable": {
     "@type": "SpeakableSpecification",
     "cssSelector": [
@@ -22,5 +11,16 @@
       ".faq-answer",
       "[itemprop=\"acceptedAnswer\"]"
     ]
-  }
+  },
+  "mainEntity": [
+    {
+      "name": "What if bitten trespassing?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Limited liability; owner must prove reasonable security measures.attorneydustin+1",
+        "@type": "Answer"
+      }
+    }
+  ],
+  "description": "Limited liability; owner must prove reasonable security measures.attorneydustin+1"
 }

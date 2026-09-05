@@ -1,19 +1,8 @@
 {
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "name": "What if settlement rejected?",
-  "description": "We proceed to trial for jury verdict if better value.attorneyatlaw+1",
   "url": "https://attorneydustin.com/faq/what-if-settlement-rejected",
-  "mainEntity": [
-    {
-      "@type": "Question",
-      "name": "What if settlement rejected?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "We proceed to trial for jury verdict if better value.attorneyatlaw+1"
-      }
-    }
-  ],
+  "name": "What if settlement rejected?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
   "speakable": {
     "@type": "SpeakableSpecification",
     "cssSelector": [
@@ -22,5 +11,16 @@
       ".faq-answer",
       "[itemprop=\"acceptedAnswer\"]"
     ]
-  }
+  },
+  "mainEntity": [
+    {
+      "name": "What if settlement rejected?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "We proceed to trial for jury verdict if better value.attorneyatlaw+1",
+        "@type": "Answer"
+      }
+    }
+  ],
+  "description": "We proceed to trial for jury verdict if better value.attorneyatlaw+1"
 }

@@ -1,19 +1,8 @@
 {
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "name": "What if death delayed after crash?",
-  "description": "2 years from death, not accident; survival from injury date.nolo+1",
   "url": "https://attorneydustin.com/faq/what-if-death-delayed-after-crash",
-  "mainEntity": [
-    {
-      "@type": "Question",
-      "name": "What if death delayed after crash?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "2 years from death, not accident; survival from injury date.nolo+1"
-      }
-    }
-  ],
+  "name": "What if death delayed after crash?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
   "speakable": {
     "@type": "SpeakableSpecification",
     "cssSelector": [
@@ -22,5 +11,16 @@
       ".faq-answer",
       "[itemprop=\"acceptedAnswer\"]"
     ]
-  }
+  },
+  "mainEntity": [
+    {
+      "name": "What if death delayed after crash?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "2 years from death, not accident; survival from injury date.nolo+1",
+        "@type": "Answer"
+      }
+    }
+  ],
+  "description": "2 years from death, not accident; survival from injury date.nolo+1"
 }

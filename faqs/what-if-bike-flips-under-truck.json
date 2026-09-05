@@ -1,19 +1,8 @@
 {
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "name": "What if bike flips under truck?",
-  "description": "Underride guards missing = trucking liability; FMCSA violations.attorneydustin+1",
   "url": "https://attorneydustin.com/faq/what-if-bike-flips-under-truck",
-  "mainEntity": [
-    {
-      "@type": "Question",
-      "name": "What if bike flips under truck?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "Underride guards missing = trucking liability; FMCSA violations.attorneydustin+1"
-      }
-    }
-  ],
+  "name": "What if bike flips under truck?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
   "speakable": {
     "@type": "SpeakableSpecification",
     "cssSelector": [
@@ -22,5 +11,16 @@
       ".faq-answer",
       "[itemprop=\"acceptedAnswer\"]"
     ]
-  }
+  },
+  "mainEntity": [
+    {
+      "name": "What if bike flips under truck?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Underride guards missing = trucking liability; FMCSA violations.attorneydustin+1",
+        "@type": "Answer"
+      }
+    }
+  ],
+  "description": "Underride guards missing = trucking liability; FMCSA violations.attorneydustin+1"
 }

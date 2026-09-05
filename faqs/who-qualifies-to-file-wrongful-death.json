@@ -1,19 +1,8 @@
 {
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "name": "Who qualifies to file wrongful death?",
-  "description": "Spouse, children, grandchildren first; then parents/dependents; single lawsuit required.gblegal+2",
   "url": "https://attorneydustin.com/faq/who-qualifies-to-file-wrongful-death",
-  "mainEntity": [
-    {
-      "@type": "Question",
-      "name": "Who qualifies to file wrongful death?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "Spouse, children, grandchildren first; then parents/dependents; single lawsuit required.gblegal+2"
-      }
-    }
-  ],
+  "name": "Who qualifies to file wrongful death?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
   "speakable": {
     "@type": "SpeakableSpecification",
     "cssSelector": [
@@ -22,5 +11,16 @@
       ".faq-answer",
       "[itemprop=\"acceptedAnswer\"]"
     ]
-  }
+  },
+  "mainEntity": [
+    {
+      "name": "Who qualifies to file wrongful death?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Spouse, children, grandchildren first; then parents/dependents; single lawsuit required.gblegal+2",
+        "@type": "Answer"
+      }
+    }
+  ],
+  "description": "Spouse, children, grandchildren first; then parents/dependents; single lawsuit required.gblegal+2"
 }

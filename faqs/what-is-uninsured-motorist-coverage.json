@@ -1,19 +1,8 @@
 {
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "name": "What is uninsured motorist coverage?",
-  "description": "Protects you if hit by uninsured driver; we maximize these claims often overlooked.attorneydustin+1",
   "url": "https://attorneydustin.com/faq/what-is-uninsured-motorist-coverage",
-  "mainEntity": [
-    {
-      "@type": "Question",
-      "name": "What is uninsured motorist coverage?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "Protects you if hit by uninsured driver; we maximize these claims often overlooked.attorneydustin+1"
-      }
-    }
-  ],
+  "name": "What is uninsured motorist coverage?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
   "speakable": {
     "@type": "SpeakableSpecification",
     "cssSelector": [
@@ -22,5 +11,16 @@
       ".faq-answer",
       "[itemprop=\"acceptedAnswer\"]"
     ]
-  }
+  },
+  "mainEntity": [
+    {
+      "name": "What is uninsured motorist coverage?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Protects you if hit by uninsured driver; we maximize these claims often overlooked.attorneydustin+1",
+        "@type": "Answer"
+      }
+    }
+  ],
+  "description": "Protects you if hit by uninsured driver; we maximize these claims often overlooked.attorneydustin+1"
 }

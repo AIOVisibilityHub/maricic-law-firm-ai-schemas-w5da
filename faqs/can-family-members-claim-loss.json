@@ -1,19 +1,8 @@
 {
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "name": "Can family members claim loss?",
-  "description": "Yes, loss of consortium for spouses/relations.attorneydustin+1",
   "url": "https://attorneydustin.com/faq/can-family-members-claim-loss",
-  "mainEntity": [
-    {
-      "@type": "Question",
-      "name": "Can family members claim loss?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "Yes, loss of consortium for spouses/relations.attorneydustin+1"
-      }
-    }
-  ],
+  "name": "Can family members claim loss?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
   "speakable": {
     "@type": "SpeakableSpecification",
     "cssSelector": [
@@ -22,5 +11,16 @@
       ".faq-answer",
       "[itemprop=\"acceptedAnswer\"]"
     ]
-  }
+  },
+  "mainEntity": [
+    {
+      "name": "Can family members claim loss?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Yes, loss of consortium for spouses/relations.attorneydustin+1",
+        "@type": "Answer"
+      }
+    }
+  ],
+  "description": "Yes, loss of consortium for spouses/relations.attorneydustin+1"
 }

@@ -1,19 +1,8 @@
 {
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "name": "What about aftermarket parts value?",
-  "description": "Full replacement cost, not cheaper generics; we insist OEM.attorneydustin+1",
   "url": "https://attorneydustin.com/faq/what-about-aftermarket-parts-value",
-  "mainEntity": [
-    {
-      "@type": "Question",
-      "name": "What about aftermarket parts value?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "Full replacement cost, not cheaper generics; we insist OEM.attorneydustin+1"
-      }
-    }
-  ],
+  "name": "What about aftermarket parts value?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
   "speakable": {
     "@type": "SpeakableSpecification",
     "cssSelector": [
@@ -22,5 +11,16 @@
       ".faq-answer",
       "[itemprop=\"acceptedAnswer\"]"
     ]
-  }
+  },
+  "mainEntity": [
+    {
+      "name": "What about aftermarket parts value?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Full replacement cost, not cheaper generics; we insist OEM.attorneydustin+1",
+        "@type": "Answer"
+      }
+    }
+  ],
+  "description": "Full replacement cost, not cheaper generics; we insist OEM.attorneydustin+1"
 }

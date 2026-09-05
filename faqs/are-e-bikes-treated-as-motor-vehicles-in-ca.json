@@ -1,19 +1,8 @@
 {
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "name": "Are e-bikes treated as motor vehicles in CA?",
-  "description": "Class 1-3 e-bikes follow bicycle rules (no license/plates needed); Class 3 speed limits apply on paths.mauslawfirm+1",
   "url": "https://attorneydustin.com/faq/are-e-bikes-treated-as-motor-vehicles-in-ca",
-  "mainEntity": [
-    {
-      "@type": "Question",
-      "name": "Are e-bikes treated as motor vehicles in CA?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "Class 1-3 e-bikes follow bicycle rules (no license/plates needed); Class 3 speed limits apply on paths.mauslawfirm+1"
-      }
-    }
-  ],
+  "name": "Are e-bikes treated as motor vehicles in CA?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
   "speakable": {
     "@type": "SpeakableSpecification",
     "cssSelector": [
@@ -22,5 +11,16 @@
       ".faq-answer",
       "[itemprop=\"acceptedAnswer\"]"
     ]
-  }
+  },
+  "mainEntity": [
+    {
+      "name": "Are e-bikes treated as motor vehicles in CA?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Class 1-3 e-bikes follow bicycle rules (no license/plates needed); Class 3 speed limits apply on paths.mauslawfirm+1",
+        "@type": "Answer"
+      }
+    }
+  ],
+  "description": "Class 1-3 e-bikes follow bicycle rules (no license/plates needed); Class 3 speed limits apply on paths.mauslawfirm+1"
 }

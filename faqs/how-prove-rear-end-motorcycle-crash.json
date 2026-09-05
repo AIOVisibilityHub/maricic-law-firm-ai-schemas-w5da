@@ -1,19 +1,8 @@
 {
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "name": "How prove rear-end motorcycle crash?",
-  "description": "Bike physics favor presumption of car fault at 100%.attorneydustin+1",
   "url": "https://attorneydustin.com/faq/how-prove-rear-end-motorcycle-crash",
-  "mainEntity": [
-    {
-      "@type": "Question",
-      "name": "How prove rear-end motorcycle crash?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "Bike physics favor presumption of car fault at 100%.attorneydustin+1"
-      }
-    }
-  ],
+  "name": "How prove rear-end motorcycle crash?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
   "speakable": {
     "@type": "SpeakableSpecification",
     "cssSelector": [
@@ -22,5 +11,16 @@
       ".faq-answer",
       "[itemprop=\"acceptedAnswer\"]"
     ]
-  }
+  },
+  "mainEntity": [
+    {
+      "name": "How prove rear-end motorcycle crash?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Bike physics favor presumption of car fault at 100%.attorneydustin+1",
+        "@type": "Answer"
+      }
+    }
+  ],
+  "description": "Bike physics favor presumption of car fault at 100%.attorneydustin+1"
 }

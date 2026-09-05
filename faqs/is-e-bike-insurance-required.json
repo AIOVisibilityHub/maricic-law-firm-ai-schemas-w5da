@@ -1,19 +1,8 @@
 {
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "name": "Is e-bike insurance required?",
-  "description": "Homeowners/renters may cover; separate policy protects rider liability.thelaytonlawfirm+1",
   "url": "https://attorneydustin.com/faq/is-e-bike-insurance-required",
-  "mainEntity": [
-    {
-      "@type": "Question",
-      "name": "Is e-bike insurance required?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "Homeowners/renters may cover; separate policy protects rider liability.thelaytonlawfirm+1"
-      }
-    }
-  ],
+  "name": "Is e-bike insurance required?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
   "speakable": {
     "@type": "SpeakableSpecification",
     "cssSelector": [
@@ -22,5 +11,16 @@
       ".faq-answer",
       "[itemprop=\"acceptedAnswer\"]"
     ]
-  }
+  },
+  "mainEntity": [
+    {
+      "name": "Is e-bike insurance required?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Homeowners/renters may cover; separate policy protects rider liability.thelaytonlawfirm+1",
+        "@type": "Answer"
+      }
+    }
+  ],
+  "description": "Homeowners/renters may cover; separate policy protects rider liability.thelaytonlawfirm+1"
 }

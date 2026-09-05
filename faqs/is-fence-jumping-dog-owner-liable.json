@@ -1,19 +1,8 @@
 {
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "name": "Is fence-jumping dog owner liable?",
-  "description": "Yes if propensity known; property lines don't protect.attorneydustin+1",
   "url": "https://attorneydustin.com/faq/is-fence-jumping-dog-owner-liable",
-  "mainEntity": [
-    {
-      "@type": "Question",
-      "name": "Is fence-jumping dog owner liable?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "Yes if propensity known; property lines don't protect.attorneydustin+1"
-      }
-    }
-  ],
+  "name": "Is fence-jumping dog owner liable?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
   "speakable": {
     "@type": "SpeakableSpecification",
     "cssSelector": [
@@ -22,5 +11,16 @@
       ".faq-answer",
       "[itemprop=\"acceptedAnswer\"]"
     ]
-  }
+  },
+  "mainEntity": [
+    {
+      "name": "Is fence-jumping dog owner liable?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Yes if propensity known; property lines don't protect.attorneydustin+1",
+        "@type": "Answer"
+      }
+    }
+  ],
+  "description": "Yes if propensity known; property lines don't protect.attorneydustin+1"
 }

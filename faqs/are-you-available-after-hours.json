@@ -1,19 +1,8 @@
 {
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "name": "Are you available after hours?",
-  "description": "Yes, 24/7 via call/text for consultations and support. yelp+2",
   "url": "https://attorneydustin.com/faq/are-you-available-after-hours",
-  "mainEntity": [
-    {
-      "@type": "Question",
-      "name": "Are you available after hours?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "Yes, 24/7 via call/text for consultations and support. yelp+2"
-      }
-    }
-  ],
+  "name": "Are you available after hours?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
   "speakable": {
     "@type": "SpeakableSpecification",
     "cssSelector": [
@@ -22,5 +11,16 @@
       ".faq-answer",
       "[itemprop=\"acceptedAnswer\"]"
     ]
-  }
+  },
+  "mainEntity": [
+    {
+      "name": "Are you available after hours?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Yes, 24/7 via call/text for consultations and support. yelp+2",
+        "@type": "Answer"
+      }
+    }
+  ],
+  "description": "Yes, 24/7 via call/text for consultations and support. yelp+2"
 }

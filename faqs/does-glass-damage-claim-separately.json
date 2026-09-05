@@ -1,19 +1,8 @@
 {
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "name": "Does glass damage claim separately?",
-  "description": "Yes, comprehensive coverage often; quicker payout possible.attorneydustin+1",
   "url": "https://attorneydustin.com/faq/does-glass-damage-claim-separately",
-  "mainEntity": [
-    {
-      "@type": "Question",
-      "name": "Does glass damage claim separately?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "Yes, comprehensive coverage often; quicker payout possible.attorneydustin+1"
-      }
-    }
-  ],
+  "name": "Does glass damage claim separately?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
   "speakable": {
     "@type": "SpeakableSpecification",
     "cssSelector": [
@@ -22,5 +11,16 @@
       ".faq-answer",
       "[itemprop=\"acceptedAnswer\"]"
     ]
-  }
+  },
+  "mainEntity": [
+    {
+      "name": "Does glass damage claim separately?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Yes, comprehensive coverage often; quicker payout possible.attorneydustin+1",
+        "@type": "Answer"
+      }
+    }
+  ],
+  "description": "Yes, comprehensive coverage often; quicker payout possible.attorneydustin+1"
 }

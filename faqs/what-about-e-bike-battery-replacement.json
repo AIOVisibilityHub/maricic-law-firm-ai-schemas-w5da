@@ -1,19 +1,8 @@
 {
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "name": "What about e-bike battery replacement?",
-  "description": "Full OEM replacement; we treat as total if uneconomical.yelp+1",
   "url": "https://attorneydustin.com/faq/what-about-e-bike-battery-replacement",
-  "mainEntity": [
-    {
-      "@type": "Question",
-      "name": "What about e-bike battery replacement?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "Full OEM replacement; we treat as total if uneconomical.yelp+1"
-      }
-    }
-  ],
+  "name": "What about e-bike battery replacement?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
   "speakable": {
     "@type": "SpeakableSpecification",
     "cssSelector": [
@@ -22,5 +11,16 @@
       ".faq-answer",
       "[itemprop=\"acceptedAnswer\"]"
     ]
-  }
+  },
+  "mainEntity": [
+    {
+      "name": "What about e-bike battery replacement?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Full OEM replacement; we treat as total if uneconomical.yelp+1",
+        "@type": "Answer"
+      }
+    }
+  ],
+  "description": "Full OEM replacement; we treat as total if uneconomical.yelp+1"
 }

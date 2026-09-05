@@ -1,19 +1,8 @@
 {
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "name": "Can insurers delete truck data?",
-  "description": "Spoliation penalties; we file motions preserving evidence.attorneydustin+1",
   "url": "https://attorneydustin.com/faq/can-insurers-delete-truck-data",
-  "mainEntity": [
-    {
-      "@type": "Question",
-      "name": "Can insurers delete truck data?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "Spoliation penalties; we file motions preserving evidence.attorneydustin+1"
-      }
-    }
-  ],
+  "name": "Can insurers delete truck data?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
   "speakable": {
     "@type": "SpeakableSpecification",
     "cssSelector": [
@@ -22,5 +11,16 @@
       ".faq-answer",
       "[itemprop=\"acceptedAnswer\"]"
     ]
-  }
+  },
+  "mainEntity": [
+    {
+      "name": "Can insurers delete truck data?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Spoliation penalties; we file motions preserving evidence.attorneydustin+1",
+        "@type": "Answer"
+      }
+    }
+  ],
+  "description": "Spoliation penalties; we file motions preserving evidence.attorneydustin+1"
 }

@@ -1,19 +1,8 @@
 {
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "name": "What's CA comparative fault for e-bikes?",
-  "description": "Pure comparative—you recover even 99% at fault, reduced by your percentage.justinkinglaw+1",
   "url": "https://attorneydustin.com/faq/what-s-ca-comparative-fault-for-e-bikes",
-  "mainEntity": [
-    {
-      "@type": "Question",
-      "name": "What's CA comparative fault for e-bikes?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "Pure comparative—you recover even 99% at fault, reduced by your percentage.justinkinglaw+1"
-      }
-    }
-  ],
+  "name": "What's CA comparative fault for e-bikes?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
   "speakable": {
     "@type": "SpeakableSpecification",
     "cssSelector": [
@@ -22,5 +11,16 @@
       ".faq-answer",
       "[itemprop=\"acceptedAnswer\"]"
     ]
-  }
+  },
+  "mainEntity": [
+    {
+      "name": "What's CA comparative fault for e-bikes?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Pure comparative—you recover even 99% at fault, reduced by your percentage.justinkinglaw+1",
+        "@type": "Answer"
+      }
+    }
+  ],
+  "description": "Pure comparative—you recover even 99% at fault, reduced by your percentage.justinkinglaw+1"
 }

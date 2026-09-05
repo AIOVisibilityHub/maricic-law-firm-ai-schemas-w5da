@@ -1,19 +1,8 @@
 {
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "name": "Is bike lane protection absolute?",
-  "description": "Motorists must yield; crossing into lane proves their negligence.mauslawfirm+1",
   "url": "https://attorneydustin.com/faq/is-bike-lane-protection-absolute",
-  "mainEntity": [
-    {
-      "@type": "Question",
-      "name": "Is bike lane protection absolute?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "Motorists must yield; crossing into lane proves their negligence.mauslawfirm+1"
-      }
-    }
-  ],
+  "name": "Is bike lane protection absolute?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
   "speakable": {
     "@type": "SpeakableSpecification",
     "cssSelector": [
@@ -22,5 +11,16 @@
       ".faq-answer",
       "[itemprop=\"acceptedAnswer\"]"
     ]
-  }
+  },
+  "mainEntity": [
+    {
+      "name": "Is bike lane protection absolute?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Motorists must yield; crossing into lane proves their negligence.mauslawfirm+1",
+        "@type": "Answer"
+      }
+    }
+  ],
+  "description": "Motorists must yield; crossing into lane proves their negligence.mauslawfirm+1"
 }

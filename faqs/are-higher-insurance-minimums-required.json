@@ -1,19 +1,8 @@
 {
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "name": "Are higher insurance minimums required?",
-  "description": "$750K+ commercial policies; we pursue all layers including excess.yelp+1",
   "url": "https://attorneydustin.com/faq/are-higher-insurance-minimums-required",
-  "mainEntity": [
-    {
-      "@type": "Question",
-      "name": "Are higher insurance minimums required?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "$750K+ commercial policies; we pursue all layers including excess.yelp+1"
-      }
-    }
-  ],
+  "name": "Are higher insurance minimums required?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
   "speakable": {
     "@type": "SpeakableSpecification",
     "cssSelector": [
@@ -22,5 +11,16 @@
       ".faq-answer",
       "[itemprop=\"acceptedAnswer\"]"
     ]
-  }
+  },
+  "mainEntity": [
+    {
+      "name": "Are higher insurance minimums required?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "$750K+ commercial policies; we pursue all layers including excess.yelp+1",
+        "@type": "Answer"
+      }
+    }
+  ],
+  "description": "$750K+ commercial policies; we pursue all layers including excess.yelp+1"
 }

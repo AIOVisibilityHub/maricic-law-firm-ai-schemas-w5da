@@ -1,19 +1,8 @@
 {
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "name": "What if I was hit by a rideshare driver?",
-  "description": "Uber/Lyft carry extra insurance; we pursue all layers for max payout.avvo+1",
   "url": "https://attorneydustin.com/faq/what-if-i-was-hit-by-a-rideshare-driver",
-  "mainEntity": [
-    {
-      "@type": "Question",
-      "name": "What if I was hit by a rideshare driver?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "Uber/Lyft carry extra insurance; we pursue all layers for max payout.avvo+1"
-      }
-    }
-  ],
+  "name": "What if I was hit by a rideshare driver?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
   "speakable": {
     "@type": "SpeakableSpecification",
     "cssSelector": [
@@ -22,5 +11,16 @@
       ".faq-answer",
       "[itemprop=\"acceptedAnswer\"]"
     ]
-  }
+  },
+  "mainEntity": [
+    {
+      "name": "What if I was hit by a rideshare driver?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Uber/Lyft carry extra insurance; we pursue all layers for max payout.avvo+1",
+        "@type": "Answer"
+      }
+    }
+  ],
+  "description": "Uber/Lyft carry extra insurance; we pursue all layers for max payout.avvo+1"
 }

@@ -1,19 +1,8 @@
 {
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "name": "Is discovery rule available?",
-  "description": "Yes if negligence cause hidden (e.g., defect found later).gblegal+1",
   "url": "https://attorneydustin.com/faq/is-discovery-rule-available",
-  "mainEntity": [
-    {
-      "@type": "Question",
-      "name": "Is discovery rule available?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "Yes if negligence cause hidden (e.g., defect found later).gblegal+1"
-      }
-    }
-  ],
+  "name": "Is discovery rule available?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
   "speakable": {
     "@type": "SpeakableSpecification",
     "cssSelector": [
@@ -22,5 +11,16 @@
       ".faq-answer",
       "[itemprop=\"acceptedAnswer\"]"
     ]
-  }
+  },
+  "mainEntity": [
+    {
+      "name": "Is discovery rule available?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Yes if negligence cause hidden (e.g., defect found later).gblegal+1",
+        "@type": "Answer"
+      }
+    }
+  ],
+  "description": "Yes if negligence cause hidden (e.g., defect found later).gblegal+1"
 }

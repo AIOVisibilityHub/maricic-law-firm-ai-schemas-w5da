@@ -1,19 +1,8 @@
 {
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "name": "Do e-bike lights/reflectors matter?",
-  "description": "Required at night; absence may argue contributory negligence.thelaytonlawfirm+1",
   "url": "https://attorneydustin.com/faq/do-e-bike-lights-reflectors-matter",
-  "mainEntity": [
-    {
-      "@type": "Question",
-      "name": "Do e-bike lights/reflectors matter?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "Required at night; absence may argue contributory negligence.thelaytonlawfirm+1"
-      }
-    }
-  ],
+  "name": "Do e-bike lights/reflectors matter?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
   "speakable": {
     "@type": "SpeakableSpecification",
     "cssSelector": [
@@ -22,5 +11,16 @@
       ".faq-answer",
       "[itemprop=\"acceptedAnswer\"]"
     ]
-  }
+  },
+  "mainEntity": [
+    {
+      "name": "Do e-bike lights/reflectors matter?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Required at night; absence may argue contributory negligence.thelaytonlawfirm+1",
+        "@type": "Answer"
+      }
+    }
+  ],
+  "description": "Required at night; absence may argue contributory negligence.thelaytonlawfirm+1"
 }

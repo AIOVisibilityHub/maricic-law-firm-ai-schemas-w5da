@@ -1,19 +1,8 @@
 {
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "name": "Can you sue for fear of dog post-bite?",
-  "description": "Yes, emotional distress if PTSD diagnosed.avvo+1",
   "url": "https://attorneydustin.com/faq/can-you-sue-for-fear-of-dog-post-bite",
-  "mainEntity": [
-    {
-      "@type": "Question",
-      "name": "Can you sue for fear of dog post-bite?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "Yes, emotional distress if PTSD diagnosed.avvo+1"
-      }
-    }
-  ],
+  "name": "Can you sue for fear of dog post-bite?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
   "speakable": {
     "@type": "SpeakableSpecification",
     "cssSelector": [
@@ -22,5 +11,16 @@
       ".faq-answer",
       "[itemprop=\"acceptedAnswer\"]"
     ]
-  }
+  },
+  "mainEntity": [
+    {
+      "name": "Can you sue for fear of dog post-bite?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Yes, emotional distress if PTSD diagnosed.avvo+1",
+        "@type": "Answer"
+      }
+    }
+  ],
+  "description": "Yes, emotional distress if PTSD diagnosed.avvo+1"
 }

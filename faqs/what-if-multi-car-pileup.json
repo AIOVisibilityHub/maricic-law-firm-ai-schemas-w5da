@@ -1,19 +1,8 @@
 {
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "name": "What if multi-car pileup?",
-  "description": "We untangle fault percentages for your full share.attorneydustin+1",
   "url": "https://attorneydustin.com/faq/what-if-multi-car-pileup",
-  "mainEntity": [
-    {
-      "@type": "Question",
-      "name": "What if multi-car pileup?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "We untangle fault percentages for your full share.attorneydustin+1"
-      }
-    }
-  ],
+  "name": "What if multi-car pileup?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
   "speakable": {
     "@type": "SpeakableSpecification",
     "cssSelector": [
@@ -22,5 +11,16 @@
       ".faq-answer",
       "[itemprop=\"acceptedAnswer\"]"
     ]
-  }
+  },
+  "mainEntity": [
+    {
+      "name": "What if multi-car pileup?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "We untangle fault percentages for your full share.attorneydustin+1",
+        "@type": "Answer"
+      }
+    }
+  ],
+  "description": "We untangle fault percentages for your full share.attorneydustin+1"
 }

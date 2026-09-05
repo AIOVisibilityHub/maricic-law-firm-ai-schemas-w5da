@@ -1,19 +1,8 @@
 {
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "name": "How select accident reconstruction?",
-  "description": "Board-certified experts for liability proof in disputes.attorneydustin+1",
   "url": "https://attorneydustin.com/faq/how-select-accident-reconstruction",
-  "mainEntity": [
-    {
-      "@type": "Question",
-      "name": "How select accident reconstruction?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "Board-certified experts for liability proof in disputes.attorneydustin+1"
-      }
-    }
-  ],
+  "name": "How select accident reconstruction?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
   "speakable": {
     "@type": "SpeakableSpecification",
     "cssSelector": [
@@ -22,5 +11,16 @@
       ".faq-answer",
       "[itemprop=\"acceptedAnswer\"]"
     ]
-  }
+  },
+  "mainEntity": [
+    {
+      "name": "How select accident reconstruction?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Board-certified experts for liability proof in disputes.attorneydustin+1",
+        "@type": "Answer"
+      }
+    }
+  ],
+  "description": "Board-certified experts for liability proof in disputes.attorneydustin+1"
 }

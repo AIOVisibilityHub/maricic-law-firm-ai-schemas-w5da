@@ -1,19 +1,8 @@
 {
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "name": "Is PT/therapy bill negotiation standard?",
-  "description": "Yes, we reduce them dramatically (e.g., 1/10th original).attorneydustin+1",
   "url": "https://attorneydustin.com/faq/is-pt-therapy-bill-negotiation-standard",
-  "mainEntity": [
-    {
-      "@type": "Question",
-      "name": "Is PT/therapy bill negotiation standard?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "Yes, we reduce them dramatically (e.g., 1/10th original).attorneydustin+1"
-      }
-    }
-  ],
+  "name": "Is PT/therapy bill negotiation standard?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
   "speakable": {
     "@type": "SpeakableSpecification",
     "cssSelector": [
@@ -22,5 +11,16 @@
       ".faq-answer",
       "[itemprop=\"acceptedAnswer\"]"
     ]
-  }
+  },
+  "mainEntity": [
+    {
+      "name": "Is PT/therapy bill negotiation standard?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Yes, we reduce them dramatically (e.g., 1/10th original).attorneydustin+1",
+        "@type": "Answer"
+      }
+    }
+  ],
+  "description": "Yes, we reduce them dramatically (e.g., 1/10th original).attorneydustin+1"
 }

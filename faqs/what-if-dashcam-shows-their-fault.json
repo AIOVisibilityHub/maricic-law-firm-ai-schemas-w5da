@@ -1,19 +1,8 @@
 {
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "name": "What if dashcam shows their fault?",
-  "description": "Golden evidence; we demand carrier preservation immediately.yelp+1",
   "url": "https://attorneydustin.com/faq/what-if-dashcam-shows-their-fault",
-  "mainEntity": [
-    {
-      "@type": "Question",
-      "name": "What if dashcam shows their fault?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "Golden evidence; we demand carrier preservation immediately.yelp+1"
-      }
-    }
-  ],
+  "name": "What if dashcam shows their fault?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
   "speakable": {
     "@type": "SpeakableSpecification",
     "cssSelector": [
@@ -22,5 +11,16 @@
       ".faq-answer",
       "[itemprop=\"acceptedAnswer\"]"
     ]
-  }
+  },
+  "mainEntity": [
+    {
+      "name": "What if dashcam shows their fault?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Golden evidence; we demand carrier preservation immediately.yelp+1",
+        "@type": "Answer"
+      }
+    }
+  ],
+  "description": "Golden evidence; we demand carrier preservation immediately.yelp+1"
 }

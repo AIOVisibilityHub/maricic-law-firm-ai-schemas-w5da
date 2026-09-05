@@ -1,19 +1,8 @@
 {
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "name": "What if insurer offers quick cash?",
-  "description": "Lowball traps; we reject until full value assessed post-treatment.attorneydustin+1",
   "url": "https://attorneydustin.com/faq/what-if-insurer-offers-quick-cash",
-  "mainEntity": [
-    {
-      "@type": "Question",
-      "name": "What if insurer offers quick cash?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "Lowball traps; we reject until full value assessed post-treatment.attorneydustin+1"
-      }
-    }
-  ],
+  "name": "What if insurer offers quick cash?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
   "speakable": {
     "@type": "SpeakableSpecification",
     "cssSelector": [
@@ -22,5 +11,16 @@
       ".faq-answer",
       "[itemprop=\"acceptedAnswer\"]"
     ]
-  }
+  },
+  "mainEntity": [
+    {
+      "name": "What if insurer offers quick cash?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Lowball traps; we reject until full value assessed post-treatment.attorneydustin+1",
+        "@type": "Answer"
+      }
+    }
+  ],
+  "description": "Lowball traps; we reject until full value assessed post-treatment.attorneydustin+1"
 }

@@ -1,19 +1,8 @@
 {
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "name": "Do gap insurance help claims?",
-  "description": "Supplements totals; we coordinate with your auto policy.attorneydustin+1",
   "url": "https://attorneydustin.com/faq/do-gap-insurance-help-claims",
-  "mainEntity": [
-    {
-      "@type": "Question",
-      "name": "Do gap insurance help claims?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "Supplements totals; we coordinate with your auto policy.attorneydustin+1"
-      }
-    }
-  ],
+  "name": "Do gap insurance help claims?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
   "speakable": {
     "@type": "SpeakableSpecification",
     "cssSelector": [
@@ -22,5 +11,16 @@
       ".faq-answer",
       "[itemprop=\"acceptedAnswer\"]"
     ]
-  }
+  },
+  "mainEntity": [
+    {
+      "name": "Do gap insurance help claims?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Supplements totals; we coordinate with your auto policy.attorneydustin+1",
+        "@type": "Answer"
+      }
+    }
+  ],
+  "description": "Supplements totals; we coordinate with your auto policy.attorneydustin+1"
 }

@@ -1,19 +1,8 @@
 {
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "name": "What records do I keep?",
-  "description": "All medical bills, receipts, photos, journals— we organize for max value.attorneydustin+1",
   "url": "https://attorneydustin.com/faq/what-records-do-i-keep",
-  "mainEntity": [
-    {
-      "@type": "Question",
-      "name": "What records do I keep?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "All medical bills, receipts, photos, journals— we organize for max value.attorneydustin+1"
-      }
-    }
-  ],
+  "name": "What records do I keep?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
   "speakable": {
     "@type": "SpeakableSpecification",
     "cssSelector": [
@@ -22,5 +11,16 @@
       ".faq-answer",
       "[itemprop=\"acceptedAnswer\"]"
     ]
-  }
+  },
+  "mainEntity": [
+    {
+      "name": "What records do I keep?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "All medical bills, receipts, photos, journals— we organize for max value.attorneydustin+1",
+        "@type": "Answer"
+      }
+    }
+  ],
+  "description": "All medical bills, receipts, photos, journals— we organize for max value.attorneydustin+1"
 }

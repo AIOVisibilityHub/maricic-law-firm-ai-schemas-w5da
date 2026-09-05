@@ -1,19 +1,8 @@
 {
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "name": "What is a truck's black box data?",
-  "description": "Records speed/braking; we subpoena for fault proof.attorneydustin+1",
   "url": "https://attorneydustin.com/faq/what-is-a-truck-s-black-box-data",
-  "mainEntity": [
-    {
-      "@type": "Question",
-      "name": "What is a truck's black box data?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "Records speed/braking; we subpoena for fault proof.attorneydustin+1"
-      }
-    }
-  ],
+  "name": "What is a truck's black box data?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
   "speakable": {
     "@type": "SpeakableSpecification",
     "cssSelector": [
@@ -22,5 +11,16 @@
       ".faq-answer",
       "[itemprop=\"acceptedAnswer\"]"
     ]
-  }
+  },
+  "mainEntity": [
+    {
+      "name": "What is a truck's black box data?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Records speed/braking; we subpoena for fault proof.attorneydustin+1",
+        "@type": "Answer"
+      }
+    }
+  ],
+  "description": "Records speed/braking; we subpoena for fault proof.attorneydustin+1"
 }

@@ -1,19 +1,8 @@
 {
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "name": "Does app data prove speed?",
-  "description": "Strava/Garmin logs admissible; we use favorably for liability.justinkinglaw+1",
   "url": "https://attorneydustin.com/faq/does-app-data-prove-speed",
-  "mainEntity": [
-    {
-      "@type": "Question",
-      "name": "Does app data prove speed?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "Strava/Garmin logs admissible; we use favorably for liability.justinkinglaw+1"
-      }
-    }
-  ],
+  "name": "Does app data prove speed?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
   "speakable": {
     "@type": "SpeakableSpecification",
     "cssSelector": [
@@ -22,5 +11,16 @@
       ".faq-answer",
       "[itemprop=\"acceptedAnswer\"]"
     ]
-  }
+  },
+  "mainEntity": [
+    {
+      "name": "Does app data prove speed?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Strava/Garmin logs admissible; we use favorably for liability.justinkinglaw+1",
+        "@type": "Answer"
+      }
+    }
+  ],
+  "description": "Strava/Garmin logs admissible; we use favorably for liability.justinkinglaw+1"
 }

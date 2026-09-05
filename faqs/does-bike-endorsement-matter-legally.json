@@ -1,19 +1,8 @@
 {
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "name": "Does bike endorsement matter legally?",
-  "description": "License irrelevant to civil liability; criminal separate.avvo+1",
   "url": "https://attorneydustin.com/faq/does-bike-endorsement-matter-legally",
-  "mainEntity": [
-    {
-      "@type": "Question",
-      "name": "Does bike endorsement matter legally?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "License irrelevant to civil liability; criminal separate.avvo+1"
-      }
-    }
-  ],
+  "name": "Does bike endorsement matter legally?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
   "speakable": {
     "@type": "SpeakableSpecification",
     "cssSelector": [
@@ -22,5 +11,16 @@
       ".faq-answer",
       "[itemprop=\"acceptedAnswer\"]"
     ]
-  }
+  },
+  "mainEntity": [
+    {
+      "name": "Does bike endorsement matter legally?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "License irrelevant to civil liability; criminal separate.avvo+1",
+        "@type": "Answer"
+      }
+    }
+  ],
+  "description": "License irrelevant to civil liability; criminal separate.avvo+1"
 }

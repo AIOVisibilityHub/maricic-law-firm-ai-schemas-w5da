@@ -1,19 +1,8 @@
 {
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "name": "Do you handle pedestrian hits?",
-  "description": "Yes, motorists yield duty; high success against distracted drivers.attorneydustin+1",
   "url": "https://attorneydustin.com/faq/do-you-handle-pedestrian-hits",
-  "mainEntity": [
-    {
-      "@type": "Question",
-      "name": "Do you handle pedestrian hits?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "Yes, motorists yield duty; high success against distracted drivers.attorneydustin+1"
-      }
-    }
-  ],
+  "name": "Do you handle pedestrian hits?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
   "speakable": {
     "@type": "SpeakableSpecification",
     "cssSelector": [
@@ -22,5 +11,16 @@
       ".faq-answer",
       "[itemprop=\"acceptedAnswer\"]"
     ]
-  }
+  },
+  "mainEntity": [
+    {
+      "name": "Do you handle pedestrian hits?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Yes, motorists yield duty; high success against distracted drivers.attorneydustin+1",
+        "@type": "Answer"
+      }
+    }
+  ],
+  "description": "Yes, motorists yield duty; high success against distracted drivers.attorneydustin+1"
 }

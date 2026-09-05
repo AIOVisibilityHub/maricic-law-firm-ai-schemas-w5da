@@ -1,19 +1,8 @@
 {
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "name": "Who pays storage fees?",
-  "description": "At-fault carrier responsible; we prevent excessive charges.attorneyatlaw+1",
   "url": "https://attorneydustin.com/faq/who-pays-storage-fees",
-  "mainEntity": [
-    {
-      "@type": "Question",
-      "name": "Who pays storage fees?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "At-fault carrier responsible; we prevent excessive charges.attorneyatlaw+1"
-      }
-    }
-  ],
+  "name": "Who pays storage fees?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
   "speakable": {
     "@type": "SpeakableSpecification",
     "cssSelector": [
@@ -22,5 +11,16 @@
       ".faq-answer",
       "[itemprop=\"acceptedAnswer\"]"
     ]
-  }
+  },
+  "mainEntity": [
+    {
+      "name": "Who pays storage fees?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "At-fault carrier responsible; we prevent excessive charges.attorneyatlaw+1",
+        "@type": "Answer"
+      }
+    }
+  ],
+  "description": "At-fault carrier responsible; we prevent excessive charges.attorneyatlaw+1"
 }

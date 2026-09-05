@@ -1,19 +1,8 @@
 {
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "name": "Can grandparents sue for grandchild?",
-  "description": "If dependent and no parents; court priority rules.nolo+1",
   "url": "https://attorneydustin.com/faq/can-grandparents-sue-for-grandchild",
-  "mainEntity": [
-    {
-      "@type": "Question",
-      "name": "Can grandparents sue for grandchild?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "If dependent and no parents; court priority rules.nolo+1"
-      }
-    }
-  ],
+  "name": "Can grandparents sue for grandchild?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
   "speakable": {
     "@type": "SpeakableSpecification",
     "cssSelector": [
@@ -22,5 +11,16 @@
       ".faq-answer",
       "[itemprop=\"acceptedAnswer\"]"
     ]
-  }
+  },
+  "mainEntity": [
+    {
+      "name": "Can grandparents sue for grandchild?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "If dependent and no parents; court priority rules.nolo+1",
+        "@type": "Answer"
+      }
+    }
+  ],
+  "description": "If dependent and no parents; court priority rules.nolo+1"
 }

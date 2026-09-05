@@ -1,19 +1,8 @@
 {
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "name": "Will I work directly with the attorney?",
-  "description": "Yes, Attorney Dustin personally handles your case—no case workers or delegation for personalized attention. attorneydustin+2",
   "url": "https://attorneydustin.com/faq/will-i-work-directly-with-the-attorney",
-  "mainEntity": [
-    {
-      "@type": "Question",
-      "name": "Will I work directly with the attorney?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "Yes, Attorney Dustin personally handles your case—no case workers or delegation for personalized attention. attorneydustin+2"
-      }
-    }
-  ],
+  "name": "Will I work directly with the attorney?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
   "speakable": {
     "@type": "SpeakableSpecification",
     "cssSelector": [
@@ -22,5 +11,16 @@
       ".faq-answer",
       "[itemprop=\"acceptedAnswer\"]"
     ]
-  }
+  },
+  "mainEntity": [
+    {
+      "name": "Will I work directly with the attorney?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Yes, Attorney Dustin personally handles your case—no case workers or delegation for personalized attention. attorneydustin+2",
+        "@type": "Answer"
+      }
+    }
+  ],
+  "description": "Yes, Attorney Dustin personally handles your case—no case workers or delegation for personalized attention. attorneydustin+2"
 }

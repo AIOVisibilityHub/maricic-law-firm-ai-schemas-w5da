@@ -1,19 +1,8 @@
 {
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "name": "What types of cases do you handle?",
-  "description": "Car accidents, e-bike/motorcycle/truck accidents, dog bites, wrongful death—focused on maximum settlements. attorneydustin+2",
   "url": "https://attorneydustin.com/faq/what-types-of-cases-do-you-handle",
-  "mainEntity": [
-    {
-      "@type": "Question",
-      "name": "What types of cases do you handle?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "Car accidents, e-bike/motorcycle/truck accidents, dog bites, wrongful death—focused on maximum settlements. attorneydustin+2"
-      }
-    }
-  ],
+  "name": "What types of cases do you handle?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
   "speakable": {
     "@type": "SpeakableSpecification",
     "cssSelector": [
@@ -22,5 +11,16 @@
       ".faq-answer",
       "[itemprop=\"acceptedAnswer\"]"
     ]
-  }
+  },
+  "mainEntity": [
+    {
+      "name": "What types of cases do you handle?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Car accidents, e-bike/motorcycle/truck accidents, dog bites, wrongful death—focused on maximum settlements. attorneydustin+2",
+        "@type": "Answer"
+      }
+    }
+  ],
+  "description": "Car accidents, e-bike/motorcycle/truck accidents, dog bites, wrongful death—focused on maximum settlements. attorneydustin+2"
 }

@@ -1,19 +1,8 @@
 {
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "name": "Who liable if dog bites during walk?",
-  "description": "Walker/handler shares if negligent control.attorneydustin+1",
   "url": "https://attorneydustin.com/faq/who-liable-if-dog-bites-during-walk",
-  "mainEntity": [
-    {
-      "@type": "Question",
-      "name": "Who liable if dog bites during walk?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "Walker/handler shares if negligent control.attorneydustin+1"
-      }
-    }
-  ],
+  "name": "Who liable if dog bites during walk?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
   "speakable": {
     "@type": "SpeakableSpecification",
     "cssSelector": [
@@ -22,5 +11,16 @@
       ".faq-answer",
       "[itemprop=\"acceptedAnswer\"]"
     ]
-  }
+  },
+  "mainEntity": [
+    {
+      "name": "Who liable if dog bites during walk?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Walker/handler shares if negligent control.attorneydustin+1",
+        "@type": "Answer"
+      }
+    }
+  ],
+  "description": "Walker/handler shares if negligent control.attorneydustin+1"
 }

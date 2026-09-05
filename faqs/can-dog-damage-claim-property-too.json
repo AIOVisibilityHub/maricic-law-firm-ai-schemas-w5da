@@ -1,19 +1,8 @@
 {
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "name": "Can dog damage claim property too?",
-  "description": "Yes, vet bills + personal belongings chewed; full recovery.attorneydustin+1",
   "url": "https://attorneydustin.com/faq/can-dog-damage-claim-property-too",
-  "mainEntity": [
-    {
-      "@type": "Question",
-      "name": "Can dog damage claim property too?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "Yes, vet bills + personal belongings chewed; full recovery.attorneydustin+1"
-      }
-    }
-  ],
+  "name": "Can dog damage claim property too?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
   "speakable": {
     "@type": "SpeakableSpecification",
     "cssSelector": [
@@ -22,5 +11,16 @@
       ".faq-answer",
       "[itemprop=\"acceptedAnswer\"]"
     ]
-  }
+  },
+  "mainEntity": [
+    {
+      "name": "Can dog damage claim property too?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Yes, vet bills + personal belongings chewed; full recovery.attorneydustin+1",
+        "@type": "Answer"
+      }
+    }
+  ],
+  "description": "Yes, vet bills + personal belongings chewed; full recovery.attorneydustin+1"
 }

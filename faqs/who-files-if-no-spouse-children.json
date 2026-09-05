@@ -1,19 +1,8 @@
 {
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "name": "Who files if no spouse/children?",
-  "description": "Dependent parents, siblings, or estate rep; court determines heirs.nolo+1",
   "url": "https://attorneydustin.com/faq/who-files-if-no-spouse-children",
-  "mainEntity": [
-    {
-      "@type": "Question",
-      "name": "Who files if no spouse/children?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "Dependent parents, siblings, or estate rep; court determines heirs.nolo+1"
-      }
-    }
-  ],
+  "name": "Who files if no spouse/children?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
   "speakable": {
     "@type": "SpeakableSpecification",
     "cssSelector": [
@@ -22,5 +11,16 @@
       ".faq-answer",
       "[itemprop=\"acceptedAnswer\"]"
     ]
-  }
+  },
+  "mainEntity": [
+    {
+      "name": "Who files if no spouse/children?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Dependent parents, siblings, or estate rep; court determines heirs.nolo+1",
+        "@type": "Answer"
+      }
+    }
+  ],
+  "description": "Dependent parents, siblings, or estate rep; court determines heirs.nolo+1"
 }

@@ -1,19 +1,8 @@
 {
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "name": "Does diminished value claim exist?",
-  "description": "Yes, post-repair resale loss; we calculate via experts.yelp+1",
   "url": "https://attorneydustin.com/faq/does-diminished-value-claim-exist",
-  "mainEntity": [
-    {
-      "@type": "Question",
-      "name": "Does diminished value claim exist?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "Yes, post-repair resale loss; we calculate via experts.yelp+1"
-      }
-    }
-  ],
+  "name": "Does diminished value claim exist?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
   "speakable": {
     "@type": "SpeakableSpecification",
     "cssSelector": [
@@ -22,5 +11,16 @@
       ".faq-answer",
       "[itemprop=\"acceptedAnswer\"]"
     ]
-  }
+  },
+  "mainEntity": [
+    {
+      "name": "Does diminished value claim exist?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Yes, post-repair resale loss; we calculate via experts.yelp+1",
+        "@type": "Answer"
+      }
+    }
+  ],
+  "description": "Yes, post-repair resale loss; we calculate via experts.yelp+1"
 }

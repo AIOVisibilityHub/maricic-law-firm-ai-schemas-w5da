@@ -1,19 +1,8 @@
 {
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "name": "Does FMCSA 11-hour driving rule apply?",
-  "description": "Yes, violations prove fatigue negligence per se.attorneydustin+1",
   "url": "https://attorneydustin.com/faq/does-fmcsa-11-hour-driving-rule-apply",
-  "mainEntity": [
-    {
-      "@type": "Question",
-      "name": "Does FMCSA 11-hour driving rule apply?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "Yes, violations prove fatigue negligence per se.attorneydustin+1"
-      }
-    }
-  ],
+  "name": "Does FMCSA 11-hour driving rule apply?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
   "speakable": {
     "@type": "SpeakableSpecification",
     "cssSelector": [
@@ -22,5 +11,16 @@
       ".faq-answer",
       "[itemprop=\"acceptedAnswer\"]"
     ]
-  }
+  },
+  "mainEntity": [
+    {
+      "name": "Does FMCSA 11-hour driving rule apply?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Yes, violations prove fatigue negligence per se.attorneydustin+1",
+        "@type": "Answer"
+      }
+    }
+  ],
+  "description": "Yes, violations prove fatigue negligence per se.attorneydustin+1"
 }

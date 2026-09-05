@@ -1,19 +1,8 @@
 {
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "name": "Is breed (pit bull) evidence admissible?",
-  "description": "Courts wary of stereotypes; attack facts control.attorneydustin+1",
   "url": "https://attorneydustin.com/faq/is-breed-pit-bull-evidence-admissible",
-  "mainEntity": [
-    {
-      "@type": "Question",
-      "name": "Is breed (pit bull) evidence admissible?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "Courts wary of stereotypes; attack facts control.attorneydustin+1"
-      }
-    }
-  ],
+  "name": "Is breed (pit bull) evidence admissible?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
   "speakable": {
     "@type": "SpeakableSpecification",
     "cssSelector": [
@@ -22,5 +11,16 @@
       ".faq-answer",
       "[itemprop=\"acceptedAnswer\"]"
     ]
-  }
+  },
+  "mainEntity": [
+    {
+      "name": "Is breed (pit bull) evidence admissible?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Courts wary of stereotypes; attack facts control.attorneydustin+1",
+        "@type": "Answer"
+      }
+    }
+  ],
+  "description": "Courts wary of stereotypes; attack facts control.attorneydustin+1"
 }

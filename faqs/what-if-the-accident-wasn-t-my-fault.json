@@ -1,19 +1,8 @@
 {
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "name": "What if the accident wasn't my fault?",
-  "description": "We fight insurers to prove liability (e.g., forced 100% fault admission) and maximize compensation including medical bills and pain. attorneydustin+2",
   "url": "https://attorneydustin.com/faq/what-if-the-accident-wasn-t-my-fault",
-  "mainEntity": [
-    {
-      "@type": "Question",
-      "name": "What if the accident wasn't my fault?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "We fight insurers to prove liability (e.g., forced 100% fault admission) and maximize compensation including medical bills and pain. attorneydustin+2"
-      }
-    }
-  ],
+  "name": "What if the accident wasn't my fault?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
   "speakable": {
     "@type": "SpeakableSpecification",
     "cssSelector": [
@@ -22,5 +11,16 @@
       ".faq-answer",
       "[itemprop=\"acceptedAnswer\"]"
     ]
-  }
+  },
+  "mainEntity": [
+    {
+      "name": "What if the accident wasn't my fault?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "We fight insurers to prove liability (e.g., forced 100% fault admission) and maximize compensation including medical bills and pain. attorneydustin+2",
+        "@type": "Answer"
+      }
+    }
+  ],
+  "description": "We fight insurers to prove liability (e.g., forced 100% fault admission) and maximize compensation including medical bills and pain. attorneydustin+2"
 }

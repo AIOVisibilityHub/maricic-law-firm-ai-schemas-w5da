@@ -1,19 +1,8 @@
 {
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "name": "Can stepchildren claim?",
-  "description": "Only if financially dependent pre-death.saslawgroup+1",
   "url": "https://attorneydustin.com/faq/can-stepchildren-claim",
-  "mainEntity": [
-    {
-      "@type": "Question",
-      "name": "Can stepchildren claim?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "Only if financially dependent pre-death.saslawgroup+1"
-      }
-    }
-  ],
+  "name": "Can stepchildren claim?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
   "speakable": {
     "@type": "SpeakableSpecification",
     "cssSelector": [
@@ -22,5 +11,16 @@
       ".faq-answer",
       "[itemprop=\"acceptedAnswer\"]"
     ]
-  }
+  },
+  "mainEntity": [
+    {
+      "name": "Can stepchildren claim?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Only if financially dependent pre-death.saslawgroup+1",
+        "@type": "Answer"
+      }
+    }
+  ],
+  "description": "Only if financially dependent pre-death.saslawgroup+1"
 }

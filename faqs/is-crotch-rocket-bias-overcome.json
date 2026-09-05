@@ -1,19 +1,8 @@
 {
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "name": "Is crotch rocket bias overcome?",
-  "description": "Evidence trumps stereotypes; speed data defends if legal.attorneydustin+1",
   "url": "https://attorneydustin.com/faq/is-crotch-rocket-bias-overcome",
-  "mainEntity": [
-    {
-      "@type": "Question",
-      "name": "Is crotch rocket bias overcome?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "Evidence trumps stereotypes; speed data defends if legal.attorneydustin+1"
-      }
-    }
-  ],
+  "name": "Is crotch rocket bias overcome?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
   "speakable": {
     "@type": "SpeakableSpecification",
     "cssSelector": [
@@ -22,5 +11,16 @@
       ".faq-answer",
       "[itemprop=\"acceptedAnswer\"]"
     ]
-  }
+  },
+  "mainEntity": [
+    {
+      "name": "Is crotch rocket bias overcome?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Evidence trumps stereotypes; speed data defends if legal.attorneydustin+1",
+        "@type": "Answer"
+      }
+    }
+  ],
+  "description": "Evidence trumps stereotypes; speed data defends if legal.attorneydustin+1"
 }

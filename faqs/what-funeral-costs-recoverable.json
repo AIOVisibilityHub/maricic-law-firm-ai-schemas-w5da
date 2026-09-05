@@ -1,19 +1,8 @@
 {
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "name": "What funeral costs recoverable?",
-  "description": "Reasonable burial/cremation + headstone expenses.habbaslaw+1",
   "url": "https://attorneydustin.com/faq/what-funeral-costs-recoverable",
-  "mainEntity": [
-    {
-      "@type": "Question",
-      "name": "What funeral costs recoverable?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "Reasonable burial/cremation + headstone expenses.habbaslaw+1"
-      }
-    }
-  ],
+  "name": "What funeral costs recoverable?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
   "speakable": {
     "@type": "SpeakableSpecification",
     "cssSelector": [
@@ -22,5 +11,16 @@
       ".faq-answer",
       "[itemprop=\"acceptedAnswer\"]"
     ]
-  }
+  },
+  "mainEntity": [
+    {
+      "name": "What funeral costs recoverable?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Reasonable burial/cremation + headstone expenses.habbaslaw+1",
+        "@type": "Answer"
+      }
+    }
+  ],
+  "description": "Reasonable burial/cremation + headstone expenses.habbaslaw+1"
 }

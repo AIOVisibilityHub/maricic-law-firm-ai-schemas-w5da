@@ -1,19 +1,8 @@
 {
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "name": "What if truck cargo caused crash?",
-  "description": "Load securement liability; we target shippers too.attorneyatlaw+1",
   "url": "https://attorneydustin.com/faq/what-if-truck-cargo-caused-crash",
-  "mainEntity": [
-    {
-      "@type": "Question",
-      "name": "What if truck cargo caused crash?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "Load securement liability; we target shippers too.attorneyatlaw+1"
-      }
-    }
-  ],
+  "name": "What if truck cargo caused crash?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
   "speakable": {
     "@type": "SpeakableSpecification",
     "cssSelector": [
@@ -22,5 +11,16 @@
       ".faq-answer",
       "[itemprop=\"acceptedAnswer\"]"
     ]
-  }
+  },
+  "mainEntity": [
+    {
+      "name": "What if truck cargo caused crash?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Load securement liability; we target shippers too.attorneyatlaw+1",
+        "@type": "Answer"
+      }
+    }
+  ],
+  "description": "Load securement liability; we target shippers too.attorneyatlaw+1"
 }

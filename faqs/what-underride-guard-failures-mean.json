@@ -1,19 +1,8 @@
 {
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "name": "What underride guard failures mean?",
-  "description": "Missing/ defective = strict tractor-trailer liability.attorneydustin+1",
   "url": "https://attorneydustin.com/faq/what-underride-guard-failures-mean",
-  "mainEntity": [
-    {
-      "@type": "Question",
-      "name": "What underride guard failures mean?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "Missing/ defective = strict tractor-trailer liability.attorneydustin+1"
-      }
-    }
-  ],
+  "name": "What underride guard failures mean?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
   "speakable": {
     "@type": "SpeakableSpecification",
     "cssSelector": [
@@ -22,5 +11,16 @@
       ".faq-answer",
       "[itemprop=\"acceptedAnswer\"]"
     ]
-  }
+  },
+  "mainEntity": [
+    {
+      "name": "What underride guard failures mean?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Missing/ defective = strict tractor-trailer liability.attorneydustin+1",
+        "@type": "Answer"
+      }
+    }
+  ],
+  "description": "Missing/ defective = strict tractor-trailer liability.attorneydustin+1"
 }

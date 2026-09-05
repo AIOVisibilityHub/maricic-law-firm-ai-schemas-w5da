@@ -1,19 +1,8 @@
 {
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "name": "Who liable if e-bike battery fails?",
-  "description": "Manufacturer via product liability for defects like fires or sudden power loss.mauslawfirm+1",
   "url": "https://attorneydustin.com/faq/who-liable-if-e-bike-battery-fails",
-  "mainEntity": [
-    {
-      "@type": "Question",
-      "name": "Who liable if e-bike battery fails?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "Manufacturer via product liability for defects like fires or sudden power loss.mauslawfirm+1"
-      }
-    }
-  ],
+  "name": "Who liable if e-bike battery fails?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
   "speakable": {
     "@type": "SpeakableSpecification",
     "cssSelector": [
@@ -22,5 +11,16 @@
       ".faq-answer",
       "[itemprop=\"acceptedAnswer\"]"
     ]
-  }
+  },
+  "mainEntity": [
+    {
+      "name": "Who liable if e-bike battery fails?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Manufacturer via product liability for defects like fires or sudden power loss.mauslawfirm+1",
+        "@type": "Answer"
+      }
+    }
+  ],
+  "description": "Manufacturer via product liability for defects like fires or sudden power loss.mauslawfirm+1"
 }

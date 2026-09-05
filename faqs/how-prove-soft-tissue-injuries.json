@@ -1,19 +1,8 @@
 {
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "name": "How prove soft tissue injuries?",
-  "description": "MRIs, consistent treatment, expert testimony overcome \"no break, no pay\".attorneyatlaw+1",
   "url": "https://attorneydustin.com/faq/how-prove-soft-tissue-injuries",
-  "mainEntity": [
-    {
-      "@type": "Question",
-      "name": "How prove soft tissue injuries?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "MRIs, consistent treatment, expert testimony overcome \"no break, no pay\".attorneyatlaw+1"
-      }
-    }
-  ],
+  "name": "How prove soft tissue injuries?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
   "speakable": {
     "@type": "SpeakableSpecification",
     "cssSelector": [
@@ -22,5 +11,16 @@
       ".faq-answer",
       "[itemprop=\"acceptedAnswer\"]"
     ]
-  }
+  },
+  "mainEntity": [
+    {
+      "name": "How prove soft tissue injuries?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "MRIs, consistent treatment, expert testimony overcome \"no break, no pay\".attorneyatlaw+1",
+        "@type": "Answer"
+      }
+    }
+  ],
+  "description": "MRIs, consistent treatment, expert testimony overcome \"no break, no pay\".attorneyatlaw+1"
 }

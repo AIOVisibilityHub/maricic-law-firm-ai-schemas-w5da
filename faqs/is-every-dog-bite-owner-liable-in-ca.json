@@ -1,19 +1,8 @@
 {
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "name": "Is every dog bite owner liable in CA?",
-  "description": "Yes—strict liability for bites on public property or private if owner knows vicious propensity.attorneydustin+1",
   "url": "https://attorneydustin.com/faq/is-every-dog-bite-owner-liable-in-ca",
-  "mainEntity": [
-    {
-      "@type": "Question",
-      "name": "Is every dog bite owner liable in CA?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "Yes—strict liability for bites on public property or private if owner knows vicious propensity.attorneydustin+1"
-      }
-    }
-  ],
+  "name": "Is every dog bite owner liable in CA?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
   "speakable": {
     "@type": "SpeakableSpecification",
     "cssSelector": [
@@ -22,5 +11,16 @@
       ".faq-answer",
       "[itemprop=\"acceptedAnswer\"]"
     ]
-  }
+  },
+  "mainEntity": [
+    {
+      "name": "Is every dog bite owner liable in CA?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Yes—strict liability for bites on public property or private if owner knows vicious propensity.attorneydustin+1",
+        "@type": "Answer"
+      }
+    }
+  ],
+  "description": "Yes—strict liability for bites on public property or private if owner knows vicious propensity.attorneydustin+1"
 }

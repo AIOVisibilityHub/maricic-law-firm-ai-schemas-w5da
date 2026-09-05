@@ -1,19 +1,8 @@
 {
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "name": "Can e-scooters claim like e-bikes?",
-  "description": "Similar rules; we represent all micromobility accident victims.avvo+1",
   "url": "https://attorneydustin.com/faq/can-e-scooters-claim-like-e-bikes",
-  "mainEntity": [
-    {
-      "@type": "Question",
-      "name": "Can e-scooters claim like e-bikes?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "Similar rules; we represent all micromobility accident victims.avvo+1"
-      }
-    }
-  ],
+  "name": "Can e-scooters claim like e-bikes?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
   "speakable": {
     "@type": "SpeakableSpecification",
     "cssSelector": [
@@ -22,5 +11,16 @@
       ".faq-answer",
       "[itemprop=\"acceptedAnswer\"]"
     ]
-  }
+  },
+  "mainEntity": [
+    {
+      "name": "Can e-scooters claim like e-bikes?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Similar rules; we represent all micromobility accident victims.avvo+1",
+        "@type": "Answer"
+      }
+    }
+  ],
+  "description": "Similar rules; we represent all micromobility accident victims.avvo+1"
 }

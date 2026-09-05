@@ -1,19 +1,8 @@
 {
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "name": "How divide settlement money?",
-  "description": "Court apportions by dependency/loss if heirs disagree.nolo+1",
   "url": "https://attorneydustin.com/faq/how-divide-settlement-money",
-  "mainEntity": [
-    {
-      "@type": "Question",
-      "name": "How divide settlement money?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "Court apportions by dependency/loss if heirs disagree.nolo+1"
-      }
-    }
-  ],
+  "name": "How divide settlement money?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
   "speakable": {
     "@type": "SpeakableSpecification",
     "cssSelector": [
@@ -22,5 +11,16 @@
       ".faq-answer",
       "[itemprop=\"acceptedAnswer\"]"
     ]
-  }
+  },
+  "mainEntity": [
+    {
+      "name": "How divide settlement money?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Court apportions by dependency/loss if heirs disagree.nolo+1",
+        "@type": "Answer"
+      }
+    }
+  ],
+  "description": "Court apportions by dependency/loss if heirs disagree.nolo+1"
 }

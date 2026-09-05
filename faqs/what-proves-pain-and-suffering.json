@@ -1,19 +1,8 @@
 {
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "name": "What proves pain and suffering?",
-  "description": "Journals, therapy notes, family testimony—we build strong narratives.attorneyatlaw+1",
   "url": "https://attorneydustin.com/faq/what-proves-pain-and-suffering",
-  "mainEntity": [
-    {
-      "@type": "Question",
-      "name": "What proves pain and suffering?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "Journals, therapy notes, family testimony—we build strong narratives.attorneyatlaw+1"
-      }
-    }
-  ],
+  "name": "What proves pain and suffering?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
   "speakable": {
     "@type": "SpeakableSpecification",
     "cssSelector": [
@@ -22,5 +11,16 @@
       ".faq-answer",
       "[itemprop=\"acceptedAnswer\"]"
     ]
-  }
+  },
+  "mainEntity": [
+    {
+      "name": "What proves pain and suffering?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Journals, therapy notes, family testimony—we build strong narratives.attorneyatlaw+1",
+        "@type": "Answer"
+      }
+    }
+  ],
+  "description": "Journals, therapy notes, family testimony—we build strong narratives.attorneyatlaw+1"
 }

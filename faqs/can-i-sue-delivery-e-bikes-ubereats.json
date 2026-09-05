@@ -1,19 +1,8 @@
 {
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "name": "Can I sue delivery e-bikes (UberEats)?",
-  "description": "Commercial policies apply; higher limits for gig workers.mauslawfirm+1",
   "url": "https://attorneydustin.com/faq/can-i-sue-delivery-e-bikes-ubereats",
-  "mainEntity": [
-    {
-      "@type": "Question",
-      "name": "Can I sue delivery e-bikes (UberEats)?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "Commercial policies apply; higher limits for gig workers.mauslawfirm+1"
-      }
-    }
-  ],
+  "name": "Can I sue delivery e-bikes (UberEats)?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
   "speakable": {
     "@type": "SpeakableSpecification",
     "cssSelector": [
@@ -22,5 +11,16 @@
       ".faq-answer",
       "[itemprop=\"acceptedAnswer\"]"
     ]
-  }
+  },
+  "mainEntity": [
+    {
+      "name": "Can I sue delivery e-bikes (UberEats)?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Commercial policies apply; higher limits for gig workers.mauslawfirm+1",
+        "@type": "Answer"
+      }
+    }
+  ],
+  "description": "Commercial policies apply; higher limits for gig workers.mauslawfirm+1"
 }

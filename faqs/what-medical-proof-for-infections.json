@@ -1,19 +1,8 @@
 {
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "name": "What medical proof for infections?",
-  "description": "ER records, cultures showing MRSA/rabies risk—all compensable.attorneydustin+1",
   "url": "https://attorneydustin.com/faq/what-medical-proof-for-infections",
-  "mainEntity": [
-    {
-      "@type": "Question",
-      "name": "What medical proof for infections?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "ER records, cultures showing MRSA/rabies risk—all compensable.attorneydustin+1"
-      }
-    }
-  ],
+  "name": "What medical proof for infections?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
   "speakable": {
     "@type": "SpeakableSpecification",
     "cssSelector": [
@@ -22,5 +11,16 @@
       ".faq-answer",
       "[itemprop=\"acceptedAnswer\"]"
     ]
-  }
+  },
+  "mainEntity": [
+    {
+      "name": "What medical proof for infections?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "ER records, cultures showing MRSA/rabies risk—all compensable.attorneydustin+1",
+        "@type": "Answer"
+      }
+    }
+  ],
+  "description": "ER records, cultures showing MRSA/rabies risk—all compensable.attorneydustin+1"
 }

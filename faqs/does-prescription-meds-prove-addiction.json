@@ -1,19 +1,8 @@
 {
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "name": "Does prescription meds prove addiction?",
-  "description": "No, legitimate pain management; pharmacy records support claims.attorneydustin+1",
   "url": "https://attorneydustin.com/faq/does-prescription-meds-prove-addiction",
-  "mainEntity": [
-    {
-      "@type": "Question",
-      "name": "Does prescription meds prove addiction?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "No, legitimate pain management; pharmacy records support claims.attorneydustin+1"
-      }
-    }
-  ],
+  "name": "Does prescription meds prove addiction?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
   "speakable": {
     "@type": "SpeakableSpecification",
     "cssSelector": [
@@ -22,5 +11,16 @@
       ".faq-answer",
       "[itemprop=\"acceptedAnswer\"]"
     ]
-  }
+  },
+  "mainEntity": [
+    {
+      "name": "Does prescription meds prove addiction?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "No, legitimate pain management; pharmacy records support claims.attorneydustin+1",
+        "@type": "Answer"
+      }
+    }
+  ],
+  "description": "No, legitimate pain management; pharmacy records support claims.attorneydustin+1"
 }

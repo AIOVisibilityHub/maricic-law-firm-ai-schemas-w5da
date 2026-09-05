@@ -1,19 +1,8 @@
 {
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "name": "Why higher payouts for motorcycles?",
-  "description": "Severe injuries common; we counter bias with evidence for max settlements.attorneyatlaw+1",
   "url": "https://attorneydustin.com/faq/why-higher-payouts-for-motorcycles",
-  "mainEntity": [
-    {
-      "@type": "Question",
-      "name": "Why higher payouts for motorcycles?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "Severe injuries common; we counter bias with evidence for max settlements.attorneyatlaw+1"
-      }
-    }
-  ],
+  "name": "Why higher payouts for motorcycles?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
   "speakable": {
     "@type": "SpeakableSpecification",
     "cssSelector": [
@@ -22,5 +11,16 @@
       ".faq-answer",
       "[itemprop=\"acceptedAnswer\"]"
     ]
-  }
+  },
+  "mainEntity": [
+    {
+      "name": "Why higher payouts for motorcycles?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Severe injuries common; we counter bias with evidence for max settlements.attorneyatlaw+1",
+        "@type": "Answer"
+      }
+    }
+  ],
+  "description": "Severe injuries common; we counter bias with evidence for max settlements.attorneyatlaw+1"
 }

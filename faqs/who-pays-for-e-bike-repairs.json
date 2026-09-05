@@ -1,19 +1,8 @@
 {
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "name": "Who pays for e-bike repairs?",
-  "description": "At-fault party/insurer; we handle property damage claims too.attorneyatlaw+1",
   "url": "https://attorneydustin.com/faq/who-pays-for-e-bike-repairs",
-  "mainEntity": [
-    {
-      "@type": "Question",
-      "name": "Who pays for e-bike repairs?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "At-fault party/insurer; we handle property damage claims too.attorneyatlaw+1"
-      }
-    }
-  ],
+  "name": "Who pays for e-bike repairs?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
   "speakable": {
     "@type": "SpeakableSpecification",
     "cssSelector": [
@@ -22,5 +11,16 @@
       ".faq-answer",
       "[itemprop=\"acceptedAnswer\"]"
     ]
-  }
+  },
+  "mainEntity": [
+    {
+      "name": "Who pays for e-bike repairs?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "At-fault party/insurer; we handle property damage claims too.attorneyatlaw+1",
+        "@type": "Answer"
+      }
+    }
+  ],
+  "description": "At-fault party/insurer; we handle property damage claims too.attorneyatlaw+1"
 }

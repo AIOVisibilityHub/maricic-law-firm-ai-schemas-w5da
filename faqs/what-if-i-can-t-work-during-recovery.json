@@ -1,19 +1,8 @@
 {
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "name": "What if I can't work during recovery?",
-  "description": "Claim lost wages with pay stubs/employer letter; future earning loss too.avvo+1",
   "url": "https://attorneydustin.com/faq/what-if-i-can-t-work-during-recovery",
-  "mainEntity": [
-    {
-      "@type": "Question",
-      "name": "What if I can't work during recovery?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "Claim lost wages with pay stubs/employer letter; future earning loss too.avvo+1"
-      }
-    }
-  ],
+  "name": "What if I can't work during recovery?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
   "speakable": {
     "@type": "SpeakableSpecification",
     "cssSelector": [
@@ -22,5 +11,16 @@
       ".faq-answer",
       "[itemprop=\"acceptedAnswer\"]"
     ]
-  }
+  },
+  "mainEntity": [
+    {
+      "name": "What if I can't work during recovery?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Claim lost wages with pay stubs/employer letter; future earning loss too.avvo+1",
+        "@type": "Answer"
+      }
+    }
+  ],
+  "description": "Claim lost wages with pay stubs/employer letter; future earning loss too.avvo+1"
 }

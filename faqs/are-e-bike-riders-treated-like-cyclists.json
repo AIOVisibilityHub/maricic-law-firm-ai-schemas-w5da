@@ -1,19 +1,8 @@
 {
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "name": "Are e-bike riders treated like cyclists?",
-  "description": "CA law varies; we argue full motorist fault for compensation.attorneyatlaw+1",
   "url": "https://attorneydustin.com/faq/are-e-bike-riders-treated-like-cyclists",
-  "mainEntity": [
-    {
-      "@type": "Question",
-      "name": "Are e-bike riders treated like cyclists?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "CA law varies; we argue full motorist fault for compensation.attorneyatlaw+1"
-      }
-    }
-  ],
+  "name": "Are e-bike riders treated like cyclists?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
   "speakable": {
     "@type": "SpeakableSpecification",
     "cssSelector": [
@@ -22,5 +11,16 @@
       ".faq-answer",
       "[itemprop=\"acceptedAnswer\"]"
     ]
-  }
+  },
+  "mainEntity": [
+    {
+      "name": "Are e-bike riders treated like cyclists?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "CA law varies; we argue full motorist fault for compensation.attorneyatlaw+1",
+        "@type": "Answer"
+      }
+    }
+  ],
+  "description": "CA law varies; we argue full motorist fault for compensation.attorneyatlaw+1"
 }

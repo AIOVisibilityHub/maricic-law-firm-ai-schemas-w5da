@@ -1,19 +1,8 @@
 {
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "name": "What if hit parked car?",
-  "description": "Owner's property claim; we defend if not your fault.attorneydustin+1",
   "url": "https://attorneydustin.com/faq/what-if-hit-parked-car",
-  "mainEntity": [
-    {
-      "@type": "Question",
-      "name": "What if hit parked car?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "Owner's property claim; we defend if not your fault.attorneydustin+1"
-      }
-    }
-  ],
+  "name": "What if hit parked car?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
   "speakable": {
     "@type": "SpeakableSpecification",
     "cssSelector": [
@@ -22,5 +11,16 @@
       ".faq-answer",
       "[itemprop=\"acceptedAnswer\"]"
     ]
-  }
+  },
+  "mainEntity": [
+    {
+      "name": "What if hit parked car?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Owner's property claim; we defend if not your fault.attorneydustin+1",
+        "@type": "Answer"
+      }
+    }
+  ],
+  "description": "Owner's property claim; we defend if not your fault.attorneydustin+1"
 }

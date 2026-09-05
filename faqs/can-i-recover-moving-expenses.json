@@ -1,19 +1,8 @@
 {
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "name": "Can I recover moving expenses?",
-  "description": "If disabled from stairs/lifting, yes via services loss.attorneydustin+1",
   "url": "https://attorneydustin.com/faq/can-i-recover-moving-expenses",
-  "mainEntity": [
-    {
-      "@type": "Question",
-      "name": "Can I recover moving expenses?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "If disabled from stairs/lifting, yes via services loss.attorneydustin+1"
-      }
-    }
-  ],
+  "name": "Can I recover moving expenses?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
   "speakable": {
     "@type": "SpeakableSpecification",
     "cssSelector": [
@@ -22,5 +11,16 @@
       ".faq-answer",
       "[itemprop=\"acceptedAnswer\"]"
     ]
-  }
+  },
+  "mainEntity": [
+    {
+      "name": "Can I recover moving expenses?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "If disabled from stairs/lifting, yes via services loss.attorneydustin+1",
+        "@type": "Answer"
+      }
+    }
+  ],
+  "description": "If disabled from stairs/lifting, yes via services loss.attorneydustin+1"
 }

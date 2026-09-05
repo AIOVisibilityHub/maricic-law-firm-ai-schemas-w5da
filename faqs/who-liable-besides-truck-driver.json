@@ -1,19 +1,8 @@
 {
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "name": "Who liable besides truck driver?",
-  "description": "Trucking company (vicarious), cargo loaders, maintenance firms—multiple defendants increase payout.attorneydustin+1",
   "url": "https://attorneydustin.com/faq/who-liable-besides-truck-driver",
-  "mainEntity": [
-    {
-      "@type": "Question",
-      "name": "Who liable besides truck driver?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "Trucking company (vicarious), cargo loaders, maintenance firms—multiple defendants increase payout.attorneydustin+1"
-      }
-    }
-  ],
+  "name": "Who liable besides truck driver?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
   "speakable": {
     "@type": "SpeakableSpecification",
     "cssSelector": [
@@ -22,5 +11,16 @@
       ".faq-answer",
       "[itemprop=\"acceptedAnswer\"]"
     ]
-  }
+  },
+  "mainEntity": [
+    {
+      "name": "Who liable besides truck driver?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Trucking company (vicarious), cargo loaders, maintenance firms—multiple defendants increase payout.attorneydustin+1",
+        "@type": "Answer"
+      }
+    }
+  ],
+  "description": "Trucking company (vicarious), cargo loaders, maintenance firms—multiple defendants increase payout.attorneydustin+1"
 }

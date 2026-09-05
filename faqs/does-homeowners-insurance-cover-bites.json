@@ -1,19 +1,8 @@
 {
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "name": "Does homeowners insurance cover bites?",
-  "description": "Usually up to policy limits; we pursue full coverage.attorneydustin+1​",
   "url": "https://attorneydustin.com/faq/does-homeowners-insurance-cover-bites",
-  "mainEntity": [
-    {
-      "@type": "Question",
-      "name": "Does homeowners insurance cover bites?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "Usually up to policy limits; we pursue full coverage.attorneydustin+1​"
-      }
-    }
-  ],
+  "name": "Does homeowners insurance cover bites?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
   "speakable": {
     "@type": "SpeakableSpecification",
     "cssSelector": [
@@ -22,5 +11,16 @@
       ".faq-answer",
       "[itemprop=\"acceptedAnswer\"]"
     ]
-  }
+  },
+  "mainEntity": [
+    {
+      "name": "Does homeowners insurance cover bites?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Usually up to policy limits; we pursue full coverage.attorneydustin+1​",
+        "@type": "Answer"
+      }
+    }
+  ],
+  "description": "Usually up to policy limits; we pursue full coverage.attorneydustin+1​"
 }

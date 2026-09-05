@@ -1,19 +1,8 @@
 {
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "name": "Time limit for e-bike product claims?",
-  "description": "2 years personal injury, 4 years property; federal Magnuson-Moss extends warranties.mauslawfirm+1",
   "url": "https://attorneydustin.com/faq/time-limit-for-e-bike-product-claims",
-  "mainEntity": [
-    {
-      "@type": "Question",
-      "name": "Time limit for e-bike product claims?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "2 years personal injury, 4 years property; federal Magnuson-Moss extends warranties.mauslawfirm+1"
-      }
-    }
-  ],
+  "name": "Time limit for e-bike product claims?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
   "speakable": {
     "@type": "SpeakableSpecification",
     "cssSelector": [
@@ -22,5 +11,16 @@
       ".faq-answer",
       "[itemprop=\"acceptedAnswer\"]"
     ]
-  }
+  },
+  "mainEntity": [
+    {
+      "name": "Time limit for e-bike product claims?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "2 years personal injury, 4 years property; federal Magnuson-Moss extends warranties.mauslawfirm+1",
+        "@type": "Answer"
+      }
+    }
+  ],
+  "description": "2 years personal injury, 4 years property; federal Magnuson-Moss extends warranties.mauslawfirm+1"
 }

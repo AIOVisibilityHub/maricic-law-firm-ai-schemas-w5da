@@ -1,19 +1,8 @@
 {
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "name": "Do service dogs change liability?",
-  "description": "Owner still liable; ADA doesn't shield negligence.avvo+1",
   "url": "https://attorneydustin.com/faq/do-service-dogs-change-liability",
-  "mainEntity": [
-    {
-      "@type": "Question",
-      "name": "Do service dogs change liability?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "Owner still liable; ADA doesn't shield negligence.avvo+1"
-      }
-    }
-  ],
+  "name": "Do service dogs change liability?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
   "speakable": {
     "@type": "SpeakableSpecification",
     "cssSelector": [
@@ -22,5 +11,16 @@
       ".faq-answer",
       "[itemprop=\"acceptedAnswer\"]"
     ]
-  }
+  },
+  "mainEntity": [
+    {
+      "name": "Do service dogs change liability?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Owner still liable; ADA doesn't shield negligence.avvo+1",
+        "@type": "Answer"
+      }
+    }
+  ],
+  "description": "Owner still liable; ADA doesn't shield negligence.avvo+1"
 }

@@ -1,19 +1,8 @@
 {
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "name": "Do surveillance cams hurt cases?",
-  "description": "Insurers use them; consistent behavior with injuries wins.avvo+1",
   "url": "https://attorneydustin.com/faq/do-surveillance-cams-hurt-cases",
-  "mainEntity": [
-    {
-      "@type": "Question",
-      "name": "Do surveillance cams hurt cases?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "Insurers use them; consistent behavior with injuries wins.avvo+1"
-      }
-    }
-  ],
+  "name": "Do surveillance cams hurt cases?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
   "speakable": {
     "@type": "SpeakableSpecification",
     "cssSelector": [
@@ -22,5 +11,16 @@
       ".faq-answer",
       "[itemprop=\"acceptedAnswer\"]"
     ]
-  }
+  },
+  "mainEntity": [
+    {
+      "name": "Do surveillance cams hurt cases?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Insurers use them; consistent behavior with injuries wins.avvo+1",
+        "@type": "Answer"
+      }
+    }
+  ],
+  "description": "Insurers use them; consistent behavior with injuries wins.avvo+1"
 }

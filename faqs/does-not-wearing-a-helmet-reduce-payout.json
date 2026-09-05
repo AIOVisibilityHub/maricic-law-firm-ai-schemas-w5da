@@ -1,19 +1,8 @@
 {
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "name": "Does not wearing a helmet reduce payout?",
-  "description": "CA requires helmets; non-compliance cuts recovery by fault percentage, but driver negligence primary.attorneydustin+1",
   "url": "https://attorneydustin.com/faq/does-not-wearing-a-helmet-reduce-payout",
-  "mainEntity": [
-    {
-      "@type": "Question",
-      "name": "Does not wearing a helmet reduce payout?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "CA requires helmets; non-compliance cuts recovery by fault percentage, but driver negligence primary.attorneydustin+1"
-      }
-    }
-  ],
+  "name": "Does not wearing a helmet reduce payout?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
   "speakable": {
     "@type": "SpeakableSpecification",
     "cssSelector": [
@@ -22,5 +11,16 @@
       ".faq-answer",
       "[itemprop=\"acceptedAnswer\"]"
     ]
-  }
+  },
+  "mainEntity": [
+    {
+      "name": "Does not wearing a helmet reduce payout?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "CA requires helmets; non-compliance cuts recovery by fault percentage, but driver negligence primary.attorneydustin+1",
+        "@type": "Answer"
+      }
+    }
+  ],
+  "description": "CA requires helmets; non-compliance cuts recovery by fault percentage, but driver negligence primary.attorneydustin+1"
 }

@@ -1,19 +1,8 @@
 {
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "name": "What if bite through fence?",
-  "description": "Owner still liable; trespasser rules rarely apply—we prove negligence.attorneydustin+1",
   "url": "https://attorneydustin.com/faq/what-if-bite-through-fence",
-  "mainEntity": [
-    {
-      "@type": "Question",
-      "name": "What if bite through fence?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "Owner still liable; trespasser rules rarely apply—we prove negligence.attorneydustin+1"
-      }
-    }
-  ],
+  "name": "What if bite through fence?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
   "speakable": {
     "@type": "SpeakableSpecification",
     "cssSelector": [
@@ -22,5 +11,16 @@
       ".faq-answer",
       "[itemprop=\"acceptedAnswer\"]"
     ]
-  }
+  },
+  "mainEntity": [
+    {
+      "name": "What if bite through fence?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Owner still liable; trespasser rules rarely apply—we prove negligence.attorneydustin+1",
+        "@type": "Answer"
+      }
+    }
+  ],
+  "description": "Owner still liable; trespasser rules rarely apply—we prove negligence.attorneydustin+1"
 }

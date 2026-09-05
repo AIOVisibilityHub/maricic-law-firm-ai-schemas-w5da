@@ -1,19 +1,8 @@
 {
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "name": "Can neighbors sue for unleashed dog?",
-  "description": "Yes if municipal leash laws violated—negligence per se.yelp+1​",
   "url": "https://attorneydustin.com/faq/can-neighbors-sue-for-unleashed-dog",
-  "mainEntity": [
-    {
-      "@type": "Question",
-      "name": "Can neighbors sue for unleashed dog?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "Yes if municipal leash laws violated—negligence per se.yelp+1​"
-      }
-    }
-  ],
+  "name": "Can neighbors sue for unleashed dog?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
   "speakable": {
     "@type": "SpeakableSpecification",
     "cssSelector": [
@@ -22,5 +11,16 @@
       ".faq-answer",
       "[itemprop=\"acceptedAnswer\"]"
     ]
-  }
+  },
+  "mainEntity": [
+    {
+      "name": "Can neighbors sue for unleashed dog?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Yes if municipal leash laws violated—negligence per se.yelp+1​",
+        "@type": "Answer"
+      }
+    }
+  ],
+  "description": "Yes if municipal leash laws violated—negligence per se.yelp+1​"
 }

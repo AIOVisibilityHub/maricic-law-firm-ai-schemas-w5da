@@ -1,19 +1,8 @@
 {
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "name": "What about phantom vehicle claims?",
-  "description": "Hit ghost rider pushing into traffic; witness/DMV cams needed.attorneyatlaw+1",
   "url": "https://attorneydustin.com/faq/what-about-phantom-vehicle-claims",
-  "mainEntity": [
-    {
-      "@type": "Question",
-      "name": "What about phantom vehicle claims?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "Hit ghost rider pushing into traffic; witness/DMV cams needed.attorneyatlaw+1"
-      }
-    }
-  ],
+  "name": "What about phantom vehicle claims?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
   "speakable": {
     "@type": "SpeakableSpecification",
     "cssSelector": [
@@ -22,5 +11,16 @@
       ".faq-answer",
       "[itemprop=\"acceptedAnswer\"]"
     ]
-  }
+  },
+  "mainEntity": [
+    {
+      "name": "What about phantom vehicle claims?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Hit ghost rider pushing into traffic; witness/DMV cams needed.attorneyatlaw+1",
+        "@type": "Answer"
+      }
+    }
+  ],
+  "description": "Hit ghost rider pushing into traffic; witness/DMV cams needed.attorneyatlaw+1"
 }

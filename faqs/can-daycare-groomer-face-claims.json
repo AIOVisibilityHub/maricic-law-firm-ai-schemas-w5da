@@ -1,19 +1,8 @@
 {
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "name": "Can daycare/groomer face claims?",
-  "description": "Yes if inadequate containment/supervision.attorneydustin+1",
   "url": "https://attorneydustin.com/faq/can-daycare-groomer-face-claims",
-  "mainEntity": [
-    {
-      "@type": "Question",
-      "name": "Can daycare/groomer face claims?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "Yes if inadequate containment/supervision.attorneydustin+1"
-      }
-    }
-  ],
+  "name": "Can daycare/groomer face claims?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
   "speakable": {
     "@type": "SpeakableSpecification",
     "cssSelector": [
@@ -22,5 +11,16 @@
       ".faq-answer",
       "[itemprop=\"acceptedAnswer\"]"
     ]
-  }
+  },
+  "mainEntity": [
+    {
+      "name": "Can daycare/groomer face claims?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Yes if inadequate containment/supervision.attorneydustin+1",
+        "@type": "Answer"
+      }
+    }
+  ],
+  "description": "Yes if inadequate containment/supervision.attorneydustin+1"
 }

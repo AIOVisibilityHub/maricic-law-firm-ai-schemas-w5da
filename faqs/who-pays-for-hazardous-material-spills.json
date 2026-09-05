@@ -1,19 +1,8 @@
 {
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "name": "Who pays for hazardous material spills?",
-  "description": "Transporter + shipper; environmental cleanup adds damages.attorneyatlaw+1",
   "url": "https://attorneydustin.com/faq/who-pays-for-hazardous-material-spills",
-  "mainEntity": [
-    {
-      "@type": "Question",
-      "name": "Who pays for hazardous material spills?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "Transporter + shipper; environmental cleanup adds damages.attorneyatlaw+1"
-      }
-    }
-  ],
+  "name": "Who pays for hazardous material spills?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
   "speakable": {
     "@type": "SpeakableSpecification",
     "cssSelector": [
@@ -22,5 +11,16 @@
       ".faq-answer",
       "[itemprop=\"acceptedAnswer\"]"
     ]
-  }
+  },
+  "mainEntity": [
+    {
+      "name": "Who pays for hazardous material spills?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Transporter + shipper; environmental cleanup adds damages.attorneyatlaw+1",
+        "@type": "Answer"
+      }
+    }
+  ],
+  "description": "Transporter + shipper; environmental cleanup adds damages.attorneyatlaw+1"
 }

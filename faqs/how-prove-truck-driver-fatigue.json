@@ -1,19 +1,8 @@
 {
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "name": "How prove truck driver fatigue?",
-  "description": "Logs, witnesses, cams; federal hours-of-service violations key.attorneydustin+1",
   "url": "https://attorneydustin.com/faq/how-prove-truck-driver-fatigue",
-  "mainEntity": [
-    {
-      "@type": "Question",
-      "name": "How prove truck driver fatigue?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "Logs, witnesses, cams; federal hours-of-service violations key.attorneydustin+1"
-      }
-    }
-  ],
+  "name": "How prove truck driver fatigue?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
   "speakable": {
     "@type": "SpeakableSpecification",
     "cssSelector": [
@@ -22,5 +11,16 @@
       ".faq-answer",
       "[itemprop=\"acceptedAnswer\"]"
     ]
-  }
+  },
+  "mainEntity": [
+    {
+      "name": "How prove truck driver fatigue?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Logs, witnesses, cams; federal hours-of-service violations key.attorneydustin+1",
+        "@type": "Answer"
+      }
+    }
+  ],
+  "description": "Logs, witnesses, cams; federal hours-of-service violations key.attorneydustin+1"
 }

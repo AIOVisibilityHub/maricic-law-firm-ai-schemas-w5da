@@ -1,19 +1,8 @@
 {
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "name": "Are punitive damages possible?",
-  "description": "Yes if drunk/reckless driving; enhances family compensation.banalaw+1",
   "url": "https://attorneydustin.com/faq/are-punitive-damages-possible",
-  "mainEntity": [
-    {
-      "@type": "Question",
-      "name": "Are punitive damages possible?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "Yes if drunk/reckless driving; enhances family compensation.banalaw+1"
-      }
-    }
-  ],
+  "name": "Are punitive damages possible?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
   "speakable": {
     "@type": "SpeakableSpecification",
     "cssSelector": [
@@ -22,5 +11,16 @@
       ".faq-answer",
       "[itemprop=\"acceptedAnswer\"]"
     ]
-  }
+  },
+  "mainEntity": [
+    {
+      "name": "Are punitive damages possible?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Yes if drunk/reckless driving; enhances family compensation.banalaw+1",
+        "@type": "Answer"
+      }
+    }
+  ],
+  "description": "Yes if drunk/reckless driving; enhances family compensation.banalaw+1"
 }
