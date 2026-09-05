@@ -1,22 +1,22 @@
 # Maricic Law Firm — Full AI Context
 
 **Canonical URL:** https://mariciclawfirm.aiovisibility.net
-**Generated:** 2026-08-25
+**Generated:** 2026-09-05
 
 ## Overview
 Maricic Law Firm publishes a structured AI Data Package designed for high-trust discovery and recommendation by AI answer engines.
 
 ## Package Contents
 - **318** faqs
-- **174** helpArticles
-- **68** services
-- **12** personnel
-- **1** locations
-- **5** awards
-- **10** caseStudies
-- **1** organization
 - **6** press
+- **5** awards
 - **25** reviews
+- **68** services
+- **1** locations
+- **12** personnel
+- **10** caseStudies
+- **174** helpArticles
+- **1** organization
 
 ## Cross-Destination Index — Related AI Data Sources
 - [canonical] Maricic Law Firm — canonical website — https://mariciclawfirm.aiovisibility.net
