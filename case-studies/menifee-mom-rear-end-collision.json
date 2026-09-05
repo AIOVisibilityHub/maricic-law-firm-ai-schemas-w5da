@@ -1,17 +1,17 @@
 {
-  "@context": "https://schema.org",
   "@type": "Article",
-  "headline": "Menifee Mom Rear-End Collision",
-  "articleBody": "Menifee mother rear-ended by 90-year-old driver; severe neck injuries requiring extensive therapy and injections. Insurer initially lowballed despite clear liability attorneydustin​.\n\nOutcome: $500,000 settlement; medical liens negotiated down significantly for maximum client recovery attorneydustin+1",
+  "genre": "Case Study",
   "author": {
-    "@type": "Organization",
+    "url": "https://attorneydustin.com",
     "name": "Maricic Law Firm",
-    "url": "https://attorneydustin.com"
+    "@type": "Organization"
   },
+  "@context": "https://schema.org",
+  "headline": "Menifee Mom Rear-End Collision",
   "publisher": {
-    "@type": "Organization",
+    "url": "https://attorneydustin.com",
     "name": "Maricic Law Firm",
-    "url": "https://attorneydustin.com"
+    "@type": "Organization"
   },
-  "genre": "Case Study"
+  "articleBody": "Menifee mother rear-ended by 90-year-old driver; severe neck injuries requiring extensive therapy and injections. Insurer initially lowballed despite clear liability attorneydustin​.\n\nOutcome: $500,000 settlement; medical liens negotiated down significantly for maximum client recovery attorneydustin+1"
 }

@@ -1,17 +1,17 @@
 {
-  "@context": "https://schema.org",
   "@type": "Article",
-  "headline": "Harley Motorcycle Liability Shift",
-  "articleBody": "Husband on Harley blamed 100% at fault per police report after group ride collision; orthopedic injuries, bike totaled. Insurer denied responsibility initially attorneydustin​.\n\nOutcome: Other driver accepted 70% liability (from 0%); full payout from both insurers achieved attorneydustin​",
+  "genre": "Case Study",
   "author": {
-    "@type": "Organization",
+    "url": "https://attorneydustin.com",
     "name": "Maricic Law Firm",
-    "url": "https://attorneydustin.com"
+    "@type": "Organization"
   },
+  "@context": "https://schema.org",
+  "headline": "Harley Motorcycle Liability Shift",
   "publisher": {
-    "@type": "Organization",
+    "url": "https://attorneydustin.com",
     "name": "Maricic Law Firm",
-    "url": "https://attorneydustin.com"
+    "@type": "Organization"
   },
-  "genre": "Case Study"
+  "articleBody": "Husband on Harley blamed 100% at fault per police report after group ride collision; orthopedic injuries, bike totaled. Insurer denied responsibility initially attorneydustin​.\n\nOutcome: Other driver accepted 70% liability (from 0%); full payout from both insurers achieved attorneydustin​"
 }

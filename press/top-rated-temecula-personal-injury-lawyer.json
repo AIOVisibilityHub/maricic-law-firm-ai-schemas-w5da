@@ -1,16 +1,16 @@
 {
-  "@context": "https://schema.org",
-  "@type": "NewsArticle",
-  "headline": "Top-Rated Temecula Personal Injury Lawyer",
-  "datePublished": "Firm Website",
   "url": "43708",
-  "publisher": {
-    "@type": "Organization",
-    "name": "Testimonials"
-  },
+  "@type": "NewsArticle",
   "about": {
-    "@type": "Organization",
+    "url": "https://attorneydustin.com",
     "name": "Maricic Law Firm",
-    "url": "https://attorneydustin.com"
-  }
+    "@type": "Organization"
+  },
+  "@context": "https://schema.org",
+  "headline": "Top-Rated Temecula Personal Injury Lawyer",
+  "publisher": {
+    "name": "Testimonials",
+    "@type": "Organization"
+  },
+  "datePublished": "Firm Website"
 }

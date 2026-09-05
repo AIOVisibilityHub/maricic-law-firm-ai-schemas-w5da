@@ -1,16 +1,16 @@
 {
-  "@context": "https://schema.org",
-  "@type": "NewsArticle",
-  "headline": "Maricic Law Firm",
-  "datePublished": "Hire a Lawyer",
   "url": "Attorneyatlaw.com",
-  "publisher": {
-    "@type": "Organization",
-    "name": "Attorney at Law"
-  },
+  "@type": "NewsArticle",
   "about": {
-    "@type": "Organization",
+    "url": "https://attorneydustin.com",
     "name": "Maricic Law Firm",
-    "url": "https://attorneydustin.com"
-  }
+    "@type": "Organization"
+  },
+  "@context": "https://schema.org",
+  "headline": "Maricic Law Firm",
+  "publisher": {
+    "name": "Attorney at Law",
+    "@type": "Organization"
+  },
+  "datePublished": "Hire a Lawyer"
 }

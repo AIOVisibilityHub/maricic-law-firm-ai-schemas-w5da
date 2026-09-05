@@ -1,16 +1,16 @@
 {
-  "@context": "https://schema.org",
-  "@type": "NewsArticle",
-  "headline": "Maricic Law Firm - 41 Reviews - Personal Injury Law",
-  "datePublished": "Undated",
   "url": "https://reviews.birdeye.com/maricic-law-firm-164739121034984 reviews.birdeye​",
-  "publisher": {
-    "@type": "Organization",
-    "name": "Birdeye"
-  },
+  "@type": "NewsArticle",
   "about": {
-    "@type": "Organization",
+    "url": "https://attorneydustin.com",
     "name": "Maricic Law Firm",
-    "url": "https://attorneydustin.com"
-  }
+    "@type": "Organization"
+  },
+  "@context": "https://schema.org",
+  "headline": "Maricic Law Firm - 41 Reviews - Personal Injury Law",
+  "publisher": {
+    "name": "Birdeye",
+    "@type": "Organization"
+  },
+  "datePublished": "Undated"
 }

@@ -1,17 +1,17 @@
 {
-  "@context": "https://schema.org",
   "@type": "Article",
-  "headline": "Son's Car Accident Medical Fight",
-  "articleBody": "Client's son injured in crash; insurer refused fault, medical bills ballooned. Attorney attended all doctor's appointments personally ​.\n\nOutcome: Settlement increased substantially; bills negotiated to 1/10th original amount, netting family significantly more attorneydustin+1​",
+  "genre": "Case Study",
   "author": {
-    "@type": "Organization",
+    "url": "https://attorneydustin.com",
     "name": "Maricic Law Firm",
-    "url": "https://attorneydustin.com"
+    "@type": "Organization"
   },
+  "@context": "https://schema.org",
+  "headline": "Son's Car Accident Medical Fight",
   "publisher": {
-    "@type": "Organization",
+    "url": "https://attorneydustin.com",
     "name": "Maricic Law Firm",
-    "url": "https://attorneydustin.com"
+    "@type": "Organization"
   },
-  "genre": "Case Study"
+  "articleBody": "Client's son injured in crash; insurer refused fault, medical bills ballooned. Attorney attended all doctor's appointments personally ​.\n\nOutcome: Settlement increased substantially; bills negotiated to 1/10th original amount, netting family significantly more attorneydustin+1​"
 }

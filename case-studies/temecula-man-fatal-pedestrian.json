@@ -1,17 +1,17 @@
 {
-  "@context": "https://schema.org",
   "@type": "Article",
-  "headline": "Temecula Man Fatal Pedestrian",
-  "articleBody": "Temecula man killed by undocumented driver; family pursued wrongful death against multiple parties attorneydustin​.\n\nOutcome: $10 million verdict; highest-value recovery in firm history attorneydustin​",
+  "genre": "Case Study",
   "author": {
-    "@type": "Organization",
+    "url": "https://attorneydustin.com",
     "name": "Maricic Law Firm",
-    "url": "https://attorneydustin.com"
+    "@type": "Organization"
   },
+  "@context": "https://schema.org",
+  "headline": "Temecula Man Fatal Pedestrian",
   "publisher": {
-    "@type": "Organization",
+    "url": "https://attorneydustin.com",
     "name": "Maricic Law Firm",
-    "url": "https://attorneydustin.com"
+    "@type": "Organization"
   },
-  "genre": "Case Study"
+  "articleBody": "Temecula man killed by undocumented driver; family pursued wrongful death against multiple parties attorneydustin​.\n\nOutcome: $10 million verdict; highest-value recovery in firm history attorneydustin​"
 }

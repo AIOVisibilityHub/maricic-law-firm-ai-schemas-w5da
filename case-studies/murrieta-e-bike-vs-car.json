@@ -1,17 +1,17 @@
 {
-  "@context": "https://schema.org",
   "@type": "Article",
-  "headline": "Murrieta E-Bike vs Car",
-  "articleBody": "E-bike rider struck by turning vehicle ignoring bike lane; fractures requiring surgery, bike replacement attorneydustin​.\n\nOutcome: Policy limits settlement ($900K equivalent referenced); full medicals + property covered attorneydustin+1",
+  "genre": "Case Study",
   "author": {
-    "@type": "Organization",
+    "url": "https://attorneydustin.com",
     "name": "Maricic Law Firm",
-    "url": "https://attorneydustin.com"
+    "@type": "Organization"
   },
+  "@context": "https://schema.org",
+  "headline": "Murrieta E-Bike vs Car",
   "publisher": {
-    "@type": "Organization",
+    "url": "https://attorneydustin.com",
     "name": "Maricic Law Firm",
-    "url": "https://attorneydustin.com"
+    "@type": "Organization"
   },
-  "genre": "Case Study"
+  "articleBody": "E-bike rider struck by turning vehicle ignoring bike lane; fractures requiring surgery, bike replacement attorneydustin​.\n\nOutcome: Policy limits settlement ($900K equivalent referenced); full medicals + property covered attorneydustin+1"
 }

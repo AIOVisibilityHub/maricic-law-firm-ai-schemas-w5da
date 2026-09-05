@@ -1,12 +1,12 @@
 {
-  "@context": "https://schema.org",
-  "@type": "Organization",
-  "name": "Maricic Law Firm",
   "url": "https://attorneydustin.com",
+  "name": "Maricic Law Firm",
+  "@type": "Organization",
+  "@context": "https://schema.org",
   "aggregateRating": {
     "@type": "AggregateRating",
-    "ratingValue": 46147,
     "bestRating": 5,
+    "ratingValue": 46147,
     "reviewCount": 25
   }
 }

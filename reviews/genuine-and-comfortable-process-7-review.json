@@ -1,20 +1,20 @@
 {
-  "@context": "https://schema.org",
   "@type": "Review",
   "author": {
-    "@type": "Person",
-    "name": "Genuine and Comfortable Process"
+    "name": "Genuine and Comfortable Process",
+    "@type": "Person"
   },
+  "@context": "https://schema.org",
   "reviewBody": "\"I am very thankful that I met Dustin Maricic. He is very genuine and made me feel very comfortable and secure through the whole process of my case. I was skeptical and a single mom, but he was knowledgeable and consistent with any questions that I had.\"attorneydustin​",
+  "itemReviewed": {
+    "url": "https://attorneydustin.com",
+    "name": "Maricic Law Firm",
+    "@type": "Organization"
+  },
   "reviewRating": {
     "@type": "Rating",
-    "ratingValue": 46147,
-    "bestRating": 5
+    "bestRating": 5,
+    "ratingValue": 46147
   },
-  "datePublished": "Undated",
-  "itemReviewed": {
-    "@type": "Organization",
-    "name": "Maricic Law Firm",
-    "url": "https://attorneydustin.com"
-  }
+  "datePublished": "Undated"
 }

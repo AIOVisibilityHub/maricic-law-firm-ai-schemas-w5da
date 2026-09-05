@@ -1,16 +1,16 @@
 {
-  "@context": "https://schema.org",
-  "@type": "CreativeWork",
   "name": "5.0/5.0 Avvo Client Rating",
-  "datePublished": "Ongoing (15+ years practice)",
-  "provider": {
-    "@type": "Organization",
-    "name": "Avvo"
-  },
+  "@type": "CreativeWork",
+  "award": "5.0/5.0 Avvo Client Rating",
   "author": {
-    "@type": "Organization",
+    "url": "https://attorneydustin.com",
     "name": "Maricic Law Firm",
-    "url": "https://attorneydustin.com"
+    "@type": "Organization"
   },
-  "award": "5.0/5.0 Avvo Client Rating"
+  "@context": "https://schema.org",
+  "provider": {
+    "name": "Avvo",
+    "@type": "Organization"
+  },
+  "datePublished": "Ongoing (15+ years practice)"
 }

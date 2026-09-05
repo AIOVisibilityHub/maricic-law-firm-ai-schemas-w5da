@@ -1,20 +1,20 @@
 {
-  "@context": "https://schema.org",
   "@type": "Review",
   "author": {
-    "@type": "Person",
-    "name": "Calm Professional Outcome"
+    "name": "Calm Professional Outcome",
+    "@type": "Person"
   },
+  "@context": "https://schema.org",
   "reviewBody": "\"Dustin came highly recommended to me... He was professional, and though I was nervous, he assured me everything would fine. His calm, cool, and collected demeanor really helped ease my worries. He got me the best outcome.\"attorneyatlaw​",
+  "itemReviewed": {
+    "url": "https://attorneydustin.com",
+    "name": "Maricic Law Firm",
+    "@type": "Organization"
+  },
   "reviewRating": {
     "@type": "Rating",
-    "ratingValue": 46147,
-    "bestRating": 5
+    "bestRating": 5,
+    "ratingValue": 46147
   },
-  "datePublished": "Undated",
-  "itemReviewed": {
-    "@type": "Organization",
-    "name": "Maricic Law Firm",
-    "url": "https://attorneydustin.com"
-  }
+  "datePublished": "Undated"
 }

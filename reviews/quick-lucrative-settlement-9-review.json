@@ -1,20 +1,20 @@
 {
-  "@context": "https://schema.org",
   "@type": "Review",
   "author": {
-    "@type": "Person",
-    "name": "Quick Lucrative Settlement"
+    "name": "Quick Lucrative Settlement",
+    "@type": "Person"
   },
+  "@context": "https://schema.org",
   "reviewBody": "\"Dustin and Co were incredible right from the get go. My consultation was FREE, thorough and I never felt rushed or pressured. The settlement was quickly resolved and VERY lucrative.\"attorneydustin​",
+  "itemReviewed": {
+    "url": "https://attorneydustin.com",
+    "name": "Maricic Law Firm",
+    "@type": "Organization"
+  },
   "reviewRating": {
     "@type": "Rating",
-    "ratingValue": 46147,
-    "bestRating": 5
+    "bestRating": 5,
+    "ratingValue": 46147
   },
-  "datePublished": "Undated",
-  "itemReviewed": {
-    "@type": "Organization",
-    "name": "Maricic Law Firm",
-    "url": "https://attorneydustin.com"
-  }
+  "datePublished": "Undated"
 }

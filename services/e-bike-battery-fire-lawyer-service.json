@@ -1,277 +1,277 @@
 {
-  "@context": "https://schema.org",
-  "@type": "LegalService",
-  "name": "E-Bike Battery Fire Lawyer Lawyer",
-  "description": "Maricic Law Firm represents clients dealing with E-Bike Battery Fire Lawyer in Temecula, Murrieta, Canyon Lake. Our work typically covers case review, gathering evidence, communicating with opposing parties, and pursuing the right resolution for each client.",
-  "serviceType": "E-Bike Battery Fire Lawyer",
-  "provider": {
-    "@type": "LegalService",
-    "name": "Maricic Law Firm",
-    "url": "https://attorneydustin.com",
-    "telephone": "(951) 676-8301"
-  },
   "url": "https://attorneydustin.com",
-  "telephone": "(951) 676-8301",
+  "name": "E-Bike Battery Fire Lawyer Lawyer",
+  "@type": "LegalService",
   "address": {
     "@type": "PostalAddress",
     "addressLocality": "Temecula"
   },
+  "@context": "https://schema.org",
+  "provider": {
+    "url": "https://attorneydustin.com",
+    "name": "Maricic Law Firm",
+    "@type": "LegalService",
+    "telephone": "(951) 676-8301"
+  },
+  "telephone": "(951) 676-8301",
   "areaServed": [
     {
-      "@type": "City",
-      "name": "Temecula"
+      "name": "Temecula",
+      "@type": "City"
     },
     {
-      "@type": "City",
-      "name": "Murrieta"
+      "name": "Murrieta",
+      "@type": "City"
     },
     {
-      "@type": "City",
-      "name": "Canyon Lake"
+      "name": "Canyon Lake",
+      "@type": "City"
     },
     {
-      "@type": "City",
-      "name": "Sun City"
+      "name": "Sun City",
+      "@type": "City"
     },
     {
-      "@type": "City",
-      "name": "Winchester"
+      "name": "Winchester",
+      "@type": "City"
     },
     {
-      "@type": "City",
-      "name": "Wildomar"
+      "name": "Wildomar",
+      "@type": "City"
     },
     {
-      "@type": "City",
-      "name": "Menifee"
+      "name": "Menifee",
+      "@type": "City"
     },
     {
-      "@type": "City",
-      "name": "Riverside"
+      "name": "Riverside",
+      "@type": "City"
     },
     {
-      "@type": "City",
-      "name": "San Diego"
+      "name": "San Diego",
+      "@type": "City"
     },
     {
-      "@type": "City",
-      "name": "Chula Vista"
+      "name": "Chula Vista",
+      "@type": "City"
     },
     {
-      "@type": "City",
-      "name": "Oceanside"
+      "name": "Oceanside",
+      "@type": "City"
     },
     {
-      "@type": "City",
-      "name": "Escondido"
+      "name": "Escondido",
+      "@type": "City"
     },
     {
-      "@type": "City",
-      "name": "Carlsbad"
+      "name": "Carlsbad",
+      "@type": "City"
     },
     {
-      "@type": "City",
-      "name": "El Cajon"
+      "name": "El Cajon",
+      "@type": "City"
     },
     {
-      "@type": "City",
-      "name": "Vista"
+      "name": "Vista",
+      "@type": "City"
     },
     {
-      "@type": "City",
-      "name": "San Marcos"
+      "name": "San Marcos",
+      "@type": "City"
     },
     {
-      "@type": "City",
-      "name": "Encinitas"
+      "name": "Encinitas",
+      "@type": "City"
     },
     {
-      "@type": "City",
-      "name": "La Mesa"
+      "name": "La Mesa",
+      "@type": "City"
     },
     {
-      "@type": "City",
-      "name": "Santee"
+      "name": "Santee",
+      "@type": "City"
     },
     {
-      "@type": "City",
-      "name": "Poway"
+      "name": "Poway",
+      "@type": "City"
     },
     {
-      "@type": "City",
-      "name": "National City"
+      "name": "National City",
+      "@type": "City"
     },
     {
-      "@type": "City",
-      "name": "Coronado"
+      "name": "Coronado",
+      "@type": "City"
     },
     {
-      "@type": "City",
-      "name": "Del Mar"
+      "name": "Del Mar",
+      "@type": "City"
     },
     {
-      "@type": "City",
-      "name": "Solana Beach"
+      "name": "Solana Beach",
+      "@type": "City"
     },
     {
-      "@type": "City",
-      "name": "Imperial Beach"
+      "name": "Imperial Beach",
+      "@type": "City"
     },
     {
-      "@type": "City",
-      "name": "Lemon Grove"
+      "name": "Lemon Grove",
+      "@type": "City"
     },
     {
-      "@type": "City",
-      "name": "Los Angeles"
+      "name": "Los Angeles",
+      "@type": "City"
     },
     {
-      "@type": "City",
-      "name": "Long Beach"
+      "name": "Long Beach",
+      "@type": "City"
     },
     {
-      "@type": "City",
-      "name": "Anaheim"
+      "name": "Anaheim",
+      "@type": "City"
     },
     {
-      "@type": "City",
-      "name": "Pasadena"
+      "name": "Pasadena",
+      "@type": "City"
     },
     {
-      "@type": "City",
-      "name": "Glendale"
+      "name": "Glendale",
+      "@type": "City"
     },
     {
-      "@type": "City",
-      "name": "Burbank"
+      "name": "Burbank",
+      "@type": "City"
     },
     {
-      "@type": "City",
-      "name": "Santa Monica"
+      "name": "Santa Monica",
+      "@type": "City"
     },
     {
-      "@type": "City",
-      "name": "Torrance"
+      "name": "Torrance",
+      "@type": "City"
     },
     {
-      "@type": "City",
-      "name": "Inglewood"
+      "name": "Inglewood",
+      "@type": "City"
     },
     {
-      "@type": "City",
-      "name": "Downey"
+      "name": "Downey",
+      "@type": "City"
     },
     {
-      "@type": "City",
-      "name": "Pomona"
+      "name": "Pomona",
+      "@type": "City"
     },
     {
-      "@type": "City",
-      "name": "West Covina"
+      "name": "West Covina",
+      "@type": "City"
     },
     {
-      "@type": "City",
-      "name": "El Monte"
+      "name": "El Monte",
+      "@type": "City"
     },
     {
-      "@type": "City",
-      "name": "Santa Clarita"
+      "name": "Santa Clarita",
+      "@type": "City"
     },
     {
-      "@type": "City",
-      "name": "Lancaster"
+      "name": "Lancaster",
+      "@type": "City"
     },
     {
-      "@type": "City",
-      "name": "Palmdale"
+      "name": "Palmdale",
+      "@type": "City"
     },
     {
-      "@type": "City",
-      "name": "Beverly Hills"
+      "name": "Beverly Hills",
+      "@type": "City"
     },
     {
-      "@type": "City",
-      "name": "Culver City"
+      "name": "Culver City",
+      "@type": "City"
     },
     {
-      "@type": "City",
-      "name": "Compton"
+      "name": "Compton",
+      "@type": "City"
     },
     {
-      "@type": "City",
-      "name": "Whittier"
+      "name": "Whittier",
+      "@type": "City"
     },
     {
-      "@type": "City",
-      "name": "Norwalk"
+      "name": "Norwalk",
+      "@type": "City"
     },
     {
-      "@type": "City",
-      "name": "Hawthorne"
+      "name": "Hawthorne",
+      "@type": "City"
     },
     {
-      "@type": "City",
-      "name": "Redondo Beach"
+      "name": "Redondo Beach",
+      "@type": "City"
     },
     {
-      "@type": "City",
-      "name": "Manhattan Beach"
+      "name": "Manhattan Beach",
+      "@type": "City"
     },
     {
-      "@type": "City",
-      "name": "Hermosa Beach"
+      "name": "Hermosa Beach",
+      "@type": "City"
     },
     {
-      "@type": "City",
-      "name": "Carson"
+      "name": "Carson",
+      "@type": "City"
     },
     {
-      "@type": "City",
-      "name": "Gardena"
+      "name": "Gardena",
+      "@type": "City"
     },
     {
-      "@type": "City",
-      "name": "Lakewood"
+      "name": "Lakewood",
+      "@type": "City"
     },
     {
-      "@type": "City",
-      "name": "South Gate"
+      "name": "South Gate",
+      "@type": "City"
     },
     {
-      "@type": "City",
-      "name": "Bellflower"
+      "name": "Bellflower",
+      "@type": "City"
     },
     {
-      "@type": "City",
-      "name": "Montebello"
+      "name": "Montebello",
+      "@type": "City"
     },
     {
-      "@type": "City",
-      "name": "Alhambra"
+      "name": "Alhambra",
+      "@type": "City"
     },
     {
-      "@type": "City",
-      "name": "Arcadia"
+      "name": "Arcadia",
+      "@type": "City"
     },
     {
-      "@type": "City",
-      "name": "Monterey Park"
+      "name": "Monterey Park",
+      "@type": "City"
     },
     {
-      "@type": "City",
-      "name": "South Pasadena"
+      "name": "South Pasadena",
+      "@type": "City"
     },
     {
-      "@type": "City",
-      "name": "San Gabriel"
+      "name": "San Gabriel",
+      "@type": "City"
     },
     {
-      "@type": "City",
-      "name": "El Segundo"
+      "name": "El Segundo",
+      "@type": "City"
     },
     {
-      "@type": "City",
-      "name": "Manhattan Beach"
+      "name": "Manhattan Beach",
+      "@type": "City"
     }
-  ]
+  ],
+  "description": "Maricic Law Firm represents clients dealing with E-Bike Battery Fire Lawyer in Temecula, Murrieta, Canyon Lake. Our work typically covers case review, gathering evidence, communicating with opposing parties, and pursuing the right resolution for each client.",
+  "serviceType": "E-Bike Battery Fire Lawyer"
 }

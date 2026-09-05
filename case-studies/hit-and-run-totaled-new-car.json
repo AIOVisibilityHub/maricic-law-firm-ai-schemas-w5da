@@ -1,17 +1,17 @@
 {
-  "@context": "https://schema.org",
   "@type": "Article",
-  "headline": "Hit-and-Run Totaled New Car",
-  "articleBody": "Client totaled car purchased 5 days prior by red-light runner who fled; soft tissue injuries, rental needs during recovery attorneyatlaw​.\n\nOutcome: Favorable settlement covering ACV, rentals, full injury compensation despite hit-run complications attorneyatlaw​",
+  "genre": "Case Study",
   "author": {
-    "@type": "Organization",
+    "url": "https://attorneydustin.com",
     "name": "Maricic Law Firm",
-    "url": "https://attorneydustin.com"
+    "@type": "Organization"
   },
+  "@context": "https://schema.org",
+  "headline": "Hit-and-Run Totaled New Car",
   "publisher": {
-    "@type": "Organization",
+    "url": "https://attorneydustin.com",
     "name": "Maricic Law Firm",
-    "url": "https://attorneydustin.com"
+    "@type": "Organization"
   },
-  "genre": "Case Study"
+  "articleBody": "Client totaled car purchased 5 days prior by red-light runner who fled; soft tissue injuries, rental needs during recovery attorneyatlaw​.\n\nOutcome: Favorable settlement covering ACV, rentals, full injury compensation despite hit-run complications attorneyatlaw​"
 }

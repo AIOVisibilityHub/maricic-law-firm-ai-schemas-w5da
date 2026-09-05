@@ -1,20 +1,20 @@
 {
-  "@context": "https://schema.org",
   "@type": "Review",
   "author": {
-    "@type": "Person",
-    "name": "Hired on the Spot Results"
+    "name": "Hired on the Spot Results",
+    "@type": "Person"
   },
+  "@context": "https://schema.org",
   "reviewBody": "\"I had a accident and I was referred to Mr. Maricic law firm. I was very impressed with him on my first meeting. I hired him on the spot and he worked my case very well and I was satisfied with the outcome.\"attorneydustin​",
+  "itemReviewed": {
+    "url": "https://attorneydustin.com",
+    "name": "Maricic Law Firm",
+    "@type": "Organization"
+  },
   "reviewRating": {
     "@type": "Rating",
-    "ratingValue": 46147,
-    "bestRating": 5
+    "bestRating": 5,
+    "ratingValue": 46147
   },
-  "datePublished": "Undated",
-  "itemReviewed": {
-    "@type": "Organization",
-    "name": "Maricic Law Firm",
-    "url": "https://attorneydustin.com"
-  }
+  "datePublished": "Undated"
 }

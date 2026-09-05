@@ -1,20 +1,20 @@
 {
-  "@context": "https://schema.org",
   "@type": "Review",
   "author": {
-    "@type": "Person",
-    "name": "Exceptional Customer Service"
+    "name": "Exceptional Customer Service",
+    "@type": "Person"
   },
+  "@context": "https://schema.org",
   "reviewBody": "\"This place took the time to answer my questions and help me understand why it is so important to retain an attorney as soon as possible... Special thanks to Anna who spend a good amount of time answering my questions.\"attorneydustin​",
+  "itemReviewed": {
+    "url": "https://attorneydustin.com",
+    "name": "Maricic Law Firm",
+    "@type": "Organization"
+  },
   "reviewRating": {
     "@type": "Rating",
-    "ratingValue": 46147,
-    "bestRating": 5
+    "bestRating": 5,
+    "ratingValue": 46147
   },
-  "datePublished": "Undated",
-  "itemReviewed": {
-    "@type": "Organization",
-    "name": "Maricic Law Firm",
-    "url": "https://attorneydustin.com"
-  }
+  "datePublished": "Undated"
 }
