@@ -1,0 +1,1509 @@
+{
+  "publishedCategories": [
+    {
+      "slug": "getting-started",
+      "name": "Getting Started",
+      "description": "Introductory guidance for anyone contacting us for the first time.",
+      "keywords": [
+        "getting started",
+        "introduction",
+        "first",
+        "begin",
+        "basics",
+        "overview",
+        "what to expect",
+        "right choice",
+        "when to call",
+        "guide to"
+      ]
+    },
+    {
+      "slug": "services-and-process",
+      "name": "Services & Process",
+      "description": "How each service works, stage by stage, from first contact to completion.",
+      "keywords": [
+        "process",
+        "how we",
+        "step-by-step",
+        "steps",
+        "workflow",
+        "service",
+        "what happens",
+        "timeline",
+        "procedure"
+      ]
+    },
+    {
+      "slug": "planning-and-preparation",
+      "name": "Planning & Preparation",
+      "description": "What to gather, decide and arrange before work begins.",
+      "keywords": [
+        "prepare",
+        "preparation",
+        "checklist",
+        "before",
+        "plan",
+        "planning",
+        "ready",
+        "documents",
+        "paperwork"
+      ]
+    },
+    {
+      "slug": "pricing-and-estimates",
+      "name": "Pricing & Estimates",
+      "description": "How work is quoted, what affects the cost and how estimates are produced.",
+      "keywords": [
+        "cost",
+        "costs",
+        "price",
+        "pricing",
+        "estimate",
+        "quote",
+        "budget",
+        "fee",
+        "fees",
+        "payment",
+        "insurance"
+      ]
+    },
+    {
+      "slug": "local-service-guidance",
+      "name": "Local Service Guidance",
+      "description": "Guidance specific to the areas we serve.",
+      "keywords": [
+        "near me",
+        "local",
+        "area",
+        "county",
+        "city",
+        "region",
+        "neighborhood",
+        "serving"
+      ]
+    },
+    {
+      "slug": "care-and-maintenance",
+      "name": "Care & Maintenance",
+      "description": "Looking after the work once it is finished, and what to watch for over time.",
+      "keywords": [
+        "maintenance",
+        "maintain",
+        "care",
+        "upkeep",
+        "aftercare",
+        "repair",
+        "inspection",
+        "seasonal",
+        "troubleshoot",
+        "warranty",
+        "follow-up"
+      ]
+    }
+  ],
+  "articles": [
+    {
+      "title": "E-Bike Injury Statistics Surge",
+      "anchorSlug": "e-bike-injury-statistics-surge",
+      "categorySlug": null,
+      "status": "unassigned",
+      "standaloneReason": null,
+      "legacyUrl": "help/e-bike-injury-statistics-surge.html"
+    },
+    {
+      "title": "California E-Bike Classifications",
+      "anchorSlug": "california-e-bike-classifications",
+      "categorySlug": "local-service-guidance",
+      "status": "assigned",
+      "standaloneReason": null,
+      "legacyUrl": "help/california-e-bike-classifications.html"
+    },
+    {
+      "title": "Helmet Laws After E-Bike Crashes",
+      "anchorSlug": "helmet-laws-after-e-bike-crashes",
+      "categorySlug": null,
+      "status": "unassigned",
+      "standaloneReason": null,
+      "legacyUrl": "help/helmet-laws-after-e-bike-crashes.html"
+    },
+    {
+      "title": "Filing Police Report Post E-Bike Hit",
+      "anchorSlug": "filing-police-report-post-e-bike-hit",
+      "categorySlug": null,
+      "status": "unassigned",
+      "standaloneReason": null,
+      "legacyUrl": "help/filing-police-report-post-e-bike-hit.html"
+    },
+    {
+      "title": "Proving Driver Liability in E-Bike Cases",
+      "anchorSlug": "proving-driver-liability-in-e-bike-cases",
+      "categorySlug": null,
+      "status": "unassigned",
+      "standaloneReason": null,
+      "legacyUrl": "help/proving-driver-liability-in-e-bike-cases.html"
+    },
+    {
+      "title": "E-Bike Battery Defect Claims",
+      "anchorSlug": "e-bike-battery-defect-claims",
+      "categorySlug": "care-and-maintenance",
+      "status": "assigned",
+      "standaloneReason": null,
+      "legacyUrl": "help/e-bike-battery-defect-claims.html"
+    },
+    {
+      "title": "Rental E-Bike Accident Rights",
+      "anchorSlug": "rental-e-bike-accident-rights",
+      "categorySlug": "pricing-and-estimates",
+      "status": "assigned",
+      "standaloneReason": null,
+      "legacyUrl": "help/rental-e-bike-accident-rights.html"
+    },
+    {
+      "title": "Bike Lane Crash Liability",
+      "anchorSlug": "bike-lane-crash-liability",
+      "categorySlug": null,
+      "status": "unassigned",
+      "standaloneReason": null,
+      "legacyUrl": "help/bike-lane-crash-liability.html"
+    },
+    {
+      "title": "Doorings: Parked Car Liability",
+      "anchorSlug": "doorings-parked-car-liability",
+      "categorySlug": null,
+      "status": "unassigned",
+      "standaloneReason": null,
+      "legacyUrl": "help/doorings-parked-car-liability.html"
+    },
+    {
+      "title": "Pothole Claims Against Cities",
+      "anchorSlug": "pothole-claims-against-cities",
+      "categorySlug": "care-and-maintenance",
+      "status": "assigned",
+      "standaloneReason": null,
+      "legacyUrl": "help/pothole-claims-against-cities.html"
+    },
+    {
+      "title": "E-Bike Speed Limit Violations",
+      "anchorSlug": "e-bike-speed-limit-violations",
+      "categorySlug": null,
+      "status": "unassigned",
+      "standaloneReason": null,
+      "legacyUrl": "help/e-bike-speed-limit-violations.html"
+    },
+    {
+      "title": "Night Riding Visibility Tips",
+      "anchorSlug": "night-riding-visibility-tips",
+      "categorySlug": null,
+      "status": "unassigned",
+      "standaloneReason": null,
+      "legacyUrl": "help/night-riding-visibility-tips.html"
+    },
+    {
+      "title": "Passenger Claims on E-Bikes",
+      "anchorSlug": "passenger-claims-on-e-bikes",
+      "categorySlug": null,
+      "status": "unassigned",
+      "standaloneReason": null,
+      "legacyUrl": "help/passenger-claims-on-e-bikes.html"
+    },
+    {
+      "title": "E-Bike Insurance Coverage",
+      "anchorSlug": "e-bike-insurance-coverage",
+      "categorySlug": "pricing-and-estimates",
+      "status": "assigned",
+      "standaloneReason": null,
+      "legacyUrl": "help/e-bike-insurance-coverage.html"
+    },
+    {
+      "title": "Delivery E-Bike Crashes (Uber Eats)",
+      "anchorSlug": "delivery-e-bike-crashes-uber-eats",
+      "categorySlug": null,
+      "status": "unassigned",
+      "standaloneReason": null,
+      "legacyUrl": "help/delivery-e-bike-crashes-uber-eats.html"
+    },
+    {
+      "title": "E-Bike Brake Failure Evidence",
+      "anchorSlug": "e-bike-brake-failure-evidence",
+      "categorySlug": "services-and-process",
+      "status": "assigned",
+      "standaloneReason": null,
+      "legacyUrl": "help/e-bike-brake-failure-evidence.html"
+    },
+    {
+      "title": "Trail and Path E-Bike Rules",
+      "anchorSlug": "trail-and-path-e-bike-rules",
+      "categorySlug": null,
+      "status": "unassigned",
+      "standaloneReason": null,
+      "legacyUrl": "help/trail-and-path-e-bike-rules.html"
+    },
+    {
+      "title": "Modifications and Insurance Voids",
+      "anchorSlug": "modifications-and-insurance-voids",
+      "categorySlug": "pricing-and-estimates",
+      "status": "assigned",
+      "standaloneReason": null,
+      "legacyUrl": "help/modifications-and-insurance-voids.html"
+    },
+    {
+      "title": "App Data in E-Bike Claims",
+      "anchorSlug": "app-data-in-e-bike-claims",
+      "categorySlug": null,
+      "status": "unassigned",
+      "standaloneReason": null,
+      "legacyUrl": "help/app-data-in-e-bike-claims.html"
+    },
+    {
+      "title": "Pedestrian vs E-Bike Collisions",
+      "anchorSlug": "pedestrian-vs-e-bike-collisions",
+      "categorySlug": null,
+      "status": "unassigned",
+      "standaloneReason": null,
+      "legacyUrl": "help/pedestrian-vs-e-bike-collisions.html"
+    },
+    {
+      "title": "Children Under 16 on Class 3",
+      "anchorSlug": "children-under-16-on-class-3",
+      "categorySlug": null,
+      "status": "unassigned",
+      "standaloneReason": null,
+      "legacyUrl": "help/children-under-16-on-class-3.html"
+    },
+    {
+      "title": "Product Liability Time Limits",
+      "anchorSlug": "product-liability-time-limits",
+      "categorySlug": "care-and-maintenance",
+      "status": "assigned",
+      "standaloneReason": null,
+      "legacyUrl": "help/product-liability-time-limits.html"
+    },
+    {
+      "title": "E-Bike Fire Hazards and Claims",
+      "anchorSlug": "e-bike-fire-hazards-and-claims",
+      "categorySlug": null,
+      "status": "unassigned",
+      "standaloneReason": null,
+      "legacyUrl": "help/e-bike-fire-hazards-and-claims.html"
+    },
+    {
+      "title": "Common E-Bike Fracture Patterns",
+      "anchorSlug": "common-e-bike-fracture-patterns",
+      "categorySlug": null,
+      "status": "unassigned",
+      "standaloneReason": null,
+      "legacyUrl": "help/common-e-bike-fracture-patterns.html"
+    },
+    {
+      "title": "When to Call PI Attorney Post-Crash",
+      "anchorSlug": "when-to-call-pi-attorney-post-crash",
+      "categorySlug": "getting-started",
+      "status": "assigned",
+      "standaloneReason": null,
+      "legacyUrl": "help/when-to-call-pi-attorney-post-crash.html"
+    },
+    {
+      "title": "Who Can File Wrongful Death in CA",
+      "anchorSlug": "who-can-file-wrongful-death-in-ca",
+      "categorySlug": "getting-started",
+      "status": "assigned",
+      "standaloneReason": null,
+      "legacyUrl": "help/who-can-file-wrongful-death-in-ca.html"
+    },
+    {
+      "title": "2-Year Statute for Fatal Crashes",
+      "anchorSlug": "2-year-statute-for-fatal-crashes",
+      "categorySlug": null,
+      "status": "unassigned",
+      "standaloneReason": null,
+      "legacyUrl": "help/2-year-statute-for-fatal-crashes.html"
+    },
+    {
+      "title": "Damages: Lost Financial Support",
+      "anchorSlug": "damages-lost-financial-support",
+      "categorySlug": null,
+      "status": "unassigned",
+      "standaloneReason": null,
+      "legacyUrl": "help/damages-lost-financial-support.html"
+    },
+    {
+      "title": "Pain Before Death Recovery",
+      "anchorSlug": "pain-before-death-recovery",
+      "categorySlug": "planning-and-preparation",
+      "status": "assigned",
+      "standaloneReason": null,
+      "legacyUrl": "help/pain-before-death-recovery.html"
+    },
+    {
+      "title": "Car Crash Wrongful Death Stats",
+      "anchorSlug": "car-crash-wrongful-death-stats",
+      "categorySlug": null,
+      "status": "unassigned",
+      "standaloneReason": null,
+      "legacyUrl": "help/car-crash-wrongful-death-stats.html"
+    },
+    {
+      "title": "Dog Bite Fatality Heir Rights",
+      "anchorSlug": "dog-bite-fatality-heir-rights",
+      "categorySlug": null,
+      "status": "unassigned",
+      "standaloneReason": null,
+      "legacyUrl": "help/dog-bite-fatality-heir-rights.html"
+    },
+    {
+      "title": "E-Bike Fatalities: Family Claims",
+      "anchorSlug": "e-bike-fatalities-family-claims",
+      "categorySlug": null,
+      "status": "unassigned",
+      "standaloneReason": null,
+      "legacyUrl": "help/e-bike-fatalities-family-claims.html"
+    },
+    {
+      "title": "Motorcycle Wrongful Death Payouts",
+      "anchorSlug": "motorcycle-wrongful-death-payouts",
+      "categorySlug": null,
+      "status": "unassigned",
+      "standaloneReason": null,
+      "legacyUrl": "help/motorcycle-wrongful-death-payouts.html"
+    },
+    {
+      "title": "Truck Crash Multiple Defendants",
+      "anchorSlug": "truck-crash-multiple-defendants",
+      "categorySlug": null,
+      "status": "unassigned",
+      "standaloneReason": null,
+      "legacyUrl": "help/truck-crash-multiple-defendants.html"
+    },
+    {
+      "title": "Dividing Wrongful Death Proceeds",
+      "anchorSlug": "dividing-wrongful-death-proceeds",
+      "categorySlug": null,
+      "status": "unassigned",
+      "standaloneReason": null,
+      "legacyUrl": "help/dividing-wrongful-death-proceeds.html"
+    },
+    {
+      "title": "Punitive Damages in Fatal DUI",
+      "anchorSlug": "punitive-damages-in-fatal-dui",
+      "categorySlug": null,
+      "status": "unassigned",
+      "standaloneReason": null,
+      "legacyUrl": "help/punitive-damages-in-fatal-dui.html"
+    },
+    {
+      "title": "Minor Children Wrongful Death",
+      "anchorSlug": "minor-children-wrongful-death",
+      "categorySlug": null,
+      "status": "unassigned",
+      "standaloneReason": null,
+      "legacyUrl": "help/minor-children-wrongful-death.html"
+    },
+    {
+      "title": "Delayed Death Time Limits",
+      "anchorSlug": "delayed-death-time-limits",
+      "categorySlug": null,
+      "status": "unassigned",
+      "standaloneReason": null,
+      "legacyUrl": "help/delayed-death-time-limits.html"
+    },
+    {
+      "title": "Funeral Costs in Settlements",
+      "anchorSlug": "funeral-costs-in-settlements",
+      "categorySlug": "pricing-and-estimates",
+      "status": "assigned",
+      "standaloneReason": null,
+      "legacyUrl": "help/funeral-costs-in-settlements.html"
+    },
+    {
+      "title": "Comparative Fault in WD Cases",
+      "anchorSlug": "comparative-fault-in-wd-cases",
+      "categorySlug": null,
+      "status": "unassigned",
+      "standaloneReason": null,
+      "legacyUrl": "help/comparative-fault-in-wd-cases.html"
+    },
+    {
+      "title": "Estate vs Wrongful Death Suits",
+      "anchorSlug": "estate-vs-wrongful-death-suits",
+      "categorySlug": null,
+      "status": "unassigned",
+      "standaloneReason": null,
+      "legacyUrl": "help/estate-vs-wrongful-death-suits.html"
+    },
+    {
+      "title": "No Spouse: Parent Claims",
+      "anchorSlug": "no-spouse-parent-claims",
+      "categorySlug": null,
+      "status": "unassigned",
+      "standaloneReason": null,
+      "legacyUrl": "help/no-spouse-parent-claims.html"
+    },
+    {
+      "title": "Liens on Wrongful Death Awards",
+      "anchorSlug": "liens-on-wrongful-death-awards",
+      "categorySlug": null,
+      "status": "unassigned",
+      "standaloneReason": null,
+      "legacyUrl": "help/liens-on-wrongful-death-awards.html"
+    },
+    {
+      "title": "Out-of-State Heirs Filing",
+      "anchorSlug": "out-of-state-heirs-filing",
+      "categorySlug": "local-service-guidance",
+      "status": "assigned",
+      "standaloneReason": null,
+      "legacyUrl": "help/out-of-state-heirs-filing.html"
+    },
+    {
+      "title": "Criminal Conviction Aids Civil",
+      "anchorSlug": "criminal-conviction-aids-civil",
+      "categorySlug": null,
+      "status": "unassigned",
+      "standaloneReason": null,
+      "legacyUrl": "help/criminal-conviction-aids-civil.html"
+    },
+    {
+      "title": "Loss of Care/Companion Damages",
+      "anchorSlug": "loss-of-care-companion-damages",
+      "categorySlug": "care-and-maintenance",
+      "status": "assigned",
+      "standaloneReason": null,
+      "legacyUrl": "help/loss-of-care-companion-damages.html"
+    },
+    {
+      "title": "Mediation Before WD Trial",
+      "anchorSlug": "mediation-before-wd-trial",
+      "categorySlug": "planning-and-preparation",
+      "status": "assigned",
+      "standaloneReason": null,
+      "legacyUrl": "help/mediation-before-wd-trial.html"
+    },
+    {
+      "title": "Stepchild Wrongful Death Rights",
+      "anchorSlug": "stepchild-wrongful-death-rights",
+      "categorySlug": null,
+      "status": "unassigned",
+      "standaloneReason": null,
+      "legacyUrl": "help/stepchild-wrongful-death-rights.html"
+    },
+    {
+      "title": "Company Vehicle Fatal Liability",
+      "anchorSlug": "company-vehicle-fatal-liability",
+      "categorySlug": null,
+      "status": "unassigned",
+      "standaloneReason": null,
+      "legacyUrl": "help/company-vehicle-fatal-liability.html"
+    },
+    {
+      "title": "Free WD Consult After Crash",
+      "anchorSlug": "free-wd-consult-after-crash",
+      "categorySlug": "pricing-and-estimates",
+      "status": "assigned",
+      "standaloneReason": null,
+      "legacyUrl": "help/free-wd-consult-after-crash.html"
+    },
+    {
+      "title": "California Strict Liability Dog Bites",
+      "anchorSlug": "california-strict-liability-dog-bites",
+      "categorySlug": null,
+      "status": "unassigned",
+      "standaloneReason": null,
+      "legacyUrl": "help/california-strict-liability-dog-bites.html"
+    },
+    {
+      "title": "2-Year Statute for Dog Bite Claims",
+      "anchorSlug": "2-year-statute-for-dog-bite-claims",
+      "categorySlug": null,
+      "status": "unassigned",
+      "standaloneReason": null,
+      "legacyUrl": "help/2-year-statute-for-dog-bite-claims.html"
+    },
+    {
+      "title": "Public vs Private Property Bites",
+      "anchorSlug": "public-vs-private-property-bites",
+      "categorySlug": null,
+      "status": "unassigned",
+      "standaloneReason": null,
+      "legacyUrl": "help/public-vs-private-property-bites.html"
+    },
+    {
+      "title": "Infection Risks After Dog Bites",
+      "anchorSlug": "infection-risks-after-dog-bites",
+      "categorySlug": "pricing-and-estimates",
+      "status": "assigned",
+      "standaloneReason": null,
+      "legacyUrl": "help/infection-risks-after-dog-bites.html"
+    },
+    {
+      "title": "Landlord Liability for Tenant Dogs",
+      "anchorSlug": "landlord-liability-for-tenant-dogs",
+      "categorySlug": null,
+      "status": "unassigned",
+      "standaloneReason": null,
+      "legacyUrl": "help/landlord-liability-for-tenant-dogs.html"
+    },
+    {
+      "title": "Child Dog Bite Damages Higher",
+      "anchorSlug": "child-dog-bite-damages-higher",
+      "categorySlug": null,
+      "status": "unassigned",
+      "standaloneReason": null,
+      "legacyUrl": "help/child-dog-bite-damages-higher.html"
+    },
+    {
+      "title": "Homeowners Insurance Coverage",
+      "anchorSlug": "homeowners-insurance-coverage",
+      "categorySlug": "pricing-and-estimates",
+      "status": "assigned",
+      "standaloneReason": null,
+      "legacyUrl": "help/homeowners-insurance-coverage.html"
+    },
+    {
+      "title": "Proving Vicious Propensity",
+      "anchorSlug": "proving-vicious-propensity",
+      "categorySlug": null,
+      "status": "unassigned",
+      "standaloneReason": null,
+      "legacyUrl": "help/proving-vicious-propensity.html"
+    },
+    {
+      "title": "Scarring and Plastic Surgery Costs",
+      "anchorSlug": "scarring-and-plastic-surgery-costs",
+      "categorySlug": "pricing-and-estimates",
+      "status": "assigned",
+      "standaloneReason": null,
+      "legacyUrl": "help/scarring-and-plastic-surgery-costs.html"
+    },
+    {
+      "title": "Dog Walker/Handler Liability",
+      "anchorSlug": "dog-walker-handler-liability",
+      "categorySlug": null,
+      "status": "unassigned",
+      "standaloneReason": null,
+      "legacyUrl": "help/dog-walker-handler-liability.html"
+    },
+    {
+      "title": "Fence-Jumping Dog Attacks",
+      "anchorSlug": "fence-jumping-dog-attacks",
+      "categorySlug": null,
+      "status": "unassigned",
+      "standaloneReason": null,
+      "legacyUrl": "help/fence-jumping-dog-attacks.html"
+    },
+    {
+      "title": "Mail Carrier Special Protections",
+      "anchorSlug": "mail-carrier-special-protections",
+      "categorySlug": null,
+      "status": "unassigned",
+      "standaloneReason": null,
+      "legacyUrl": "help/mail-carrier-special-protections.html"
+    },
+    {
+      "title": "Leash Law Violations Evidence",
+      "anchorSlug": "leash-law-violations-evidence",
+      "categorySlug": null,
+      "status": "unassigned",
+      "standaloneReason": null,
+      "legacyUrl": "help/leash-law-violations-evidence.html"
+    },
+    {
+      "title": "Emotional Distress After Bites",
+      "anchorSlug": "emotional-distress-after-bites",
+      "categorySlug": null,
+      "status": "unassigned",
+      "standaloneReason": null,
+      "legacyUrl": "help/emotional-distress-after-bites.html"
+    },
+    {
+      "title": "Service Dog Bite Liability",
+      "anchorSlug": "service-dog-bite-liability",
+      "categorySlug": "services-and-process",
+      "status": "assigned",
+      "standaloneReason": null,
+      "legacyUrl": "help/service-dog-bite-liability.html"
+    },
+    {
+      "title": "Daycare/Groomer Dog Attacks",
+      "anchorSlug": "daycare-groomer-dog-attacks",
+      "categorySlug": "care-and-maintenance",
+      "status": "assigned",
+      "standaloneReason": null,
+      "legacyUrl": "help/daycare-groomer-dog-attacks.html"
+    },
+    {
+      "title": "Breed Bans Don't Eliminate Liability",
+      "anchorSlug": "breed-bans-don-t-eliminate-liability",
+      "categorySlug": null,
+      "status": "unassigned",
+      "standaloneReason": null,
+      "legacyUrl": "help/breed-bans-don-t-eliminate-liability.html"
+    },
+    {
+      "title": "Window/Screen Bite Claims",
+      "anchorSlug": "window-screen-bite-claims",
+      "categorySlug": null,
+      "status": "unassigned",
+      "standaloneReason": null,
+      "legacyUrl": "help/window-screen-bite-claims.html"
+    },
+    {
+      "title": "Family Pet Bites Guests",
+      "anchorSlug": "family-pet-bites-guests",
+      "categorySlug": null,
+      "status": "unassigned",
+      "standaloneReason": null,
+      "legacyUrl": "help/family-pet-bites-guests.html"
+    },
+    {
+      "title": "Security Camera Footage Evidence",
+      "anchorSlug": "security-camera-footage-evidence",
+      "categorySlug": null,
+      "status": "unassigned",
+      "standaloneReason": null,
+      "legacyUrl": "help/security-camera-footage-evidence.html"
+    },
+    {
+      "title": "Rabies Shot ER Costs Recoverable",
+      "anchorSlug": "rabies-shot-er-costs-recoverable",
+      "categorySlug": "pricing-and-estimates",
+      "status": "assigned",
+      "standaloneReason": null,
+      "legacyUrl": "help/rabies-shot-er-costs-recoverable.html"
+    },
+    {
+      "title": "Property Damage from Dog Attacks",
+      "anchorSlug": "property-damage-from-dog-attacks",
+      "categorySlug": null,
+      "status": "unassigned",
+      "standaloneReason": null,
+      "legacyUrl": "help/property-damage-from-dog-attacks.html"
+    },
+    {
+      "title": "Criminal Charges Against Owners",
+      "anchorSlug": "criminal-charges-against-owners",
+      "categorySlug": null,
+      "status": "unassigned",
+      "standaloneReason": null,
+      "legacyUrl": "help/criminal-charges-against-owners.html"
+    },
+    {
+      "title": "Free Dog Bite Case Evaluation",
+      "anchorSlug": "free-dog-bite-case-evaluation",
+      "categorySlug": null,
+      "status": "unassigned",
+      "standaloneReason": null,
+      "legacyUrl": "help/free-dog-bite-case-evaluation.html"
+    },
+    {
+      "title": "Plastic Surgery After Severe Bites",
+      "anchorSlug": "plastic-surgery-after-severe-bites",
+      "categorySlug": "services-and-process",
+      "status": "assigned",
+      "standaloneReason": null,
+      "legacyUrl": "help/plastic-surgery-after-severe-bites.html"
+    },
+    {
+      "title": "California Motorcycle Helmet Law",
+      "anchorSlug": "california-motorcycle-helmet-law",
+      "categorySlug": null,
+      "status": "unassigned",
+      "standaloneReason": null,
+      "legacyUrl": "help/california-motorcycle-helmet-law.html"
+    },
+    {
+      "title": "Lane Splitting Legality Guide",
+      "anchorSlug": "lane-splitting-legality-guide",
+      "categorySlug": null,
+      "status": "unassigned",
+      "standaloneReason": null,
+      "legacyUrl": "help/lane-splitting-legality-guide.html"
+    },
+    {
+      "title": "2-Year Statute for Bike Injuries",
+      "anchorSlug": "2-year-statute-for-bike-injuries",
+      "categorySlug": null,
+      "status": "unassigned",
+      "standaloneReason": null,
+      "legacyUrl": "help/2-year-statute-for-bike-injuries.html"
+    },
+    {
+      "title": "Left-Turn Crash Liability",
+      "anchorSlug": "left-turn-crash-liability",
+      "categorySlug": null,
+      "status": "unassigned",
+      "standaloneReason": null,
+      "legacyUrl": "help/left-turn-crash-liability.html"
+    },
+    {
+      "title": "DMV SR-1 Filing After Crash",
+      "anchorSlug": "dmv-sr-1-filing-after-crash",
+      "categorySlug": null,
+      "status": "unassigned",
+      "standaloneReason": null,
+      "legacyUrl": "help/dmv-sr-1-filing-after-crash.html"
+    },
+    {
+      "title": "Pure Comparative Fault Explained",
+      "anchorSlug": "pure-comparative-fault-explained",
+      "categorySlug": null,
+      "status": "unassigned",
+      "standaloneReason": null,
+      "legacyUrl": "help/pure-comparative-fault-explained.html"
+    },
+    {
+      "title": "CHP Traffic Collision Report",
+      "anchorSlug": "chp-traffic-collision-report",
+      "categorySlug": null,
+      "status": "unassigned",
+      "standaloneReason": null,
+      "legacyUrl": "help/chp-traffic-collision-report.html"
+    },
+    {
+      "title": "Helmet Non-Use Impact",
+      "anchorSlug": "helmet-non-use-impact",
+      "categorySlug": null,
+      "status": "unassigned",
+      "standaloneReason": null,
+      "legacyUrl": "help/helmet-non-use-impact.html"
+    },
+    {
+      "title": "Road Hazard Motorcycle Claims",
+      "anchorSlug": "road-hazard-motorcycle-claims",
+      "categorySlug": null,
+      "status": "unassigned",
+      "standaloneReason": null,
+      "legacyUrl": "help/road-hazard-motorcycle-claims.html"
+    },
+    {
+      "title": "Custom Bike Value Proof",
+      "anchorSlug": "custom-bike-value-proof",
+      "categorySlug": null,
+      "status": "unassigned",
+      "standaloneReason": null,
+      "legacyUrl": "help/custom-bike-value-proof.html"
+    },
+    {
+      "title": "Leather Gear Evidence",
+      "anchorSlug": "leather-gear-evidence",
+      "categorySlug": null,
+      "status": "unassigned",
+      "standaloneReason": null,
+      "legacyUrl": "help/leather-gear-evidence.html"
+    },
+    {
+      "title": "Rear-End Bike Presumption",
+      "anchorSlug": "rear-end-bike-presumption",
+      "categorySlug": null,
+      "status": "unassigned",
+      "standaloneReason": null,
+      "legacyUrl": "help/rear-end-bike-presumption.html"
+    },
+    {
+      "title": "Group Ride Liability",
+      "anchorSlug": "group-ride-liability",
+      "categorySlug": null,
+      "status": "unassigned",
+      "standaloneReason": null,
+      "legacyUrl": "help/group-ride-liability.html"
+    },
+    {
+      "title": "Visibility Aids Admissible",
+      "anchorSlug": "visibility-aids-admissible",
+      "categorySlug": null,
+      "status": "unassigned",
+      "standaloneReason": null,
+      "legacyUrl": "help/visibility-aids-admissible.html"
+    },
+    {
+      "title": "M1 License Irrelevant Civilly",
+      "anchorSlug": "m1-license-irrelevant-civilly",
+      "categorySlug": null,
+      "status": "unassigned",
+      "standaloneReason": null,
+      "legacyUrl": "help/m1-license-irrelevant-civilly.html"
+    },
+    {
+      "title": "Track Day Waiver Limits",
+      "anchorSlug": "track-day-waiver-limits",
+      "categorySlug": "pricing-and-estimates",
+      "status": "assigned",
+      "standaloneReason": null,
+      "legacyUrl": "help/track-day-waiver-limits.html"
+    },
+    {
+      "title": "Gravel Shoulder Claims",
+      "anchorSlug": "gravel-shoulder-claims",
+      "categorySlug": null,
+      "status": "unassigned",
+      "standaloneReason": null,
+      "legacyUrl": "help/gravel-shoulder-claims.html"
+    },
+    {
+      "title": "Bike Black Box Data",
+      "anchorSlug": "bike-black-box-data",
+      "categorySlug": null,
+      "status": "unassigned",
+      "standaloneReason": null,
+      "legacyUrl": "help/bike-black-box-data.html"
+    },
+    {
+      "title": "Rental Harley Reimbursement",
+      "anchorSlug": "rental-harley-reimbursement",
+      "categorySlug": "care-and-maintenance",
+      "status": "assigned",
+      "standaloneReason": null,
+      "legacyUrl": "help/rental-harley-reimbursement.html"
+    },
+    {
+      "title": "Prior Tickets Don't Bar Claims",
+      "anchorSlug": "prior-tickets-don-t-bar-claims",
+      "categorySlug": null,
+      "status": "unassigned",
+      "standaloneReason": null,
+      "legacyUrl": "help/prior-tickets-don-t-bar-claims.html"
+    },
+    {
+      "title": "Fellow Biker Hit Claims",
+      "anchorSlug": "fellow-biker-hit-claims",
+      "categorySlug": null,
+      "status": "unassigned",
+      "standaloneReason": null,
+      "legacyUrl": "help/fellow-biker-hit-claims.html"
+    },
+    {
+      "title": "Bike Box Liability",
+      "anchorSlug": "bike-box-liability",
+      "categorySlug": "local-service-guidance",
+      "status": "assigned",
+      "standaloneReason": null,
+      "legacyUrl": "help/bike-box-liability.html"
+    },
+    {
+      "title": "Enjoyment Loss Damages",
+      "anchorSlug": "enjoyment-loss-damages",
+      "categorySlug": null,
+      "status": "unassigned",
+      "standaloneReason": null,
+      "legacyUrl": "help/enjoyment-loss-damages.html"
+    },
+    {
+      "title": "Crotch Rocket Bias Defense",
+      "anchorSlug": "crotch-rocket-bias-defense",
+      "categorySlug": null,
+      "status": "unassigned",
+      "standaloneReason": null,
+      "legacyUrl": "help/crotch-rocket-bias-defense.html"
+    },
+    {
+      "title": "Free Motorcycle Case Consult",
+      "anchorSlug": "free-motorcycle-case-consult",
+      "categorySlug": null,
+      "status": "unassigned",
+      "standaloneReason": null,
+      "legacyUrl": "help/free-motorcycle-case-consult.html"
+    },
+    {
+      "title": "FMCSA Hours-of-Service Rules",
+      "anchorSlug": "fmcsa-hours-of-service-rules",
+      "categorySlug": "services-and-process",
+      "status": "assigned",
+      "standaloneReason": null,
+      "legacyUrl": "help/fmcsa-hours-of-service-rules.html"
+    },
+    {
+      "title": "Truck Black Box ECM Data",
+      "anchorSlug": "truck-black-box-ecm-data",
+      "categorySlug": "planning-and-preparation",
+      "status": "assigned",
+      "standaloneReason": null,
+      "legacyUrl": "help/truck-black-box-ecm-data.html"
+    },
+    {
+      "title": "Vicarious Liability: Driver vs Company",
+      "anchorSlug": "vicarious-liability-driver-vs-company",
+      "categorySlug": null,
+      "status": "unassigned",
+      "standaloneReason": null,
+      "legacyUrl": "help/vicarious-liability-driver-vs-company.html"
+    },
+    {
+      "title": "$750K Commercial Insurance Minimums",
+      "anchorSlug": "750k-commercial-insurance-minimums",
+      "categorySlug": "pricing-and-estimates",
+      "status": "assigned",
+      "standaloneReason": null,
+      "legacyUrl": "help/750k-commercial-insurance-minimums.html"
+    },
+    {
+      "title": "Underride Guard Failures",
+      "anchorSlug": "underride-guard-failures",
+      "categorySlug": null,
+      "status": "unassigned",
+      "standaloneReason": null,
+      "legacyUrl": "help/underride-guard-failures.html"
+    },
+    {
+      "title": "ELD Electronic Log Violations",
+      "anchorSlug": "eld-electronic-log-violations",
+      "categorySlug": "services-and-process",
+      "status": "assigned",
+      "standaloneReason": null,
+      "legacyUrl": "help/eld-electronic-log-violations.html"
+    },
+    {
+      "title": "Cargo Securement FMCSA Rules",
+      "anchorSlug": "cargo-securement-fmcsa-rules",
+      "categorySlug": null,
+      "status": "unassigned",
+      "standaloneReason": null,
+      "legacyUrl": "help/cargo-securement-fmcsa-rules.html"
+    },
+    {
+      "title": "Tire Blowout Product Liability",
+      "anchorSlug": "tire-blowout-product-liability",
+      "categorySlug": "care-and-maintenance",
+      "status": "assigned",
+      "standaloneReason": null,
+      "legacyUrl": "help/tire-blowout-product-liability.html"
+    },
+    {
+      "title": "Brake Failure Inspection Records",
+      "anchorSlug": "brake-failure-inspection-records",
+      "categorySlug": "care-and-maintenance",
+      "status": "assigned",
+      "standaloneReason": null,
+      "legacyUrl": "help/brake-failure-inspection-records.html"
+    },
+    {
+      "title": "Dispatcher Pressure Texts",
+      "anchorSlug": "dispatcher-pressure-texts",
+      "categorySlug": null,
+      "status": "unassigned",
+      "standaloneReason": null,
+      "legacyUrl": "help/dispatcher-pressure-texts.html"
+    },
+    {
+      "title": "Jackknife Crash Physics",
+      "anchorSlug": "jackknife-crash-physics",
+      "categorySlug": null,
+      "status": "unassigned",
+      "standaloneReason": null,
+      "legacyUrl": "help/jackknife-crash-physics.html"
+    },
+    {
+      "title": "CSA Safety Score Records",
+      "anchorSlug": "csa-safety-score-records",
+      "categorySlug": null,
+      "status": "unassigned",
+      "standaloneReason": null,
+      "legacyUrl": "help/csa-safety-score-records.html"
+    },
+    {
+      "title": "Amazon DSP Contractor Liability",
+      "anchorSlug": "amazon-dsp-contractor-liability",
+      "categorySlug": null,
+      "status": "unassigned",
+      "standaloneReason": null,
+      "legacyUrl": "help/amazon-dsp-contractor-liability.html"
+    },
+    {
+      "title": "Hazardous Material Spill Claims",
+      "anchorSlug": "hazardous-material-spill-claims",
+      "categorySlug": null,
+      "status": "unassigned",
+      "standaloneReason": null,
+      "legacyUrl": "help/hazardous-material-spill-claims.html"
+    },
+    {
+      "title": "Truck Dashcam/Coach Footage",
+      "anchorSlug": "truck-dashcam-coach-footage",
+      "categorySlug": null,
+      "status": "unassigned",
+      "standaloneReason": null,
+      "legacyUrl": "help/truck-dashcam-coach-footage.html"
+    },
+    {
+      "title": "Broker Negligent Hiring Claims",
+      "anchorSlug": "broker-negligent-hiring-claims",
+      "categorySlug": null,
+      "status": "unassigned",
+      "standaloneReason": null,
+      "legacyUrl": "help/broker-negligent-hiring-claims.html"
+    },
+    {
+      "title": "Wide-Turn Accommodation Limits",
+      "anchorSlug": "wide-turn-accommodation-limits",
+      "categorySlug": null,
+      "status": "unassigned",
+      "standaloneReason": null,
+      "legacyUrl": "help/wide-turn-accommodation-limits.html"
+    },
+    {
+      "title": "CDL License Compliance 2026",
+      "anchorSlug": "cdl-license-compliance-2026",
+      "categorySlug": null,
+      "status": "unassigned",
+      "standaloneReason": null,
+      "legacyUrl": "help/cdl-license-compliance-2026.html"
+    },
+    {
+      "title": "AB98 Truck Routing Plans",
+      "anchorSlug": "ab98-truck-routing-plans",
+      "categorySlug": "planning-and-preparation",
+      "status": "assigned",
+      "standaloneReason": null,
+      "legacyUrl": "help/ab98-truck-routing-plans.html"
+    },
+    {
+      "title": "Move Over Law Expansion",
+      "anchorSlug": "move-over-law-expansion",
+      "categorySlug": null,
+      "status": "unassigned",
+      "standaloneReason": null,
+      "legacyUrl": "help/move-over-law-expansion.html"
+    },
+    {
+      "title": "Rollover Center Gravity Defects",
+      "anchorSlug": "rollover-center-gravity-defects",
+      "categorySlug": null,
+      "status": "unassigned",
+      "standaloneReason": null,
+      "legacyUrl": "help/rollover-center-gravity-defects.html"
+    },
+    {
+      "title": "Texting Ban Federal Enforcement",
+      "anchorSlug": "texting-ban-federal-enforcement",
+      "categorySlug": null,
+      "status": "unassigned",
+      "standaloneReason": null,
+      "legacyUrl": "help/texting-ban-federal-enforcement.html"
+    },
+    {
+      "title": "Spoliation Penalties Data Deletion",
+      "anchorSlug": "spoliation-penalties-data-deletion",
+      "categorySlug": null,
+      "status": "unassigned",
+      "standaloneReason": null,
+      "legacyUrl": "help/spoliation-penalties-data-deletion.html"
+    },
+    {
+      "title": "Punitive Damages Reckless Trucking",
+      "anchorSlug": "punitive-damages-reckless-trucking",
+      "categorySlug": null,
+      "status": "unassigned",
+      "standaloneReason": null,
+      "legacyUrl": "help/punitive-damages-reckless-trucking.html"
+    },
+    {
+      "title": "Free Truck Accident Evaluation",
+      "anchorSlug": "free-truck-accident-evaluation",
+      "categorySlug": null,
+      "status": "unassigned",
+      "standaloneReason": null,
+      "legacyUrl": "help/free-truck-accident-evaluation.html"
+    },
+    {
+      "title": "California 2-Year Injury Statute",
+      "anchorSlug": "california-2-year-injury-statute",
+      "categorySlug": null,
+      "status": "unassigned",
+      "standaloneReason": null,
+      "legacyUrl": "help/california-2-year-injury-statute.html"
+    },
+    {
+      "title": "Mandatory CHP Collision Report",
+      "anchorSlug": "mandatory-chp-collision-report",
+      "categorySlug": null,
+      "status": "unassigned",
+      "standaloneReason": null,
+      "legacyUrl": "help/mandatory-chp-collision-report.html"
+    },
+    {
+      "title": "DMV SR-1 Form Filing Guide",
+      "anchorSlug": "dmv-sr-1-form-filing-guide",
+      "categorySlug": null,
+      "status": "unassigned",
+      "standaloneReason": null,
+      "legacyUrl": "help/dmv-sr-1-form-filing-guide.html"
+    },
+    {
+      "title": "Rear-End Presumption of Fault",
+      "anchorSlug": "rear-end-presumption-of-fault",
+      "categorySlug": null,
+      "status": "unassigned",
+      "standaloneReason": null,
+      "legacyUrl": "help/rear-end-presumption-of-fault.html"
+    },
+    {
+      "title": "Delayed Injury Documentation",
+      "anchorSlug": "delayed-injury-documentation",
+      "categorySlug": null,
+      "status": "unassigned",
+      "standaloneReason": null,
+      "legacyUrl": "help/delayed-injury-documentation.html"
+    },
+    {
+      "title": "Never Give Recorded Statements",
+      "anchorSlug": "never-give-recorded-statements",
+      "categorySlug": null,
+      "status": "unassigned",
+      "standaloneReason": null,
+      "legacyUrl": "help/never-give-recorded-statements.html"
+    },
+    {
+      "title": "Low-Impact Crash Injury Proof",
+      "anchorSlug": "low-impact-crash-injury-proof",
+      "categorySlug": null,
+      "status": "unassigned",
+      "standaloneReason": null,
+      "legacyUrl": "help/low-impact-crash-injury-proof.html"
+    },
+    {
+      "title": "Medical Payment Coverage Risks",
+      "anchorSlug": "medical-payment-coverage-risks",
+      "categorySlug": "pricing-and-estimates",
+      "status": "assigned",
+      "standaloneReason": null,
+      "legacyUrl": "help/medical-payment-coverage-risks.html"
+    },
+    {
+      "title": "Police Opinion Inadmissible",
+      "anchorSlug": "police-opinion-inadmissible",
+      "categorySlug": null,
+      "status": "unassigned",
+      "standaloneReason": null,
+      "legacyUrl": "help/police-opinion-inadmissible.html"
+    },
+    {
+      "title": "Dashcam Footage Preservation",
+      "anchorSlug": "dashcam-footage-preservation",
+      "categorySlug": null,
+      "status": "unassigned",
+      "standaloneReason": null,
+      "legacyUrl": "help/dashcam-footage-preservation.html"
+    },
+    {
+      "title": "Seatbelt Non-Use Limits",
+      "anchorSlug": "seatbelt-non-use-limits",
+      "categorySlug": null,
+      "status": "unassigned",
+      "standaloneReason": null,
+      "legacyUrl": "help/seatbelt-non-use-limits.html"
+    },
+    {
+      "title": "Intersection Yellow Light Rules",
+      "anchorSlug": "intersection-yellow-light-rules",
+      "categorySlug": "planning-and-preparation",
+      "status": "assigned",
+      "standaloneReason": null,
+      "legacyUrl": "help/intersection-yellow-light-rules.html"
+    },
+    {
+      "title": "Right-on-Red Complete Stop",
+      "anchorSlug": "right-on-red-complete-stop",
+      "categorySlug": null,
+      "status": "unassigned",
+      "standaloneReason": null,
+      "legacyUrl": "help/right-on-red-complete-stop.html"
+    },
+    {
+      "title": "U-Turn Yield Requirements",
+      "anchorSlug": "u-turn-yield-requirements",
+      "categorySlug": null,
+      "status": "unassigned",
+      "standaloneReason": null,
+      "legacyUrl": "help/u-turn-yield-requirements.html"
+    },
+    {
+      "title": "Freeway Merging Zipper Rule",
+      "anchorSlug": "freeway-merging-zipper-rule",
+      "categorySlug": null,
+      "status": "unassigned",
+      "standaloneReason": null,
+      "legacyUrl": "help/freeway-merging-zipper-rule.html"
+    },
+    {
+      "title": "Carpool Lane Violation Fault",
+      "anchorSlug": "carpool-lane-violation-fault",
+      "categorySlug": null,
+      "status": "unassigned",
+      "standaloneReason": null,
+      "legacyUrl": "help/carpool-lane-violation-fault.html"
+    },
+    {
+      "title": "Hit-and-Run Uninsured Claims",
+      "anchorSlug": "hit-and-run-uninsured-claims",
+      "categorySlug": null,
+      "status": "unassigned",
+      "standaloneReason": null,
+      "legacyUrl": "help/hit-and-run-uninsured-claims.html"
+    },
+    {
+      "title": "Parking Lot Negligence Same",
+      "anchorSlug": "parking-lot-negligence-same",
+      "categorySlug": "care-and-maintenance",
+      "status": "assigned",
+      "standaloneReason": null,
+      "legacyUrl": "help/parking-lot-negligence-same.html"
+    },
+    {
+      "title": "Gap Insurance Denial Defense",
+      "anchorSlug": "gap-insurance-denial-defense",
+      "categorySlug": "pricing-and-estimates",
+      "status": "assigned",
+      "standaloneReason": null,
+      "legacyUrl": "help/gap-insurance-denial-defense.html"
+    },
+    {
+      "title": "Pre-Existing Condition Aggravation",
+      "anchorSlug": "pre-existing-condition-aggravation",
+      "categorySlug": null,
+      "status": "unassigned",
+      "standaloneReason": null,
+      "legacyUrl": "help/pre-existing-condition-aggravation.html"
+    },
+    {
+      "title": "Chiropractic Bill Reductions",
+      "anchorSlug": "chiropractic-bill-reductions",
+      "categorySlug": null,
+      "status": "unassigned",
+      "standaloneReason": null,
+      "legacyUrl": "help/chiropractic-bill-reductions.html"
+    },
+    {
+      "title": "Traffic Light Controller Data",
+      "anchorSlug": "traffic-light-controller-data",
+      "categorySlug": "local-service-guidance",
+      "status": "assigned",
+      "standaloneReason": null,
+      "legacyUrl": "help/traffic-light-controller-data.html"
+    },
+    {
+      "title": "EMS Lights/Sirens Proof",
+      "anchorSlug": "ems-lights-sirens-proof",
+      "categorySlug": null,
+      "status": "unassigned",
+      "standaloneReason": null,
+      "legacyUrl": "help/ems-lights-sirens-proof.html"
+    },
+    {
+      "title": "Per Diem Pain Calculation",
+      "anchorSlug": "per-diem-pain-calculation",
+      "categorySlug": null,
+      "status": "unassigned",
+      "standaloneReason": null,
+      "legacyUrl": "help/per-diem-pain-calculation.html"
+    },
+    {
+      "title": "Life Care Planner Future Costs",
+      "anchorSlug": "life-care-planner-future-costs",
+      "categorySlug": "pricing-and-estimates",
+      "status": "assigned",
+      "standaloneReason": null,
+      "legacyUrl": "help/life-care-planner-future-costs.html"
+    },
+    {
+      "title": "Vocational Expert Earnings Loss",
+      "anchorSlug": "vocational-expert-earnings-loss",
+      "categorySlug": "local-service-guidance",
+      "status": "assigned",
+      "standaloneReason": null,
+      "legacyUrl": "help/vocational-expert-earnings-loss.html"
+    },
+    {
+      "title": "Economist Household Services",
+      "anchorSlug": "economist-household-services",
+      "categorySlug": "services-and-process",
+      "status": "assigned",
+      "standaloneReason": null,
+      "legacyUrl": "help/economist-household-services.html"
+    },
+    {
+      "title": "Loss of Consortium Spouse Claim",
+      "anchorSlug": "loss-of-consortium-spouse-claim",
+      "categorySlug": null,
+      "status": "unassigned",
+      "standaloneReason": null,
+      "legacyUrl": "help/loss-of-consortium-spouse-claim.html"
+    },
+    {
+      "title": "Multi-Car Fault Allocation",
+      "anchorSlug": "multi-car-fault-allocation",
+      "categorySlug": null,
+      "status": "unassigned",
+      "standaloneReason": null,
+      "legacyUrl": "help/multi-car-fault-allocation.html"
+    },
+    {
+      "title": "Weather Official Records Only",
+      "anchorSlug": "weather-official-records-only",
+      "categorySlug": null,
+      "status": "unassigned",
+      "standaloneReason": null,
+      "legacyUrl": "help/weather-official-records-only.html"
+    },
+    {
+      "title": "Drunk Driver Punitive Damages",
+      "anchorSlug": "drunk-driver-punitive-damages",
+      "categorySlug": null,
+      "status": "unassigned",
+      "standaloneReason": null,
+      "legacyUrl": "help/drunk-driver-punitive-damages.html"
+    },
+    {
+      "title": "Rideshare Uber/Lyft Layers",
+      "anchorSlug": "rideshare-uber-lyft-layers",
+      "categorySlug": null,
+      "status": "unassigned",
+      "standaloneReason": null,
+      "legacyUrl": "help/rideshare-uber-lyft-layers.html"
+    },
+    {
+      "title": "Texting Phone Record Subpoena",
+      "anchorSlug": "texting-phone-record-subpoena",
+      "categorySlug": null,
+      "status": "unassigned",
+      "standaloneReason": null,
+      "legacyUrl": "help/texting-phone-record-subpoena.html"
+    },
+    {
+      "title": "Workers Comp + Third Party",
+      "anchorSlug": "workers-comp-third-party",
+      "categorySlug": null,
+      "status": "unassigned",
+      "standaloneReason": null,
+      "legacyUrl": "help/workers-comp-third-party.html"
+    },
+    {
+      "title": "Surveillance Camera Defenses",
+      "anchorSlug": "surveillance-camera-defenses",
+      "categorySlug": null,
+      "status": "unassigned",
+      "standaloneReason": null,
+      "legacyUrl": "help/surveillance-camera-defenses.html"
+    },
+    {
+      "title": "Social Media Privacy Settings",
+      "anchorSlug": "social-media-privacy-settings",
+      "categorySlug": null,
+      "status": "unassigned",
+      "standaloneReason": null,
+      "legacyUrl": "help/social-media-privacy-settings.html"
+    },
+    {
+      "title": "Prescription Patterns Evidence",
+      "anchorSlug": "prescription-patterns-evidence",
+      "categorySlug": null,
+      "status": "unassigned",
+      "standaloneReason": null,
+      "legacyUrl": "help/prescription-patterns-evidence.html"
+    },
+    {
+      "title": "MRI Arthrograms for Shoulders",
+      "anchorSlug": "mri-arthrograms-for-shoulders",
+      "categorySlug": null,
+      "status": "unassigned",
+      "standaloneReason": null,
+      "legacyUrl": "help/mri-arthrograms-for-shoulders.html"
+    },
+    {
+      "title": "Nerve Conduction EMG Studies",
+      "anchorSlug": "nerve-conduction-emg-studies",
+      "categorySlug": null,
+      "status": "unassigned",
+      "standaloneReason": null,
+      "legacyUrl": "help/nerve-conduction-emg-studies.html"
+    },
+    {
+      "title": "Herniated Disc Surgery Proof",
+      "anchorSlug": "herniated-disc-surgery-proof",
+      "categorySlug": null,
+      "status": "unassigned",
+      "standaloneReason": null,
+      "legacyUrl": "help/herniated-disc-surgery-proof.html"
+    },
+    {
+      "title": "Concussion Without LOC Proof",
+      "anchorSlug": "concussion-without-loc-proof",
+      "categorySlug": null,
+      "status": "unassigned",
+      "standaloneReason": null,
+      "legacyUrl": "help/concussion-without-loc-proof.html"
+    },
+    {
+      "title": "Cortisone Injection Bills",
+      "anchorSlug": "cortisone-injection-bills",
+      "categorySlug": null,
+      "status": "unassigned",
+      "standaloneReason": null,
+      "legacyUrl": "help/cortisone-injection-bills.html"
+    },
+    {
+      "title": "Home Health Aide Post-Discharge",
+      "anchorSlug": "home-health-aide-post-discharge",
+      "categorySlug": null,
+      "status": "unassigned",
+      "standaloneReason": null,
+      "legacyUrl": "help/home-health-aide-post-discharge.html"
+    },
+    {
+      "title": "IRS Mileage to Medical Visits",
+      "anchorSlug": "irs-mileage-to-medical-visits",
+      "categorySlug": null,
+      "status": "unassigned",
+      "standaloneReason": null,
+      "legacyUrl": "help/irs-mileage-to-medical-visits.html"
+    },
+    {
+      "title": "Childcare Costs During Recovery",
+      "anchorSlug": "childcare-costs-during-recovery",
+      "categorySlug": "pricing-and-estimates",
+      "status": "assigned",
+      "standaloneReason": null,
+      "legacyUrl": "help/childcare-costs-during-recovery.html"
+    },
+    {
+      "title": "Moving Expenses Disability",
+      "anchorSlug": "moving-expenses-disability",
+      "categorySlug": null,
+      "status": "unassigned",
+      "standaloneReason": null,
+      "legacyUrl": "help/moving-expenses-disability.html"
+    },
+    {
+      "title": "Gym Exercise Strengthens Case",
+      "anchorSlug": "gym-exercise-strengthens-case",
+      "categorySlug": null,
+      "status": "unassigned",
+      "standaloneReason": null,
+      "legacyUrl": "help/gym-exercise-strengthens-case.html"
+    },
+    {
+      "title": "Accident Reconstruction Experts",
+      "anchorSlug": "accident-reconstruction-experts",
+      "categorySlug": null,
+      "status": "unassigned",
+      "standaloneReason": null,
+      "legacyUrl": "help/accident-reconstruction-experts.html"
+    },
+    {
+      "title": "Free 24/7 Car Crash Evaluation",
+      "anchorSlug": "free-24-7-car-crash-evaluation",
+      "categorySlug": null,
+      "status": "unassigned",
+      "standaloneReason": null,
+      "legacyUrl": "help/free-24-7-car-crash-evaluation.html"
+    }
+  ],
+  "migrations": [],
+  "sitemapInclude": [
+    "https://mariciclawfirm.aiovisibility.net/articles.html",
+    "https://mariciclawfirm.aiovisibility.net/articles/getting-started.html",
+    "https://mariciclawfirm.aiovisibility.net/articles/services-and-process.html",
+    "https://mariciclawfirm.aiovisibility.net/articles/planning-and-preparation.html",
+    "https://mariciclawfirm.aiovisibility.net/articles/pricing-and-estimates.html",
+    "https://mariciclawfirm.aiovisibility.net/articles/local-service-guidance.html",
+    "https://mariciclawfirm.aiovisibility.net/articles/care-and-maintenance.html"
+  ],
+  "sitemapRemove": []
+}
